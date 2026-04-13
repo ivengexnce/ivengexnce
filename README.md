@@ -1,268 +1,230 @@
+<!--
+████████████████████████████████████████████████████████████████
+█                                                              █
+█          github.com/ivengexnce — README.md                  █
+█          If you're reading source, you're my kind of person  █
+█                                                              █
+████████████████████████████████████████████████████████████████
+-->
+
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Meet%20Maru&fontSize=80&fontColor=00d4ff&fontAlignY=38&desc=AI%20Builder%20%C2%B7%20ML%20Explorer%20%C2%B7%20Web%20Developer&descAlignY=60&descColor=7f8c9a&animation=fadeIn" />
+```
+█▀▄▀█ █▀▀ █▀▀ ▀█▀   █▀▄▀█ ▄▀█ █▀█ █░█
+█░▀░█ ██▄ ██▄ ░█░   █░▀░█ █▀█ █▀▄ █▄█
+```
 
-<!-- TYPING SVG -->
-<a href="https://github.com/ivengexnce">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=🐉+Vice+President+%40+CSI+VIVA;🤖+Building+AI+Systems+that+Matter;🚀+Shipping+Real+Products+Since+2024;⚡+Youngest+VP+in+CSI+History;🌏+Made+in+BHARAT" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+Meet+Maru+%7C+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;%24+cat+skills.txt;%3E+AI+Builder+%7C+ML+Explorer+%7C+Web+Developer;%24+./status.sh;%3E+Building+things+that+matter.+Shipping.+Repeating." />
+
+</div>
+
+---
+
+```bash
+$ cat /etc/meet.conf
+```
+
+```ini
+[identity]
+name         = Meet Maru
+class        = AI Systems Builder
+base         = Mumbai, India  🇮🇳
+affiliation  = VIVA Institute of Technology (CSE · AI & ML · 2024–2028)
+role         = Vice President @ CSI — youngest in history
+cgpa         = 8.64  # and climbing
+
+[philosophy]
+mode         = ship first, perfect later
+belief       = code is leverage · design is intent · leadership is service
+fuel         = curiosity + conviction + caffeine
+
+[status]
+building     = AI Agents & Multimodal Systems
+open_to      = Internships · Collabs · Ambitious problems
+```
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                  [ CHARACTER SHEET ]                         ║
+║                                                              ║
+║  🐉  MEET MARU                           CLASS: DRAGON DEV  ║
+║  ─────────────────────────────────────────────────────────  ║
+║  HP   ████████████████████  100/100  (never tired)          ║
+║  STR  ██████████████████░░   92/100  (ships in prod)        ║
+║  INT  ████████████████░░░░   82/100  (ML + systems)         ║
+║  CHA  ████████████████████   99/100  (keynote speaker)      ║
+║  LDR  ████████████████████  100/100  (VP, 100+ students)    ║
+║  ─────────────────────────────────────────────────────────  ║
+║  XP   ████████████░░░░░░░░   3 shipped products             ║
+║  LVL  Sophomore  →  [##########] → Senior                   ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## `> ls ./stack`
+
+<div align="center">
+
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Backend & DB** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **AI / ML** | ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure CV](https://img.shields.io/badge/Azure_CV-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Llama](https://img.shields.io/badge/Llama_2_%26_3-FF6B35?style=flat-square&logo=meta&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **Systems** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![DeepFace](https://img.shields.io/badge/DeepFace-FF4B4B?style=flat-square&logo=python&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white) |
+
+</div>
+
+---
+
+## `> git log --oneline --all  # what I've shipped`
+
+```
+🌌  OrbitX + MAitri AI    ·  Space platform + real-time emotion AI (9 Indian languages)
+♻️  C-Thriftier           ·  Sustainable fashion p2p swap platform
+🤖  Tic-Tac-Toe AI        ·  Unbeatable Minimax opponent in Python
+🎮  TechChase Unity Game  ·  Live campus event game, 50+ players
+🚧  [REDACTED]            ·  In progress · ETA: soon
+🚧  [REDACTED]            ·  In progress · ETA: soon
+```
+
+<details>
+<summary><code>$ cat orbitx.md  # expand for details</code></summary>
 
 <br/>
 
-<!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-00d4ff?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-ff6b6b?style=for-the-badge&logo=google-maps&logoColor=white" />
-<img src="https://img.shields.io/badge/CGPA-8.64-ffd700?style=for-the-badge&logo=academia&logoColor=black" />
-<img src="https://komarev.com/ghpvc/?username=ivengexnce&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+**[OrbitX + MAitri AI](https://github.com/ivengexnce/Space-Explorer-AI-Wellbeing)** — SIH Problem Statement
+
+Space exploration platform fused with a real-time AI emotion wellbeing companion.
+Detects facial emotions via webcam → responds in **9 Indian languages** via Gemini AI.
+
+`Python` `Flask` `DeepFace` `Gemini AI` `PHP` `MySQL` `WebSocket` · Open Source · Made in BHARAT 🇮🇳
+
+→ [Live v1](https://orbitx-maitri-ai-v1.netlify.app) · [Live v2](http://orbitx.infinityfreeapp.com/) · [Source](https://github.com/ivengexnce/Space-Explorer-AI-Wellbeing)
+
+</details>
+
+<details>
+<summary><code>$ cat c-thriftier.md</code></summary>
+
+<br/>
+
+**[C-Thriftier](https://github.com/ivengexnce/C-Thriftier)** — Sustainable Fashion Platform
+
+Peer-to-peer pre-owned clothing swaps. Responsive UI, full auth system, circular economy mission.
+
+`HTML5` `CSS3` `JavaScript`
+
+→ [Live](https://ivengexnce.github.io/C-Thriftier/) · [Source](https://github.com/ivengexnce/C-Thriftier)
+
+</details>
+
+<details>
+<summary><code>$ cat tictactoe-ai.md</code></summary>
+
+<br/>
+
+**[Tic-Tac-Toe AI](https://github.com/ivengexnce/TicTacToe-Python)** — Classical Game AI
+
+Unbeatable opponent using the Minimax algorithm. Clean Tkinter GUI, optimal play logic.
+
+`Python` `Tkinter` `Minimax`
+
+→ [Source](https://github.com/ivengexnce/TicTacToe-Python)
+
+</details>
+
+---
+
+## `> top  # live metrics`
+
+<div align="center">
+
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
+<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=ff6b6b&currStreakLabel=00d4ff" />
+
+<img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
 ---
 
-## 🐉 Who I Am
+## `> ./trophies.sh`
 
-```python
-class MeetMaru:
-    def __init__(self):
-        self.name        = "Meet Maru"
-        self.role        = "AI Builder · ML Explorer · Web Developer"
-        self.org         = "Vice President, CSI @ VIVA Institute of Technology"
-        self.location    = "Mumbai, India 🇮🇳"
-        self.cgpa        = 8.64  # Semester III — trending ↑
-        self.projects    = ["OrbitX + MAitri AI", "C-Thriftier", "Tic-Tac-Toe AI"]
-        self.certs       = 5
-        self.currently   = "Building AI Agents & Multimodal Systems"
-        self.superpower  = "Technical depth × Creative vision × Operational leadership"
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ivengexnce&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
+</div>
 
-    def quote(self):
-        return "The best engineers don't wait for permission — they build the future."
+---
+
+## `> history | grep leadership`
+
+```
+[2025-09]  Elected VP · CSI VIVA · 100+ student body · youngest in history
+[2025-00]  Event Head · TechChase 2k25 · 500+ attendees · 12-volunteer team
+[2025-00]  Keynote Speaker · AI for Engineers, Faculty & Industry
+[2019-22]  2× Class Representative · R.C. Patel High School
 ```
 
-> 🎯 Second-year **CSE (AI & ML)** student who has already shipped **production systems**, architected **multimodal AI pipelines**, led **500+ attendee events**, and mentored entire engineering cohorts — all before completing 3rd semester.
+---
+
+## `> cat certs.json`
+
+```json
+{
+  "certifications": [
+    { "title": "Prompt Engineering with Llama 2 & 3",        "issuer": "edQuest",           "id": "EDQ-CODING-YOUIPYON" },
+    { "title": "Prompt Design in Vertex AI Skill Badge",      "issuer": "Google Cloud",      "verify": "credly.com/badges/42ddd08f" },
+    { "title": "Introduction to Artificial Intelligence",     "issuer": "Simplilearn",       "id": "9024709" },
+    { "title": "SQL to MongoDB's Document Model",             "issuer": "MongoDB University","verify": "credly.com/badges/cd1a56f9" },
+    { "title": "Computer Vision with Azure Cognitive Svcs",   "issuer": "Microsoft/Coursera","verify": "coursera.org/AWBG5UTM50TO" }
+  ]
+}
+```
 
 ---
 
-## 🛠️ Tech Arsenal
+## `> cat achievements.log`
 
-<div align="center">
-
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI / ML Stack
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Azure CV](https://img.shields.io/badge/Azure%20Cognitive%20Services-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama%202%20%26%203-FF6B35?style=for-the-badge&logo=meta&logoColor=white)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-### ⚡ Proficiency Levels
-
-| Skill | Level | Bar |
-|-------|-------|-----|
-| HTML5 / CSS3 | 92% | `████████████████████░░` |
-| Prompt Engineering | 90% | `████████████████████░░` |
-| JavaScript | 75% | `█████████████████░░░░░` |
-| Python | 74% | `████████████████░░░░░░` |
-| MySQL | 72% | `████████████████░░░░░░` |
-| Vertex AI / Gemini | 68% | `███████████████░░░░░░░` |
-| React.js | 40% | `█████████░░░░░░░░░░░░░` |
+```
+[GOLD]   🏐 1st Prize  · Volleyball · Hitashi 2026 @ VIVA
+[SILVER] 🏏 2nd Prize  · Cricket   · JALLOSH 2023 @ SVIS
+[GOLD]   🏏 Winner     · Junior Cricket · R.C. Patel High School 2019
+[RARE]   ⚡ Youngest VP in CSI VIVA history
+[EPIC]   🎤 Keynote Speaker · 100+ engineers, faculty & industry guests
+[EVENT]  📡 Ingenious Tech Fest 2k25 & 2k26 · AI & IoT Explorer
+```
 
 ---
 
-## 🚀 Featured Projects
+## `> ping meet`
 
 <div align="center">
 
-### 🌌 OrbitX + MAitri AI
-**Production AI Platform · SIH Problem Statement**
-
-</div>
-
-> Space exploration platform for students & researchers combined with a real-time AI emotion wellbeing companion. Detects facial emotions via webcam and responds with empathy in **9 Indian languages** using Gemini AI.
-
-**Stack:** `Python` `Flask` `DeepFace` `Gemini AI` `PHP` `MySQL` `WebSocket` `HTML/CSS/JS`
-
-[![Live v1](https://img.shields.io/badge/🔗%20Live%20Preview%20v1-00C7B7?style=for-the-badge)](https://orbitx-maitri-ai-v1.netlify.app)
-[![Live v2](https://img.shields.io/badge/🔗%20Live%20Preview%20v2-FF5733?style=for-the-badge)](http://orbitx.infinityfreeapp.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github)](https://github.com/ivengexnce/Space-Explorer-AI-Wellbeing)
-
----
-
-<div align="center">
-
-### ♻️ C-Thriftier
-**Sustainable Fashion Web Platform**
-
-</div>
-
-> Peer-to-peer pre-owned clothing swap platform promoting the circular economy. Full authentication, responsive UI, and clean functional design.
-
-**Stack:** `HTML5` `CSS3` `JavaScript`
-
-[![Live](https://img.shields.io/badge/🔗%20Live%20Preview-4CAF50?style=for-the-badge)](https://ivengexnce.github.io/C-Thriftier/)
-[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github)](https://github.com/ivengexnce/C-Thriftier)
-
----
-
-<div align="center">
-
-### 🤖 Tic-Tac-Toe AI
-**Python GUI · Classical AI**
-
-</div>
-
-> Unbeatable AI opponent powered by the **Minimax algorithm**. Clean Python GUI with optimal play logic — a deep dive into classical game theory.
-
-**Stack:** `Python` `Tkinter` `Minimax Algorithm`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github)](https://github.com/ivengexnce/TicTacToe-Python)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivengexnce&theme=tokyonight&hide_border=true" />
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ivengexnce.github.io-0d1117?style=for-the-badge&labelColor=00ff88&color=0d1117)](https://ivengexnce.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetmaru149/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivengexnce/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetmaru149@gmail.com)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ivengexnce&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ivengexnce)
-
-</div>
-
----
-
-## 🐉 Leadership & Experience
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🐉 Vice President · CSI VIVA</h3>
-      <p><em>Sep 2025 – Present · Virar, Mumbai</em></p>
-      <ul>
-        <li>Led academic & technical initiatives for <strong>100+ students</strong></li>
-        <li>Managed events, workshops, seminars & coding competitions end-to-end</li>
-        <li>Youngest VP in CSI history — achieved before 2nd year completion</li>
-        <li>Bridged students, faculty & tech industry professionals</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🎤 Event Head & Speaker · TechChase 2k25</h3>
-      <p><em>2025 · VIVA Institute of Technology</em></p>
-      <ul>
-        <li>Conceived & led flagship Human vs AI Battle event</li>
-        <li>Built custom Unity game played live by <strong>50+ participants</strong></li>
-        <li>Delivered keynotes on AI to engineers, faculty & industry guests</li>
-        <li>Coordinated team of <strong>12 volunteers</strong> & full AV/logistics</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎓 Education
-
-**B.E. in Computer Science & Engineering (AI & ML)**
-VIVA Institute of Technology, Virar, Mumbai · 2024–2028
-
-| Semester | CGPA | Status |
-|----------|------|--------|
-| SEM III | **8.64** | 🔥 Trending |
-| SEM II | 8.22 | ↑ |
-| SEM I | 6.5 | Foundation |
-
----
-
-## 📜 Certifications
-
-| Badge | Issuer | Credential |
-|-------|--------|------------|
-| 🦙 Prompt Engineering with Llama 2 & 3 | edQuest | EDQ-CODING-YOUIPYON |
-| ☁️ Prompt Design in Vertex AI | Google Cloud | [Credly ↗](https://www.credly.com/badges/42ddd08f-877b-4dbd-92d0-3059ef70ca92) |
-| 🤖 Introduction to Artificial Intelligence | Simplilearn | 9024709 |
-| 🍃 SQL to MongoDB's Document Model | MongoDB University | [Credly ↗](https://www.credly.com/badges/cd1a56f9-fd8c-4d7a-91ef-101fe377388e) |
-| 👁️ Computer Vision with Azure Cognitive Services | Microsoft / Coursera | [AWBG5UTM50TO ↗](https://www.coursera.org/account/accomplishments/records/AWBG5UTM50TO) |
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏆 | Achievement |
-|----|-------------|
-| 🏐 | **1st Prize** · Volleyball Tournament · Hitashi 2026 @ VIVA |
-| 🏏 | **2nd Prize** · Cricket Tournament · JALLOSH 2023 @ SVIS |
-| 🏏 | **Winner** · Junior Cricket Tournament · R.C. Patel High School 2019 |
-| ⚡ | **Youngest VP** in CSI VIVA history |
-| 🎤 | **Keynote Speaker** · TechChase 2k25 — 100+ audience |
-| 📡 | **Ingenious Tech Fest 2k25 & 2k26** · AI & IoT Explorer |
-| 📢 | **2× Class Representative** (Grade 5 & Grade 10) |
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ivengexnce.github.io-00d4ff?style=for-the-badge)](https://ivengexnce.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-meetmaru149-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetmaru149/)
-[![Instagram](https://img.shields.io/badge/Instagram-@ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivengexnce/)
-[![Gmail](https://img.shields.io/badge/Email-meetmaru149@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetmaru149@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ivengexnce-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivengexnce)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## `> watch -n 86400 snake`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my commits" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -271,10 +233,14 @@ VIVA Institute of Technology, Virar, Mumbai · 2024–2028
 
 <div align="center">
 
-> *"The best engineers don't wait for permission — they build the future before anyone else can imagine it."*
->
-> **🐉 Meet Maru · Mumbai, India · 2025**
+```
+┌──────────────────────────────────────────────────────────────┐
+│  "The best engineers don't wait for permission.              │
+│   They build the future before anyone can imagine it."       │
+│                                          — Meet Maru  🐉     │
+└──────────────────────────────────────────────────────────────┘
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+![visitors](https://komarev.com/ghpvc/?username=ivengexnce&style=flat-square&color=00ff88&label=visitors)
 
 </div>
