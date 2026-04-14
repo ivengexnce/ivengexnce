@@ -30,12 +30,12 @@ name         = Meet Maru
 role         = AI Builder · ML Explorer · Web Developer
 base         = Mumbai, India 🇮🇳
 degree       = B.E. CSE (AI & ML), VIVA Institute of Technology · 2024–2028
-rank         = Vice President @ CSI — youngest in history · 100+ members
+rank         = Vice President @ CSI —  · 10+ members
 
 [stats]
 cgpa         = 8.64   # SEM III, and climbing ↑
 repos        = 6 public repositories
-shipped      = 3 products in production · 2 in progress
+shipped      = 4 products in production · 2 in progress
 certs        = 5 verified badges
 
 [now]
@@ -91,9 +91,9 @@ open_to      = Internships · Collaborations · Ambitious problems
 ### ⬡ Soft Skills
 
 ```
-🎤 Public Speaking      🧩 Problem Solving      🐉 Leadership
-📋 Event Coordination   🗣️  Communication        ⚡ Critical Thinking
-🤝 Team Building        🕐 Time Management       📣 Keynote Delivery
+ Public Speaking   |      Problem Solving     |  Leadership
+Event Coordination  |  Communication      | Critical Thinking
+ Team Building     |    Time Management   |     Keynote Delivery
 ```
 
 ---
@@ -257,51 +257,6 @@ Python  100%  ██████████████████████
 
 ---
 
-## `$ history | grep xp`
-
-```yaml
-2025-09  │  Elected Vice President · CSI VIVA
-         │  Youngest VP in history · 100+ student organization
-         │  Managed events, workshops, seminars, coding competitions
-
-2025     │  Event Head & Speaker · TechChase 2k25
-         │  Human vs AI Battle · 500+ attendees · 12-volunteer team
-         │  Keynote on AI to engineers, faculty & industry guests
-
-2019-22  │  2× Class Representative · R.C. Patel High School
-```
-
----
-
-## `$ cat achievements.log`
-
-```diff
-+ [GOLD]   🏐  1st Prize · Volleyball · Hitashi 2026 @ VIVA
-+ [SILVER] 🏏  2nd Prize · Cricket · JALLOSH 2023 @ SVIS
-+ [GOLD]   🏏  Winner · Junior Cricket · R.C. Patel High School 2019
-! [RARE]   ⚡  Youngest VP in CSI VIVA history
-! [EPIC]   🎤  Keynote Speaker · 100+ engineers, faculty & industry guests
-+ [EVENT]  📡  Ingenious Tech Fest 2k25 & 2k26 · AI & IoT Explorer
-```
-
----
-
-## `$ cat certifications.json`
-
-```jsonc
-{
-  "verified": [
-    { "name": "Prompt Engineering with Llama 2 & 3",       "issuer": "edQuest",           "id": "EDQ-CODING-YOUIPYON" },
-    { "name": "Prompt Design in Vertex AI",                 "issuer": "Google Cloud",      "verify": "credly.com/badges/42ddd08f" },
-    { "name": "Introduction to Artificial Intelligence",    "issuer": "Simplilearn",       "id": "9024709" },
-    { "name": "SQL to MongoDB's Document Model",            "issuer": "MongoDB University","verify": "credly.com/badges/cd1a56f9" },
-    { "name": "Computer Vision with Azure Cognitive Svcs",  "issuer": "Microsoft/Coursera","verify": "coursera.org/AWBG5UTM50TO" }
-  ]
-}
-```
-
----
-
 ## `$ ping meet --all-interfaces`
 
 <div align="center">
@@ -318,6 +273,10 @@ Python  100%  ██████████████████████
 </div>
 
 ---
+<div align="center">
+<p> Whatever the mind of man can <i><u><b>Conceive and Believe</b></u></i>, it can <u><i><b>Achieve</b></i></u>
+</p>
+</div>
 
 <div align="center">
 
