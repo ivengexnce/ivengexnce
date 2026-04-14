@@ -251,7 +251,6 @@ Python  100%  ██████████████████████
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-(https://github.com/ivengexnce/ivengexnce/actions)
 
 
 </div>
