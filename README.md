@@ -251,10 +251,8 @@ Python  100%  ██████████████████████
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-> ✅ **Snake fixed & optimized!** Runs daily + on-demand via [GitHub Actions](https://github.com/ivengexnce/ivengexnce/actions)
-> - ✨ Updated to Node.js 24 compatible actions
-> - 🔄 Auto-refreshes at midnight UTC
-> - 🌓 Works in light & dark modes
+(https://github.com/ivengexnce/ivengexnce/actions)
+
 
 </div>
 
