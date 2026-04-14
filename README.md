@@ -157,7 +157,7 @@ and many more AI Tools with hands-on-experience
 ## `$ cat Message`
 <div align="center">
 
-> “Whatever the mind can <span style="color:#facc15;"><b>conceive and believe</b></span>, it can <span style="color:#38bdf8;" ><b>achieve</b></span> — so <span style="color:#34d399;"><b>take risks</b></span>, <span style="color:#fb7185;"><b>act boldly</b></span>, and turn your decisions into <span style="color:#a78bfa;"><b>success</b></span>.”
+> “Whatever the mind can <span style="color:#facc15;"><b>conceive and believe</b></span>, it can <span style="color:#38bdf8;" ><b>achieve</b></span><br></br> — so <span style="color:#34d399;"><b>take risks</b></span>, <span style="color:#fb7185;"><b>act boldly</b></span>, and turn your decisions into <span style="color:#a78bfa;"><b>success</b></span>.”
 
 <br/>
 
