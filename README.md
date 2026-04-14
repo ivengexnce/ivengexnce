@@ -154,17 +154,12 @@ and many more AI Tools with hands-on-experience
 </div>
 
 ---
-<div style="display:flex; justify-content:center; align-items:center; min-height:100vh; background:linear-gradient(135deg,#0f172a,#1e293b); padding:20px;">
-  <div style="max-width:700px; text-align:center; font-family:Arial, Helvetica, sans-serif; color:#f8fafc; line-height:1.6; font-size:22px; padding:30px; border:2px solid rgba(255,255,255,0.1); border-radius:16px; background:rgba(255,255,255,0.05); backdrop-filter: blur(10px); box-shadow:0 10px 30px rgba(0,0,0,0.4);">
-    
-    <p>
-      <span style="font-style:italic;">
-        “Whatever the mind of man can <b style="color:#facc15;">conceive and believe</b>, it can <b style="color:#38bdf8;">achieve</b> —
-      </span>
-      so take risks, act boldly, and turn your decisions into success.”
-    </p>
+<div align="center">
 
-  </div>
+# Message
+
+> *“Whatever the mind can **conceive and believe**, it can **achieve** — so take risks, act boldly, and turn your decisions into success.”*
+- <i><b>Meet Maru</i></b>
 </div>
 ----
 
