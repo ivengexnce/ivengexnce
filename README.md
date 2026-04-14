@@ -248,10 +248,13 @@ Python  100%  ██████████████████████
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-> ⚠️ **Snake not showing?** Run the [Generate Snake](https://github.com/ivengexnce/ivengexnce/actions) GitHub Action once to generate the SVG output branch.
+> ✅ **Snake fixed & optimized!** Runs daily + on-demand via [GitHub Actions](https://github.com/ivengexnce/ivengexnce/actions)
+> - ✨ Updated to Node.js 24 compatible actions
+> - 🔄 Auto-refreshes at midnight UTC
+> - 🌓 Works in light & dark modes
 
 </div>
 
