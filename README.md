@@ -29,8 +29,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## `$ cat about.conf`
@@ -53,48 +51,71 @@ events_led   = 500+ attendees · 12-volunteer team · TechChase 2k25
 building     = AI Agents · Multimodal Systems · Full-Stack SaaS
 open_to      = Internships · Collaborations · Ambitious problems
 mindset      = ship first, iterate always
-
-[quote]
-text         = "The best engineers don't wait for permission.
-                They build the future before anyone can imagine it."
 ```
 
 ---
 
-## `$ ./skills --display icons`
+## `$ ./skills --verbose`
+
+### ⬡ Core Languages
 
 <div align="center">
 
-### ⬡ Core Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,mysql&perline=6&theme=dark" />
-
-### ⬡ AI · Cloud · Frameworks
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,react,mongodb,azure&perline=6&theme=dark" />
-
-### ⬡ Tools & Ecosystem
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,unity,linux&perline=6&theme=dark" />
+| | Skill | Proficiency | Level |
+|:---:|:---|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=html&theme=dark" width="36" /> | **HTML5** | `92%` | `████████████████████░░` |
+| <img src="https://skillicons.dev/icons?i=css&theme=dark" width="36" /> | **CSS3** | `92%` | `████████████████████░░` |
+| <img src="https://skillicons.dev/icons?i=js&theme=dark" width="36" /> | **JavaScript** | `75%` | `█████████████████░░░░░` |
+| <img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" /> | **Python** | `74%` | `████████████████░░░░░░` |
+| <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="36" /> | **MySQL** | `72%` | `████████████████░░░░░░` |
+| <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="36" /> | **C++** | `50%` | `███████████░░░░░░░░░░░` |
 
 </div>
 
-<br/>
+---
 
-### Proficiency Radar
+### ⬡ AI · Cloud · Frameworks
 
-| Skill | Level | Visual |
-|-------|:-----:|--------|
-| HTML5 / CSS3 | `92%` | `████████████████████░░` |
-| Prompt Engineering | `90%` | `████████████████████░░` |
-| JavaScript | `75%` | `█████████████████░░░░░` |
-| Python | `74%` | `████████████████░░░░░░` |
-| MySQL | `72%` | `████████████████░░░░░░` |
-| Vertex AI / Gemini | `68%` | `███████████████░░░░░░░` |
-| React.js | `40%` | `█████████░░░░░░░░░░░░░` |
+<div align="center">
+
+| | Skill | Proficiency | Level |
+|:---:|:---|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="36" /> | **Prompt Engineering** | `90%` | `████████████████████░░` |
+| <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="36" /> | **Vertex AI / Gemini API** | `68%` | `███████████████░░░░░░░` |
+| <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="36" /> | **Azure Cognitive Services** | `60%` | `█████████████░░░░░░░░░` |
+| <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="36" /> | **Flask** | `65%` | `██████████████░░░░░░░░` |
+| <img src="https://skillicons.dev/icons?i=react&theme=dark" width="36" /> | **React.js** | `40%` | `█████████░░░░░░░░░░░░░` |
+| <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36" /> | **MongoDB** | `55%` | `████████████░░░░░░░░░░` |
+
+</div>
+
+---
+
+### ⬡ Tools & Ecosystem
+
+<div align="center">
+
+| | Skill | | Skill | | Skill |
+|:---:|:---|:---:|:---|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=git&theme=dark" width="32" /> | **Git** | <img src="https://skillicons.dev/icons?i=github&theme=dark" width="32" /> | **GitHub** | <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="32" /> | **Figma / UI Design** |
+| <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="32" /> | **VS Code** | <img src="https://skillicons.dev/icons?i=unity&theme=dark" width="32" /> | **Unity 3D** | <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="32" /> | **Linux** |
+
+</div>
+
+---
+
+### ⬡ Soft Skills
+
+```
+🎤 Public Speaking      🧩 Problem Solving      🐉 Leadership
+📋 Event Coordination   🗣️  Communication        ⚡ Critical Thinking
+🤝 Team Building        🕐 Time Management       🔄 Adaptability
+📊 Decision Making      🎯 Analytical Thinking   📣 Keynote Delivery
+```
 
 ---
 
 ## `$ git log --format="%s" --all`
-
-<div align="center">
 
 ```
 ◉  2026  ──────────────────────────────────────────────────────
@@ -108,12 +129,196 @@ text         = "The best engineers don't wait for permission.
 │
 ├──  ♻️  C-Thriftier                 LIVE ✓    production
 │        Sustainable fashion p2p swap platform
-│        HTML5 · CSS3 · JavaScript
 │
 ◉  2024  ──────────────────────────────────────────────────────
 │
 ├──  🤖  Tic-Tac-Toe AI              SHIPPED ✓  open-source
-│        Unbeatable Minimax opponent in Python
+│        Unbeatable Minimax opponent · Python · Tkinter
+│
+├──  🎮  TechChase Unity Game        DEPLOYED ✓  campus-event
+│        Live game · 50+ players on campus
+│
+◉  NOW   ──────────────────────────────────────────────────────
+│
+├──  🚧  [CLASSIFIED]                IN PROGRESS
+└──  🚧  [CLASSIFIED]                IN PROGRESS
+```
+
+<details>
+<summary>📁 <code>$ cat projects/orbitx.md</code></summary>
+<br/>
+
+**[🌌 OrbitX + MAitri AI](https://github.com/ivengexnce/Space-Explorer-AI-Wellbeing)**
+
+> Space exploration platform for students & researchers fused with a real-time AI emotion wellbeing companion. Detects facial emotions via webcam → responds with empathy in **9 Indian languages** using Gemini AI.
+
+**Stack:** `Python` `Flask` `DeepFace` `Gemini AI` `PHP` `MySQL` `WebSocket` `HTML/CSS/JS`
+
+[![Live v1](https://img.shields.io/badge/Live_Preview_v1-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://orbitx-maitri-ai-v1.netlify.app)
+[![Live v2](https://img.shields.io/badge/Live_Preview_v2-FF5733?style=flat-square)](http://orbitx.infinityfreeapp.com/)
+[![Source](https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github)](https://github.com/ivengexnce/Space-Explorer-AI-Wellbeing)
+
+</details>
+
+<details>
+<summary>📁 <code>$ cat projects/c-thriftier.md</code></summary>
+<br/>
+
+**[♻️ C-Thriftier](https://github.com/ivengexnce/C-Thriftier)**
+
+> Peer-to-peer pre-owned clothing swap platform. Full authentication, responsive UI, and clean functional design promoting the circular economy.
+
+**Stack:** `HTML5` `CSS3` `JavaScript`
+
+[![Live](https://img.shields.io/badge/Live_Preview-4CAF50?style=flat-square&logo=github-pages&logoColor=white)](https://ivengexnce.github.io/C-Thriftier/)
+[![Source](https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github)](https://github.com/ivengexnce/C-Thriftier)
+
+</details>
+
+<details>
+<summary>📁 <code>$ cat projects/tictactoe.md</code></summary>
+<br/>
+
+**[🤖 Tic-Tac-Toe AI](https://github.com/ivengexnce/TicTacToe-Python)**
+
+> Unbeatable AI opponent powered by the Minimax algorithm. Clean Python GUI with optimal play logic — a deep dive into classical game theory.
+
+**Stack:** `Python` `Tkinter` `Minimax Algorithm`
+
+[![Source](https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github)](https://github.com/ivengexnce/TicTacToe-Python)
+
+</details>
+
+---
+
+## `$ top --github`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&border_radius=12" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=6&border_radius=12" />
+
+</div>
+
+---
+
+## `$ ./trophies.sh --theme dark`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ivengexnce&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+---
+
+## `$ cat contribution-graph.svg`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=0d1117&color=00FFB3&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Meet's%20Contribution%20Graph&radius=8)](https://github.com/ivengexnce)
+
+</div>
+
+---
+
+## `$ history | grep xp`
+
+```yaml
+2025-09  │  Elected Vice President · CSI VIVA
+         │  Youngest VP in history · 100+ student organization
+         │  Managed events, workshops, seminars, coding competitions
+
+2025     │  Event Head & Speaker · TechChase 2k25
+         │  Human vs AI Battle · 500+ attendees · 12-volunteer team
+         │  Keynote on AI to engineers, faculty & industry guests
+         │  Built & deployed live Unity game for 50+ participants
+
+2019-22  │  2× Class Representative
+         │  R.C. Patel High School · Grade 5 & Grade 10
+```
+
+---
+
+## `$ cat certifications.json`
+
+```jsonc
+{
+  "verified": [
+    { "name": "Prompt Engineering with Llama 2 & 3",       "issuer": "edQuest",           "id": "EDQ-CODING-YOUIPYON" },
+    { "name": "Prompt Design in Vertex AI",                 "issuer": "Google Cloud",      "verify": "credly.com/badges/42ddd08f" },
+    { "name": "Introduction to Artificial Intelligence",    "issuer": "Simplilearn",       "id": "9024709" },
+    { "name": "SQL to MongoDB's Document Model",            "issuer": "MongoDB University","verify": "credly.com/badges/cd1a56f9" },
+    { "name": "Computer Vision with Azure Cognitive Svcs",  "issuer": "Microsoft/Coursera","verify": "coursera.org/AWBG5UTM50TO" }
+  ]
+}
+```
+
+---
+
+## `$ cat achievements.log`
+
+```diff
++ [GOLD]   🏐  1st Prize · Volleyball · Hitashi 2026 @ VIVA
++ [SILVER] 🏏  2nd Prize · Cricket · JALLOSH 2023 @ SVIS
++ [GOLD]   🏏  Winner · Junior Cricket · R.C. Patel High School 2019
+! [RARE]   ⚡  Youngest VP in CSI VIVA history
+! [EPIC]   🎤  Keynote Speaker · 100+ engineers, faculty & industry guests
++ [EVENT]  📡  Ingenious Tech Fest 2k25 & 2k26 · AI & IoT Explorer
+```
+
+---
+
+## `$ watch snake --eat-contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## `$ ping meet --all-interfaces`
+
+<div align="center">
+
+<a href="https://ivengexnce.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-ivengexnce.github.io-00FFB3?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/meetmaru149/">
+  <img src="https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://www.instagram.com/ivengexnce/">
+  <img src="https://img.shields.io/badge/Instagram-@ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="mailto:meetmaru149@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-meetmaru149-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="tel:+919967545530">
+  <img src="https://img.shields.io/badge/Phone-%2B91_99675_45530-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Build%20%C2%B7%20Learn%20%C2%B7%20Ship%20%C2%B7%20Repeat&fontSize=28&fontColor=aef6ff&fontAlignY=65&animation=twinkling" />
+
+</div>│        Unbeatable Minimax opponent in Python
 │        Python · Tkinter · Minimax Algorithm
 │
 ├──  🎮  TechChase Unity Game        DEPLOYED ✓ campus-event
