@@ -156,12 +156,15 @@ and many more AI Tools with hands-on-experience
 ---
 <div align="center">
 
-# Message
+#  Message
 
 > “Whatever the mind can **conceive and believe**, it can **achieve** — so take risks, act boldly, and turn your decisions into success.”
-<br></br> <i> <b>~ Meet Maru</i></b>
+
+<br/>
+
+<i><b>~ Meet Maru</b></i>
+
 </div>
-----
 
 <div align="center">
 
