@@ -62,19 +62,6 @@ open_to      = Internships · Collaborations · Ambitious problems
 
 </div>
 
-### ⬡ AI · Cloud · Frameworks
-
-<div align="center">
-
-| | Skill | Proficiency | Level |
-|:---:|:---|:---:|:---|
-| <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="36" /> | **Prompt Engineering** | `90%` | `████████████████████░░` |
-| <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="36" /> | **Vertex AI / Gemini API** | `68%` | `███████████████░░░░░░░` |
-| <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="36" /> | **Azure Cognitive Services** | `60%` | `█████████████░░░░░░░░░` |
-| <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="36" /> | **Flask** | `65%` | `██████████████░░░░░░░░` |
-| <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36" /> | **MongoDB** | `55%` | `████████████░░░░░░░░░░` |
-and many more AI Tools with hands-on-experience
-</div>
 
 ### ⬡ Tools & Ecosystem
 
