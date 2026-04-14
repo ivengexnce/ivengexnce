@@ -9,7 +9,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MEET%20MARU&fontSize=90&fontColor=fff&fontAlignY=38&desc=AI%20Builder%20%C2%B7%20ML%20Explorer%20%C2%B7%20Web%20Developer&descAlignY=60&descColor=aef6ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=900&color=00FFB3&center=true&vCenter=true&width=700&height=50&lines=%24+whoami+%E2%86%92+AI+Builder+%7C+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;%24+cat+role.txt+%E2%86%92+VP+%40+CSI+VIVA+%E2%80%94+Youngest+in+History;%24+ls+shipped%2F+%E2%86%92+OrbitX+%7C+C-Thriftier+%7C+TicTacToe+AI;%24+./status.sh+%E2%86%92+Building.+Shipping.+Repeating.+%F0%9F%90%89" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=900&color=00FFB3&center=true&vCenter=true&width=700&height=50&lines=%24+whoami+%E2%86%92+AI+Builder+%7C+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;%24+cat+role.txt+%E2%86%92+VP+%40+CSI+VIVA+%E2%80%94;%24+ls+shipped%2F+%E2%86%92+OrbitX+%7C+C-Thriftier+%7C+TicTacToe+AI;%24+./status.sh+%E2%86%92+Building.+Shipping.+Repeating.+%F0%9F%90%89" alt="Typing SVG" />
 
 <br/>
 
@@ -72,9 +72,8 @@ open_to      = Internships · Collaborations · Ambitious problems
 | <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="36" /> | **Vertex AI / Gemini API** | `68%` | `███████████████░░░░░░░` |
 | <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="36" /> | **Azure Cognitive Services** | `60%` | `█████████████░░░░░░░░░` |
 | <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="36" /> | **Flask** | `65%` | `██████████████░░░░░░░░` |
-| <img src="https://skillicons.dev/icons?i=react&theme=dark" width="36" /> | **React.js** | `40%` | `█████████░░░░░░░░░░░░░` |
 | <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36" /> | **MongoDB** | `55%` | `████████████░░░░░░░░░░` |
-
+and many more AI Tools with hands-on-experience
 </div>
 
 ### ⬡ Tools & Ecosystem
@@ -91,9 +90,9 @@ open_to      = Internships · Collaborations · Ambitious problems
 ### ⬡ Soft Skills
 
 ```
- Public Speaking   |      Problem Solving     |  Leadership
-Event Coordination  |  Communication      | Critical Thinking
- Team Building     |    Time Management   |     Keynote Delivery
+| Public Speaking    |  Problem Solving  |  Leadership | 
+| Event Coordination |  Communication    | Critical Thinking |
+| Team Building      |  Time Management  |     Keynote Delivery |
 ```
 
 ---
@@ -108,124 +107,6 @@ Event Coordination  |  Communication      | Critical Thinking
 <br/><br/>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=6&border_radius=12" />
-
-</div>
-
----
-
-## `$ cloc . --by-lang  # real data · all public repos`
-
-```
-Language       Files    %
-──────────────────────────────────────────────────────
-HTML5          ████████████████████████████   51.2%
-Python         ████████████                   22.4%
-CSS3           ████████████                   21.1%
-JavaScript     ██                              4.3%
-PHP            ▌                               1.0%
-──────────────────────────────────────────────────────
-Repos  6  │  Languages  5  │  Commits  15+  │  Live  3
-```
-
----
-
-## `$ git log --all --stat --pretty=format:"%h | %s | %ad"`
-
----
-
-```
-◉ 2026 ─────────────────────────────────────────────────────────────────
-```
-
-### 🌌 `ivengexnce/Space-Explorer-AI-Wellbeing`
-
-![Status](https://img.shields.io/badge/●%20LIVE-production-00FFB3?style=flat-square&labelColor=0d1117)
-![Commits](https://img.shields.io/github/commit-activity/t/ivengexnce/Space-Explorer-AI-Wellbeing?style=flat-square&color=00d4ff&label=commits&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/ivengexnce/Space-Explorer-AI-Wellbeing?style=flat-square&color=ffd700&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/ivengexnce/Space-Explorer-AI-Wellbeing?style=flat-square&color=58a6ff&labelColor=0d1117)
-![License](https://img.shields.io/github/license/ivengexnce/Space-Explorer-AI-Wellbeing?style=flat-square&color=d2a8ff&labelColor=0d1117)
-
-> Space exploration platform for students & researchers fused with a real-time AI emotion wellbeing companion. Detects facial emotions via webcam → responds with empathy in **9 Indian languages** using Gemini AI. SIH Problem Statement. Open Source. Made in BHARAT 🇮🇳
-
-**Language Breakdown**
-```
-HTML       51.2%  ████████████████████████████
-Python     22.4%  ████████████
-CSS        21.1%  ████████████
-JavaScript  4.3%  ██
-PHP         1.0%  ▌
-```
-
-**Stack** `Python` `Flask` `DeepFace` `Gemini AI` `PHP` `MySQL` `WebSocket` `OpenCV` `HTML/CSS/JS`
-
-[![Live v1](https://img.shields.io/badge/Live_v1-netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117)](https://orbitx-maitri-ai-v1.netlify.app)
-[![Live v2](https://img.shields.io/badge/Live_v2-web-FF5733?style=for-the-badge&labelColor=0d1117)](http://orbitx.infinityfreeapp.com/)
-[![Source](https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/ivengexnce/Space-Explorer-AI-Wellbeing)
-
----
-
-```
-◉ 2025 ─────────────────────────────────────────────────────────────────
-```
-
-### ♻️ `ivengexnce/C-Thriftier`
-
-![Status](https://img.shields.io/badge/●%20LIVE-GitHub%20Pages-58a6ff?style=flat-square&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/ivengexnce/C-Thriftier?style=flat-square&color=ffd700&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/ivengexnce/C-Thriftier?style=flat-square&color=58a6ff&labelColor=0d1117)
-
-> Peer-to-peer pre-owned clothing swap platform promoting the circular economy. Responsive UI, full auth system, clean functional design.
-
-**Language Breakdown**
-```
-HTML       ~60%  ████████████████████████████████
-CSS        ~25%  █████████████
-JavaScript ~15%  ████████
-```
-
-**Stack** `HTML5` `CSS3` `JavaScript`
-
-[![Live](https://img.shields.io/badge/Live_Preview-4CAF50?style=for-the-badge&logo=github-pages&logoColor=white&labelColor=0d1117)](https://ivengexnce.github.io/C-Thriftier/)
-[![Source](https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/ivengexnce/C-Thriftier)
-
----
-
-```
-◉ 2024 ─────────────────────────────────────────────────────────────────
-```
-
-### 🤖 `ivengexnce/TicTacToe-Python`
-
-![Status](https://img.shields.io/badge/SHIPPED-open--source-d2a8ff?style=flat-square&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/ivengexnce/TicTacToe-Python?style=flat-square&color=ffd700&labelColor=0d1117)
-
-> Unbeatable AI opponent via Minimax algorithm. GUI with sound effects (Pygame). Player vs Player + Player vs AI with difficulty levels.
-
-**Language Breakdown**
-```
-Python  100%  ████████████████████████████████████████████████
-```
-
-**Stack** `Python` `Tkinter` `Pygame` `Minimax Algorithm`
-
-[![Source](https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/ivengexnce/TicTacToe-Python)
-
----
-
-```
-◉ NOW ──────────────────────────────────────────────────────────────────
-
-  🚧  [CLASSIFIED]    ········   IN PROGRESS
-  🚧  [CLASSIFIED]    ········   IN PROGRESS
-```
-
----
-
-## `$ ./trophies.sh`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ivengexnce&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
@@ -274,7 +155,8 @@ Python  100%  ██████████████████████
 
 ---
 <div align="center">
-<p> Whatever the mind of man can <i><u><b>Conceive and Believe</b></u></i>, it can <u><i><b>Achieve</b></i></u>
+<p> "Whatever the mind of man can <i><u><b>Conceive and Believe</b></u></i>, it can <u><i><b>Achieve </b></i></u>
+  - so take risks, act boldly, and turn your decision into success..."
 </p>
 </div>
 
