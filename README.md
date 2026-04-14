@@ -1,231 +1,323 @@
 <!--
-████████████████████████████████████████████████████████████████
-█                                                              █
-█          github.com/ivengexnce — README.md                  █
-█          If you're reading source, you're my kind of person  █
-█                                                              █
-████████████████████████████████████████████████████████████████
+  ██████████████████████████████████████████████████████
+  ██  github.com/ivengexnce — README.md               ██
+  ██  If you're reading source, welcome to the lair.  ██
+  ██████████████████████████████████████████████████████
 -->
 
 <div align="center">
 
-```
-█▀▄▀█ █▀▀ █▀▀ ▀█▀   █▀▄▀█ ▄▀█ █▀█ █░█
-█░▀░█ ██▄ ██▄ ░█░   █░▀░█ █▀█ █▀▄ █▄█
-```
+<!-- ANIMATED WAVE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MEET%20MARU&fontSize=90&fontColor=fff&fontAlignY=38&desc=AI%20Builder%20%C2%B7%20ML%20Explorer%20%C2%B7%20Web%20Developer&descAlignY=60&descColor=aef6ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+Meet+Maru+%7C+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;%24+cat+skills.txt;%3E+AI+Builder+%7C+ML+Explorer+%7C+Web+Developer;%24+./status.sh;%3E+Building+things+that+matter.+Shipping.+Repeating." />
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=900&color=00FFB3&center=true&vCenter=true&width=700&height=50&lines=%24+whoami+%E2%86%92+AI+Builder+%7C+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;%24+cat+role.txt+%E2%86%92+VP+%40+CSI+VIVA+%E2%80%94+Youngest+in+History;%24+ls+shipped%2F+%E2%86%92+OrbitX+%7C+C-Thriftier+%7C+TicTacToe+AI;%24+./status.sh+%E2%86%92+Building.+Shipping.+Repeating.+%F0%9F%90%89" alt="Typing SVG" />
+
+<br/>
+
+<!-- LIVE BADGES -->
+<a href="https://ivengexnce.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20Now-00FFB3?style=for-the-badge&labelColor=0d1117" />
+</a>
+<a href="https://www.linkedin.com/in/meetmaru149/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="mailto:meetmaru149@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=ivengexnce&style=for-the-badge&color=00FFB3&label=VISITORS&labelColor=0d1117" />
 
 </div>
 
+<br/>
+
 ---
 
-```bash
-$ cat /etc/meet.conf
-```
+## `$ cat about.conf`
 
 ```ini
 [identity]
 name         = Meet Maru
-class        = AI Systems Builder
-base         = Mumbai, India  🇮🇳
-affiliation  = VIVA Institute of Technology (CSE · AI & ML · 2024–2028)
-role         = Vice President @ CSI — youngest in history
-cgpa         = 8.64  # and climbing
+role         = AI Builder · ML Explorer · Web Developer
+base         = Mumbai, India 🇮🇳
+degree       = B.E. CSE (AI & ML), VIVA Institute of Technology · 2024–2028
+rank         = Vice President @ CSI — youngest in history · 100+ members
 
-[philosophy]
-mode         = ship first, perfect later
-belief       = code is leverage · design is intent · leadership is service
-fuel         = curiosity + conviction + caffeine
+[stats]
+cgpa         = 8.64   # SEM III, and climbing ↑
+shipped      = 3 products in production
+certs        = 5 verified badges
+events_led   = 500+ attendees · 12-volunteer team · TechChase 2k25
 
-[status]
-building     = AI Agents & Multimodal Systems
-open_to      = Internships · Collabs · Ambitious problems
+[now]
+building     = AI Agents · Multimodal Systems · Full-Stack SaaS
+open_to      = Internships · Collaborations · Ambitious problems
+mindset      = ship first, iterate always
+
+[quote]
+text         = "The best engineers don't wait for permission.
+                They build the future before anyone can imagine it."
 ```
 
 ---
+
+## `$ ./skills --display icons`
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                  [ CHARACTER SHEET ]                         ║
-║                                                              ║
-║  🐉  MEET MARU                           CLASS: DRAGON DEV  ║
-║  ─────────────────────────────────────────────────────────  ║
-║  HP   ████████████████████  100/100  (never tired)          ║
-║  STR  ██████████████████░░   92/100  (ships in prod)        ║
-║  INT  ████████████████░░░░   82/100  (ML + systems)         ║
-║  CHA  ████████████████████   99/100  (keynote speaker)      ║
-║  LDR  ████████████████████  100/100  (VP, 100+ students)    ║
-║  ─────────────────────────────────────────────────────────  ║
-║  XP   ████████████░░░░░░░░   3 shipped products             ║
-║  LVL  Sophomore  →  [##########] → Senior                   ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### ⬡ Core Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,mysql&perline=6&theme=dark" />
+
+### ⬡ AI · Cloud · Frameworks
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,react,mongodb,azure&perline=6&theme=dark" />
+
+### ⬡ Tools & Ecosystem
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,unity,linux&perline=6&theme=dark" />
 
 </div>
-
----
-
-## `> ls ./stack`
-
-<div align="center">
-
-| Layer | Technologies |
-|-------|-------------|
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Backend & DB** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **AI / ML** | ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure CV](https://img.shields.io/badge/Azure_CV-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Llama](https://img.shields.io/badge/Llama_2_%26_3-FF6B35?style=flat-square&logo=meta&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-| **Systems** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![DeepFace](https://img.shields.io/badge/DeepFace-FF4B4B?style=flat-square&logo=python&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white) |
-
-</div>
-
----
-
-## `> git log --oneline --all  # what I've shipped`
-
-```
-🌌  OrbitX + MAitri AI    ·  Space platform + real-time emotion AI (9 Indian languages)
-♻️  C-Thriftier           ·  Sustainable fashion p2p swap platform
-🤖  Tic-Tac-Toe AI        ·  Unbeatable Minimax opponent in Python
-🎮  TechChase Unity Game  ·  Live campus event game, 50+ players
-🚧  [REDACTED]            ·  In progress · ETA: soon
-🚧  [REDACTED]            ·  In progress · ETA: soon
-```
-
-<details>
-<summary><code>$ cat orbitx.md  # expand for details</code></summary>
 
 <br/>
 
-**[OrbitX + MAitri AI](https://github.com/ivengexnce/Space-Explorer-AI-Wellbeing)** — SIH Problem Statement
+### Proficiency Radar
 
-Space exploration platform fused with a real-time AI emotion wellbeing companion.
-Detects facial emotions via webcam → responds in **9 Indian languages** via Gemini AI.
+| Skill | Level | Visual |
+|-------|:-----:|--------|
+| HTML5 / CSS3 | `92%` | `████████████████████░░` |
+| Prompt Engineering | `90%` | `████████████████████░░` |
+| JavaScript | `75%` | `█████████████████░░░░░` |
+| Python | `74%` | `████████████████░░░░░░` |
+| MySQL | `72%` | `████████████████░░░░░░` |
+| Vertex AI / Gemini | `68%` | `███████████████░░░░░░░` |
+| React.js | `40%` | `█████████░░░░░░░░░░░░░` |
 
-`Python` `Flask` `DeepFace` `Gemini AI` `PHP` `MySQL` `WebSocket` · Open Source · Made in BHARAT 🇮🇳
+---
 
-→ [Live v1](https://orbitx-maitri-ai-v1.netlify.app) · [Live v2](http://orbitx.infinityfreeapp.com/) · [Source](https://github.com/ivengexnce/Space-Explorer-AI-Wellbeing)
+## `$ git log --format="%s" --all`
+
+<div align="center">
+
+```
+◉  2026  ──────────────────────────────────────────────────────
+│
+├──  🌌  OrbitX + MAitri AI          LIVE ✓    production
+│        Space platform + Emotion AI · 9 Indian Languages
+│        Python · Flask · DeepFace · Gemini AI · PHP · MySQL
+│        ↳ SIH Problem Statement · Open Source · Made in BHARAT
+│
+◉  2025  ──────────────────────────────────────────────────────
+│
+├──  ♻️  C-Thriftier                 LIVE ✓    production
+│        Sustainable fashion p2p swap platform
+│        HTML5 · CSS3 · JavaScript
+│
+◉  2024  ──────────────────────────────────────────────────────
+│
+├──  🤖  Tic-Tac-Toe AI              SHIPPED ✓  open-source
+│        Unbeatable Minimax opponent in Python
+│        Python · Tkinter · Minimax Algorithm
+│
+├──  🎮  TechChase Unity Game        DEPLOYED ✓ campus-event
+│        Live game · 50+ players on campus
+│        Unity · C#
+│
+◉  NOW   ──────────────────────────────────────────────────────
+│
+├──  🚧  [CLASSIFIED]                IN PROGRESS
+└──  🚧  [CLASSIFIED]                IN PROGRESS
+```
+
+</div>
+
+<details>
+<summary>📁 <code>$ cat projects/orbitx.md</code></summary>
+<br/>
+
+**[🌌 OrbitX + MAitri AI](https://github.com/ivengexnce/Space-Explorer-AI-Wellbeing)**
+
+> Space exploration platform for students & researchers fused with a real-time AI emotion wellbeing companion. Detects facial emotions via webcam → responds with empathy in **9 Indian languages** using Gemini AI.
+
+**Stack:** `Python` `Flask` `DeepFace` `Gemini AI` `PHP` `MySQL` `WebSocket` `HTML/CSS/JS`
+
+[![Live v1](https://img.shields.io/badge/Live_Preview_v1-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://orbitx-maitri-ai-v1.netlify.app)
+[![Live v2](https://img.shields.io/badge/Live_Preview_v2-FF5733?style=flat-square)](http://orbitx.infinityfreeapp.com/)
+[![Source](https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github)](https://github.com/ivengexnce/Space-Explorer-AI-Wellbeing)
 
 </details>
 
 <details>
-<summary><code>$ cat c-thriftier.md</code></summary>
-
+<summary>📁 <code>$ cat projects/c-thriftier.md</code></summary>
 <br/>
 
-**[C-Thriftier](https://github.com/ivengexnce/C-Thriftier)** — Sustainable Fashion Platform
+**[♻️ C-Thriftier](https://github.com/ivengexnce/C-Thriftier)**
 
-Peer-to-peer pre-owned clothing swaps. Responsive UI, full auth system, circular economy mission.
+> Peer-to-peer pre-owned clothing swap platform. Full authentication, responsive UI, and clean functional design promoting the circular economy.
 
-`HTML5` `CSS3` `JavaScript`
+**Stack:** `HTML5` `CSS3` `JavaScript`
 
-→ [Live](https://ivengexnce.github.io/C-Thriftier/) · [Source](https://github.com/ivengexnce/C-Thriftier)
+[![Live](https://img.shields.io/badge/Live_Preview-4CAF50?style=flat-square&logo=github-pages&logoColor=white)](https://ivengexnce.github.io/C-Thriftier/)
+[![Source](https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github)](https://github.com/ivengexnce/C-Thriftier)
 
 </details>
 
 <details>
-<summary><code>$ cat tictactoe-ai.md</code></summary>
-
+<summary>📁 <code>$ cat projects/tictactoe.md</code></summary>
 <br/>
 
-**[Tic-Tac-Toe AI](https://github.com/ivengexnce/TicTacToe-Python)** — Classical Game AI
+**[🤖 Tic-Tac-Toe AI](https://github.com/ivengexnce/TicTacToe-Python)**
 
-Unbeatable opponent using the Minimax algorithm. Clean Tkinter GUI, optimal play logic.
+> Unbeatable AI opponent powered by the Minimax algorithm. Clean Python GUI with optimal play logic — a deep dive into classical game theory.
 
-`Python` `Tkinter` `Minimax`
+**Stack:** `Python` `Tkinter` `Minimax Algorithm`
 
-→ [Source](https://github.com/ivengexnce/TicTacToe-Python)
+[![Source](https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github)](https://github.com/ivengexnce/TicTacToe-Python)
 
 </details>
 
 ---
 
-## `> top  # live metrics`
+## `$ top --github`
 
 <div align="center">
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
-<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=ff6b6b&currStreakLabel=00d4ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&border_radius=12" />
 
-<img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=6" />
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=6&border_radius=12" />
 
 </div>
 
 ---
 
-## `> ./trophies.sh`
+## `$ ./trophies.sh --theme dark`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ivengexnce&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ivengexnce&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
 </div>
 
 ---
 
-## `> history | grep leadership`
+## `$ cat contribution-graph.svg`
 
-```
-[2025-09]  Elected VP · CSI VIVA · 100+ student body · youngest in history
-[2025-00]  Event Head · TechChase 2k25 · 500+ attendees · 12-volunteer team
-[2025-00]  Keynote Speaker · AI for Engineers, Faculty & Industry
-[2019-22]  2× Class Representative · R.C. Patel High School
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=0d1117&color=00FFB3&line=00d4ff&point=ffffff&area=true&area_color=00FFB320&hide_border=true&custom_title=Meet's%20Contribution%20Graph&radius=8)](https://github.com/ivengexnce)
+
+</div>
+
+---
+
+## `$ history | grep --highlight xp`
+
+```yaml
+2025-09  │  Elected Vice President · CSI VIVA
+         │  Youngest VP in history · 100+ student organization
+         │  Managed events, workshops, seminars, coding competitions
+
+2025     │  Event Head & Speaker · TechChase 2k25
+         │  Human vs AI Battle · 500+ attendees · 12-volunteer team
+         │  Keynote on AI to engineers, faculty & industry guests
+         │  Built & deployed live Unity game for 50+ participants
+
+2019-22  │  2× Class Representative
+         │  R.C. Patel High School · Grade 5 & Grade 10
 ```
 
 ---
 
-## `> cat certs.json`
+## `$ cat certifications.json`
 
-```json
+```jsonc
 {
-  "certifications": [
-    { "title": "Prompt Engineering with Llama 2 & 3",        "issuer": "edQuest",           "id": "EDQ-CODING-YOUIPYON" },
-    { "title": "Prompt Design in Vertex AI Skill Badge",      "issuer": "Google Cloud",      "verify": "credly.com/badges/42ddd08f" },
-    { "title": "Introduction to Artificial Intelligence",     "issuer": "Simplilearn",       "id": "9024709" },
-    { "title": "SQL to MongoDB's Document Model",             "issuer": "MongoDB University","verify": "credly.com/badges/cd1a56f9" },
-    { "title": "Computer Vision with Azure Cognitive Svcs",   "issuer": "Microsoft/Coursera","verify": "coursera.org/AWBG5UTM50TO" }
+  "verified": [
+    {
+      "name": "Prompt Engineering with Llama 2 & 3",
+      "issuer": "edQuest",
+      "id": "EDQ-CODING-YOUIPYON",
+      "skills": ["LLMs", "Prompt Engineering", "Generative AI"]
+    },
+    {
+      "name": "Prompt Design in Vertex AI",
+      "issuer": "Google Cloud",
+      "verify": "https://www.credly.com/badges/42ddd08f-877b-4dbd-92d0-3059ef70ca92",
+      "skills": ["Vertex AI", "Gemini", "Prompt Engineering"]
+    },
+    {
+      "name": "Introduction to Artificial Intelligence",
+      "issuer": "Simplilearn",
+      "id": "9024709",
+      "skills": ["ML Fundamentals", "AI", "Data-Driven Decisions"]
+    },
+    {
+      "name": "SQL to MongoDB's Document Model",
+      "issuer": "MongoDB University",
+      "verify": "https://www.credly.com/badges/cd1a56f9-fd8c-4d7a-91ef-101fe377388e",
+      "skills": ["NoSQL", "Data Modeling", "DB Architecture"]
+    },
+    {
+      "name": "Computer Vision with Azure Cognitive Services",
+      "issuer": "Microsoft / Coursera",
+      "verify": "https://www.coursera.org/account/accomplishments/records/AWBG5UTM50TO",
+      "skills": ["Azure", "Computer Vision", "Cognitive Services"]
+    }
   ]
 }
 ```
 
 ---
 
-## `> cat achievements.log`
+## `$ cat achievements.log | grep -E "GOLD|RARE|EPIC"`
 
-```
-[GOLD]   🏐 1st Prize  · Volleyball · Hitashi 2026 @ VIVA
-[SILVER] 🏏 2nd Prize  · Cricket   · JALLOSH 2023 @ SVIS
-[GOLD]   🏏 Winner     · Junior Cricket · R.C. Patel High School 2019
-[RARE]   ⚡ Youngest VP in CSI VIVA history
-[EPIC]   🎤 Keynote Speaker · 100+ engineers, faculty & industry guests
-[EVENT]  📡 Ingenious Tech Fest 2k25 & 2k26 · AI & IoT Explorer
+```diff
++ [GOLD]   🏐  1st Prize · Volleyball · Hitashi 2026 @ VIVA
++ [SILVER] 🏏  2nd Prize · Cricket · JALLOSH 2023 @ SVIS
++ [GOLD]   🏏  Winner · Junior Cricket · R.C. Patel High School 2019
+! [RARE]   ⚡  Youngest VP in CSI VIVA history
+! [EPIC]   🎤  Keynote Speaker · 100+ engineers, faculty & industry guests
++ [EVENT]  📡  Ingenious Tech Fest 2k25 & 2k26 · AI & IoT Explorer
 ```
 
 ---
 
-## `> ping meet`
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ivengexnce.github.io-0d1117?style=for-the-badge&labelColor=00ff88&color=0d1117)](https://ivengexnce.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetmaru149/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivengexnce/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetmaru149@gmail.com)
-
-</div>
-
----
-
-## `> watch -n 86400 snake`
+## `$ watch snake --eat-contributions`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my commits" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+</div>
+
+---
+
+## `$ ping meet --all-interfaces`
+
+<div align="center">
+
+<a href="https://ivengexnce.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-ivengexnce.github.io-00FFB3?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/meetmaru149/">
+  <img src="https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://www.instagram.com/ivengexnce/">
+  <img src="https://img.shields.io/badge/Instagram-@ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="mailto:meetmaru149@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-meetmaru149-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="tel:+919967545530">
+  <img src="https://img.shields.io/badge/Phone-%2B91_99675_45530-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" />
+</a>
 
 </div>
 
@@ -233,14 +325,6 @@ Unbeatable opponent using the Minimax algorithm. Clean Tkinter GUI, optimal play
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  "The best engineers don't wait for permission.              │
-│   They build the future before anyone can imagine it."       │
-│                                          — Meet Maru  🐉     │
-└──────────────────────────────────────────────────────────────┘
-```
-
-![visitors](https://komarev.com/ghpvc/?username=ivengexnce&style=flat-square&color=00ff88&label=visitors)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Build%20%C2%B7%20Learn%20%C2%B7%20Ship%20%C2%B7%20Repeat&fontSize=28&fontColor=aef6ff&fontAlignY=65&animation=twinkling" />
 
 </div>
