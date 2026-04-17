@@ -147,7 +147,8 @@ open_to      = Internships · Collaborations · Ambitious problems
 > “Whatever the mind can <span style="color:#facc15;"><b>conceive and believe</b></span>, it can <span style="color:#38bdf8;" ><b>achieve</b></span> — so <span style="color:#34d399;"><b>take risks</b></span>, <span style="color:#fb7185;"><b>act boldly</b></span>, and turn your decisions into <span style="color:#a78bfa;"><b>success</b></span>.”
 
 <br/>
-
+</div>
+<div align="center">
 <i><b style="color:#94a3b8;">~ Meet Maru</b></i>
 
 </div>
