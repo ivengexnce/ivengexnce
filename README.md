@@ -148,7 +148,7 @@ open_to      = Internships · Collaborations · Ambitious problems
 
 <br/>
 </div>
-<div align="center">
+<div align="left">
 <i><b style="color:#94a3b8;">~ Meet Maru</b></i>
 
 </div>
