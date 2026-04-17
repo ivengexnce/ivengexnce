@@ -144,7 +144,7 @@ open_to      = Internships · Collaborations · Ambitious problems
 ## `$ cat Message`
 <div align="center">
 
-<p>“Whatever the mind can <b style="color: #006400;" >Conceive</b> and <b style="color: #4169E1">Believe</b>, it can <b style="color:#FFA500;">Achieve</b> — so <b style="color:#FF0000;">take risks</b>, <b style="color:#94a3b8;">act Boldly</b>, and turn your decisions into <b style="color: #006400;">Success</b>.”
+> <p>“Whatever the mind can <b style="color: #006400;" >Conceive</b> and <b style="color: #4169E1">Believe</b>, it can <b style="color:#FFA500;">Achieve</b> — so <b style="color:#FF0000;">take risks</b>, <b style="color:#94a3b8;">act Boldly</b>, and turn your decisions into <b style="color: #006400;">Success</b>.”
 </p>
 <br/>
 </div>
