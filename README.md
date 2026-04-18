@@ -27,7 +27,7 @@
 ```ini
 [identity]
 name         = Meet Maru
-role         = AI Builder · ML Explorer · Web Developer
+role         = AI Builder · ML Explorer · Python Developer · Web Developer
 base         = Mumbai, India 🇮🇳
 degree       = B.E. CSE (AI & ML), VIVA Institute of Technology · 2024–2028
 rank         = Vice President @ CSI —  · 10+ members
