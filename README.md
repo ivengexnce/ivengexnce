@@ -31,12 +31,7 @@ role         = AI Builder · ML Explorer · Web Developer
 base         = Mumbai, India 🇮🇳
 degree       = B.E. CSE (AI & ML), VIVA Institute of Technology · 2024–2028
 rank         = Vice President @ CSI —  · 10+ members
-
-[stats]
 cgpa         = 8.64   # SEM III, and climbing ↑
-repos        = 6 public repositories
-shipped      = 4 products in production · 2 in progress
-certs        = 5 verified badges
 
 [now]
 building     = AI Agents · Multimodal Systems · Full-Stack SaaS
