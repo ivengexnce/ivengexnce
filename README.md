@@ -1,17 +1,17 @@
-<!-- SEO Keywords: Meet Maru | AI Developer Mumbai | ML Engineer India | Python Developer | Web Developer Mumbai | AI Builder VIVA Institute | CSE AI ML Student | GitHub ivengexnce -->
+<!-- SEO: Meet Maru | AI Developer Mumbai | ML Engineer India | Python Developer | Web Developer | VIVA Institute CSE AI ML | GitHub ivengexnce | AI Agents | Multimodal Systems | Full Stack SaaS | Open to Internships | Flask | OpenCV | Minimax | SIH -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Meet%20Maru&fontSize=72&fontColor=fff&fontAlignY=38&desc=AI%20Builder%20%C2%B7%20ML%20Explorer%20%C2%B7%20Python%20%26%20Web%20Developer%20%C2%B7%20Mumbai%2C%20India&descAlignY=60&descColor=aef6ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Meet%20Maru&fontSize=72&fontColor=fff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%C2%B7%20Python%20%26%20Web%20Developer%20%C2%B7%20Mumbai%2C%20India&descAlignY=60&descColor=aef6ff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&height=45&lines=AI+%26+ML+Engineer+%7C+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;B.E.+CSE+(AI+%26+ML)+%40+VIVA+Institute+of+Technology;Vice+President+%40+CSI+VIVA+%7C+10%2B+Members;Building+AI+Agents+%7C+Multimodal+Systems+%7C+SaaS;Open+to+Internships+%26+Collaborations" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=00FFB3&center=true&vCenter=true&width=720&height=45&lines=AI+%26+ML+Engineer+%7C+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;B.E.+CSE+(AI+%26+ML)+%40+VIVA+Institute+of+Technology;Vice+President+%40+CSI+VIVA+%7C+10%2B+Members;SIH+Finalist+%7C+Space+Explorer+AI+%7C+DevLens+%7C+SentiFlow;Open+to+Internships+%26+Collaborations" alt="Meet Maru — AI Builder, ML Explorer, Web Developer, Mumbai" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-meetmaru.netlify.app-00FFB3?style=for-the-badge&labelColor=0d1117)](https://meetmaru.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ivengexnce.github.io%2Fportfolio-00FFB3?style=for-the-badge&labelColor=0d1117)](https://ivengexnce.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/meetmaru149/)
 [![Gmail](https://img.shields.io/badge/Gmail-meetmaru149@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:meetmaru149@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/ivengexnce/)
+[![Instagram](https://img.shields.io/badge/Instagram-ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/ivengexnce/)
 [![Profile Views](https://komarev.com/ghpvc/?username=ivengexnce&style=for-the-badge&color=00FFB3&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/ivengexnce)
 
 </div>
@@ -20,34 +20,57 @@
 
 ## 👋 About Me
 
-I'm **Meet Maru**, an AI/ML Engineer and Full-Stack Web Developer from **Mumbai, India**, currently pursuing a **B.E. in Computer Science Engineering (AI & ML)** at VIVA Institute of Technology (2024–2028).
+I'm **Meet Maru**, an AI/ML Engineer and Full-Stack Web Developer from **Mumbai, India**, pursuing a **B.E. in Computer Science Engineering (AI & ML)** at VIVA Institute of Technology (2024–2028).
 
-I build **AI agents, multimodal systems, and full-stack SaaS products** — writing clean Python and JavaScript, shipping real projects, and learning in public.
-
-Currently serving as **Vice President at CSI VIVA**, leading a team of 10+ members across technical events, workshops, and community building.
+I build real-world AI systems — from facial emotion detection with multilingual TTS to unbeatable game AIs and sustainable-fashion platforms. Currently serving as **Vice President at CSI VIVA**, leading 10+ members across technical events, workshops, and community initiatives.
 
 ```yaml
-name:        Meet Maru
-location:    Mumbai, Maharashtra, India
-degree:      B.E. CSE — Artificial Intelligence & Machine Learning
-college:     VIVA Institute of Technology  (2024–2028)
-cgpa:        8.64  # Semester III · climbing ↑
-role:        Vice President @ CSI VIVA
-open_to:     Internships · Collaborations · Ambitious Problems
-focus:       AI Agents · Multimodal Systems · Full-Stack SaaS
+name        : Meet Maru
+location    : Mumbai, Maharashtra, India 🇮🇳
+degree      : B.E. CSE — Artificial Intelligence & Machine Learning
+college     : VIVA Institute of Technology  (2024–2028)
+cgpa        : 8.64   # Semester III · climbing ↑
+role        : Vice President @ CSI VIVA
+highlight   : SIH Problem Statement — Space Explorer AI Wellbeing
+focus       : AI Agents · Computer Vision · Full-Stack · Automation
+open_to     : Internships · Collaborations · Ambitious Problems
+contact     : meetmaru149@gmail.com
 ```
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **OrbitX** | AI-powered space exploration web app | Python · JavaScript · API |
-| **C-Thriftier** | Smart budgeting & expense tracking tool | HTML · CSS · JS · MySQL |
-| **TicTacToe AI** | Tic-tac-toe with an unbeatable AI opponent | Python · Minimax Algorithm |
+### 🌟 Flagship
 
-> More projects on my [portfolio →](https://meetmaru.netlify.app)
+| Project | Description | Stack | Repo |
+|---------|-------------|-------|------|
+| **Space Explorer AI Wellbeing** | SIH project — space exploration platform with real-time facial emotion detection, empathy responses in 9 Indian languages via TTS | Python · Flask · OpenCV · PHP · MIT | [→](https://github.com/ivengexnce/Space-Explorer-AI-Wellbeing) |
+| **DevLens** | Developer productivity & insights tool | JavaScript | [→](https://github.com/ivengexnce/DevLens) |
+| **SentiFlow** | Sentiment analysis & NLP pipeline | HTML · Python | [→](https://github.com/ivengexnce/SentiFlow) |
+| **C-Thriftier** | Clothing-swap platform for sustainable fashion — exchange, donate, or request clothes within your community | HTML · CSS · JS · MIT | [→](https://github.com/ivengexnce/C-Thriftier) |
+
+### 🎮 Games & Tools
+
+| Project | Description | Stack | Repo |
+|---------|-------------|-------|------|
+| **TicTacToe Python** | Unbeatable AI opponent (Minimax), sound effects, GUI via Tkinter + Pygame, Easy / Moderate / Hard difficulty | Python · Tkinter · Pygame · MIT | [→](https://github.com/ivengexnce/TicTacToe-Python) |
+| **Tic-Tac-Toe Web Edition** | Browser-based Tic-Tac-Toe with Minimax AI | HTML · Vanilla JS | [→](https://github.com/ivengexnce/Tic-Tac-Toe_web_edition) |
+| **Python Background Remover** | 4-mode tool: CLI, GUI, single & batch — uses rembg + Pillow, zero API key needed | Python · rembg · Pillow · MIT | [→](https://github.com/ivengexnce/python-background-remover) |
+
+---
+
+## 📁 Project Collections
+
+<div align="center">
+
+[![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/Python_Projects)
+[![AI Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/AI_Projects)
+
+[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/ML_Projects)
+[![Full Stack Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Full_Stack-Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/Full_Stack-Projects)
+
+</div>
 
 ---
 
@@ -55,35 +78,55 @@ focus:       AI Agents · Multimodal Systems · Full-Stack SaaS
 
 ### Languages
 
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
+
+### AI / ML / Computer Vision
+
+<div align="center">
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-00C7B7?style=for-the-badge)
+
+</div>
+
+### Tools & DevOps
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+</div>
+
+### Proficiency
+
 | Language | Proficiency |
 |----------|-------------|
-| HTML5 | ████████████████████░░ 92% |
-| CSS3 | ████████████████████░░ 92% |
-| JavaScript | █████████████████░░░░░ 75% |
-| Python | ████████████████░░░░░░ 74% |
-| MySQL | ████████████████░░░░░░ 72% |
-| C++ | ███████████░░░░░░░░░░░ 50% |
-
-### Tools & Ecosystem
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-### AI / ML
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-00C7B7?style=flat-square&logo=openai&logoColor=white)
-![Multimodal Systems](https://img.shields.io/badge/Multimodal_Systems-7C3AED?style=flat-square)
-
-### Soft Skills
-
-`Public Speaking` · `Leadership` · `Team Building` · `Problem Solving` · `Event Coordination` · `Critical Thinking` · `Time Management` · `Keynote Delivery`
+| HTML5 & CSS3 | `████████████████████░░` 92% |
+| JavaScript | `█████████████████░░░░░` 75% |
+| Python | `████████████████░░░░░░` 74% |
+| MySQL | `████████████████░░░░░░` 72% |
+| C++ | `███████████░░░░░░░░░░░` 50% |
 
 ---
 
@@ -96,7 +139,7 @@ focus:       AI Agents · Multimodal Systems · Full-Stack SaaS
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=6&border_radius=12" alt="Meet Maru Top Languages" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=7&border_radius=12&count_private=true" alt="Meet Maru Top Languages" />
 
 </div>
 
@@ -126,19 +169,36 @@ focus:       AI Agents · Multimodal Systems · Full-Stack SaaS
 
 ---
 
+## 🧠 Live Dev Activity
+
+<!-- ACTIVITY_START -->
+> ⚡ Auto-updates every 24h via GitHub Actions. Trigger the workflow manually once to populate.
+<!-- ACTIVITY_END -->
+
+---
+
+## 🎓 Education & Leadership
+
+| | |
+|--|--|
+| 🏫 **College** | VIVA Institute of Technology, Mumbai |
+| 📚 **Degree** | B.E. Computer Science Engineering (AI & ML) |
+| 📅 **Batch** | 2024 – 2028 |
+| 📊 **CGPA** | 8.64 — Semester III (climbing ↑) |
+| 🏆 **Role** | Vice President @ Computer Society of India — VIVA Chapter |
+| 👥 **Team** | Leading 10+ members · Events · Workshops · Community |
+
+---
+
 ## 🤝 Let's Connect
 
-I'm actively looking for **internship opportunities** in AI/ML, Python development, and full-stack web development. I'm also open to collaborations on ambitious side projects.
+Open to **internships** in AI/ML, Python development, and full-stack web development — and collaborations on ambitious projects.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-meetmaru.netlify.app-00FFB3?style=for-the-badge&labelColor=0d1117)](https://meetmaru.netlify.app)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/meetmaru149/)
-[![Gmail](https://img.shields.io/badge/Email-meetmaru149@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:meetmaru149@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-%2B91_99675_45530-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](tel:+919967545530)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ivengexnce.github.io/portfolio-00FFB3?style=for-the-badge&labelColor=0d1117)](https://ivengexnce.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/meetmaru149/)
+[![Gmail](https://img.shields.io/badge/Gmail-meetmaru149@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:meetmaru149@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/ivengexnce/)
 
 </div>
@@ -155,6 +215,4 @@ I'm actively looking for **internship opportunities** in AI/ML, Python developme
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Build%20%C2%B7%20Learn%20%C2%B7%20Ship%20%C2%B7%20Repeat&fontSize=24&fontColor=aef6ff&fontAlignY=65&animation=twinkling" />
 
-<!-- 
-  SEO META: Meet Maru | AI Developer | ML Engineer | Python Developer | Web Developer | Mumbai India | VIVA Institute | CSE AI ML | GitHub ivengexnce | Open to Internships | Full Stack Developer | AI Agents | Multimodal AI | SaaS Builder | CSI Vice President
--->
+<!-- SEO META: Meet Maru | ivengexnce | AI Developer Mumbai | ML Engineer India | Python Developer | Flask OpenCV Developer | Web Developer | VIVA Institute CSE AI ML | SIH Smart India Hackathon | GitHub ivengexnce | Open to Internships | Computer Vision | Emotion Detection | Minimax Algorithm | Full Stack Developer | CSI Vice President | Space Explorer AI | DevLens | SentiFlow | C-Thriftier | TicTacToe AI | Background Remover Python -->
