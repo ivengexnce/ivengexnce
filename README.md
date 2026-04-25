@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Hey%2C+I'm+Meet+Maru+%F0%9F%91%8B" alt="Meet Maru — AI and ML Engineer Mumbai India" />
+[<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Hey%2C+I'm+Meet+Maru+%F0%9F%91%8B" alt="Meet Maru — AI and ML Engineer Mumbai India" />](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Hey%2C+I'm+Meet+Maru+%F0%9F%90%89)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=00FFB3&center=true&vCenter=true&width=720&height=40&lines=AI+%26+ML+Engineer+%7C+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;B.E.+CSE+(AI+%26+ML)+%40+VIVA+Institute+of+Technology;Vice+President+%40+CSI+VIVA+%7C+10%2B+Members;SIH+%7C+Space+Explorer+AI+%7C+DevLens+%7C+SentiFlow;Open+to+Internships+%26+Collaborations" alt="Meet Maru roles — Python Developer, Computer Vision, Flask, OpenCV, LLMs" />
 
@@ -45,7 +45,7 @@ education:
   degree       : B.E. Computer Science Engineering — AI & ML
   college      : VIVA Institute of Technology, Mumbai
   batch        : 2024 – 2028
-  cgpa         : 8.31  # Climbing ↑
+  cgpa         : 8.31  #Climbing ↑
 
 leadership:
   role         : Vice President @ CSI VIVA
