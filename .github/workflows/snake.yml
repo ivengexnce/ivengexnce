@@ -1,8 +1,8 @@
 name: Generate GitHub Contribution Snake
 
 on:
-  schedule:
-    - cron: "0 1 * * *"
+ chedule:
+    - cron: "0 */1 * * *"  
   workflow_dispatch:
   push:
     branches:
