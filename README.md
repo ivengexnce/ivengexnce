@@ -1,156 +1,110 @@
-<!--
-  ██████████████████████████████████████████████████████
-  ██  github.com/ivengexnce — README.md               ██
-  ██  If you're reading source, welcome to the lair.  ██
-  ██████████████████████████████████████████████████████
--->
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MEET%20MARU&fontSize=85&fontColor=fff&fontAlignY=38&desc=AI%20Builder%20·%20Full%20Stack%20Developer%20·%20ML%20Explorer&descAlignY=58" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MEET%20MARU&fontSize=90&fontColor=fff&fontAlignY=38&desc=AI%20Builder%20%C2%B7%20ML%20Explorer%20%C2%B7%20Web%20Developer&descAlignY=60&descColor=aef6ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=00FFB3&center=true&vCenter=true&width=750&lines=AI+Builder+from+Mumbai+🇮🇳;Full-Stack+Developer+·+ML+Explorer;Building+AI+Agents+%26+SaaS+Systems;Turning+ideas+into+production+apps" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=900&color=00FFB3&center=true&vCenter=true&width=700&height=50&lines=%24+whoami+%E2%86%92+AI+Builder+%7C+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;%24+cat+role.txt+%E2%86%92+VP+%40+CSI+VIVA+%E2%80%94;%24+ls+shipped%2F+%E2%86%92+OrbitX+%7C+C-Thriftier+%7C+TicTacToe+AI;%24+./status.sh+%E2%86%92+Building.+Shipping.+Repeating.+%F0%9F%90%89" alt="Typing SVG" />
+  <br/>
 
-<br/>
+  <a href="https://meetmaru.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00FFB3?style=for-the-badge&labelColor=0d1117"/>
+  </a>
 
-<a href="https://meetmaru.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20Now-00FFB3?style=for-the-badge&labelColor=#3b1344" /></a>
-<a href="https://www.linkedin.com/in/meetmaru149/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /kjsadajdlksadlalksd></a>
-<a href="mailto:meetmaru149@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=ivengexnce&style=for-the-badge&color=00FFB3&label=VISITORS&labelColor=0d1117" />
+  <a href="https://www.linkedin.com/in/meetmaru149/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+  </a>
 
+  <a href="mailto:meetmaru149@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+  </a>
 </div>
-
 
 ---
 
-## `$ cat about.conf`
+## 🚀 About Me
 
 ```ini
 [identity]
-name         = Meet Maru
-role         = AI Builder · ML Explorer · Python Developer · Web Developer
-base         = Mumbai, India 🇮🇳
-degree       = B.E. CSE (AI & ML), VIVA Institute of Technology · 2024–2028
-rank         = Vice President @ CSI —  · 10+ members
-cgpa         = 8.64   # SEM III, and climbing ↑
+name     = Meet Maru
+role     = AI Builder · Full Stack Developer · ML Explorer
+base     = Mumbai, India 🇮🇳
+degree   = B.E. CSE (AI & ML)
 
 [now]
-building     = AI Agents · Multimodal Systems · Full-Stack SaaS
-open_to      = Internships · Collaborations · Ambitious problems
+building = AI Agents · SaaS Platforms · Automation Systems
+focus    = Scalable real-world products
+goal     = Ship impactful tech products globally
 ```
 
 ---
 
-## `$ ./skills --verbose`
+## ⚙️ Tech Stack
 
-### ⬡ Core Languages
+### 💻 Languages
+- Python  
+- JavaScript  
+- HTML  
+- CSS  
+- MySQL  
+- C++  
 
-<div align="center">
-
-| | Skill | Proficiency | Level |
-|:---:|:---|:---:|:---|
-| <img src="https://skillicons.dev/icons?i=html&theme=dark" width="36" /> | **HTML5** | `92%` | `████████████████████░░` |
-| <img src="https://skillicons.dev/icons?i=css&theme=dark" width="36" /> | **CSS3** | `92%` | `████████████████████░░` |
-| <img src="https://skillicons.dev/icons?i=js&theme=dark" width="36" /> | **JavaScript** | `75%` | `█████████████████░░░░░` |
-| <img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" /> | **Python** | `74%` | `████████████████░░░░░░` |
-| <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="36" /> | **MySQL** | `72%` | `████████████████░░░░░░` |
-| <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="36" /> | **C++** | `50%` | `███████████░░░░░░░░░░░` |
-
-</div>
-
-
-### ⬡ Tools & Ecosystem
-
-<div align="center">
-
-| | Skill | | Skill | | Skill |
-|:---:|:---|:---:|:---|:---:|:---|
-| <img src="https://skillicons.dev/icons?i=git&theme=dark" width="32" /> | **Git** | <img src="https://skillicons.dev/icons?i=github&theme=dark" width="32" /> | **GitHub** | <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="32" /> | **Figma / UI Design** |
-| <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="32" /> | **VS Code** | <img src="https://skillicons.dev/icons?i=unity&theme=dark" width="32" /> | **Unity 3D** | <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="32" /> | **Linux** |
-
-</div>
-
-### ⬡ Soft Skills
-
-```
-| Public Speaking    |  Problem Solving  |  Leadership | 
-| Event Coordination |  Communication    | Critical Thinking |
-| Team Building      |  Time Management  |     Keynote Delivery |
-```
+### 🛠 Tools & Platforms
+- Git  
+- GitHub  
+- Linux  
+- VS Code  
+- Figma  
+- Unity  
 
 ---
 
-## `$ top --github`
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.demolab.com?user=ivengexnce&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&border_radius=12" />
+  <br/><br/>
 
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=6&border_radius=12" />
-
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
 
-## `$ cat contribution-graph.svg`
+## 📌 Featured Projects
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=0d1117&color=00FFB3&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Meet%27s%20Contribution%20Graph&radius=8)](https://github.com/ivengexnce)
-
-</div>
-
----
-
-## `$ watch snake --eat-contributions`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-
-
-</div>
+- 🤖 AI Chatbot Systems (LLM-based assistants)  
+- 🌐 Full Stack SaaS Applications  
+- ⚡ Automation & Productivity Tools  
+- 🎮 Mini AI + Game Projects  
 
 ---
 
-## `$ ping meet --all-interfaces`
+## 🔁 Auto Updates
 
-<div align="center">
+This profile supports automated updates via GitHub Actions:
 
-<a href="https://meetmaru.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-ivengexnce.netlify-00FFB3?style=for-the-badge&labelColor=#3b1344" /></a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/meetmaru149/"><img src="https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://www.instagram.com/ivengexnce/"><img src="https://img.shields.io/badge/Instagram-@ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
-<a href="mailto:meetmaru149@gmail.com"><img src="https://img.shields.io/badge/Gmail-meetmaru149-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<a href="tel:+919967545530"><img src="https://img.shields.io/badge/Phone-%2B91_99675_45530-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" /></a>
-
-</div>
+- Daily activity sync  
+- Timestamp updates  
+- Stats refresh  
 
 ---
-## `$ cat Message`
+
+## 💡 Philosophy
+
+> “Build. Learn. Ship. Improve. Repeat.”
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://meetmaru.netlify.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/meetmaru149/  
+- 📧 Email: meetmaru149@gmail.com  
+
+---
+
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
-
-> <p>“Whatever the mind can <b style="color: #006400;" >Conceive</b> and <b style="color: #4169E1">Believe</b>, it can <b style="color:#FFA500;">Achieve</b> — so <b style="color:#FF0000;">take risks</b>, <b style="color:#94a3b8;">act Boldly</b>, and turn your decisions into <b style="color: #006400;">Success</b>.”
-</p>
-<br/>
-</div>
-<div align="right">
-<i><b style="color:#94a3b8;">~ Meet Maru</b></i>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Build%20%C2%B7%20Learn%20%C2%B7%20Ship%20%C2%B7%20Repeat&fontSize=28&fontColor=aef6ff&fontAlignY=65&animation=twinkling" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep%20Building%20🚀&fontSize=28&fontColor=fff" />
 </div>
