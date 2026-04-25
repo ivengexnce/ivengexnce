@@ -1,156 +1,160 @@
-<!--
-  ██████████████████████████████████████████████████████
-  ██  github.com/ivengexnce — README.md               ██
-  ██  If you're reading source, welcome to the lair.  ██
-  ██████████████████████████████████████████████████████
--->
+<!-- SEO Keywords: Meet Maru | AI Developer Mumbai | ML Engineer India | Python Developer | Web Developer Mumbai | AI Builder VIVA Institute | CSE AI ML Student | GitHub ivengexnce -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MEET%20MARU&fontSize=90&fontColor=fff&fontAlignY=38&desc=AI%20Builder%20%C2%B7%20ML%20Explorer%20%C2%B7%20Web%20Developer&descAlignY=60&descColor=aef6ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Meet%20Maru&fontSize=72&fontColor=fff&fontAlignY=38&desc=AI%20Builder%20%C2%B7%20ML%20Explorer%20%C2%B7%20Python%20%26%20Web%20Developer%20%C2%B7%20Mumbai%2C%20India&descAlignY=60&descColor=aef6ff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=900&color=00FFB3&center=true&vCenter=true&width=700&height=50&lines=%24+whoami+%E2%86%92+AI+Builder+%7C+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;%24+cat+role.txt+%E2%86%92+VP+%40+CSI+VIVA+%E2%80%94;%24+ls+shipped%2F+%E2%86%92+OrbitX+%7C+C-Thriftier+%7C+TicTacToe+AI;%24+./status.sh+%E2%86%92+Building.+Shipping.+Repeating.+%F0%9F%90%89" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&height=45&lines=AI+%26+ML+Engineer+%7C+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;B.E.+CSE+(AI+%26+ML)+%40+VIVA+Institute+of+Technology;Vice+President+%40+CSI+VIVA+%7C+10%2B+Members;Building+AI+Agents+%7C+Multimodal+Systems+%7C+SaaS;Open+to+Internships+%26+Collaborations" />
 
 <br/>
 
-<a href="https://meetmaru.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20Now-00FFB3?style=for-the-badge&labelColor=#3b1344" /></a>
-<a href="https://www.linkedin.com/in/meetmaru149/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /kjsadajdlksadlalksd></a>
-<a href="mailto:meetmaru149@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=ivengexnce&style=for-the-badge&color=00FFB3&label=VISITORS&labelColor=0d1117" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-meetmaru.netlify.app-00FFB3?style=for-the-badge&labelColor=0d1117)](https://meetmaru.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/meetmaru149/)
+[![Gmail](https://img.shields.io/badge/Gmail-meetmaru149@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:meetmaru149@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/ivengexnce/)
+[![Profile Views](https://komarev.com/ghpvc/?username=ivengexnce&style=for-the-badge&color=00FFB3&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/ivengexnce)
 
 </div>
 
-
 ---
 
-## `$ cat about.conf`
+## 👋 About Me
 
-```ini
-[identity]
-name         = Meet Maru
-role         = AI Builder · ML Explorer · Python Developer · Web Developer
-base         = Mumbai, India 🇮🇳
-degree       = B.E. CSE (AI & ML), VIVA Institute of Technology · 2024–2028
-rank         = Vice President @ CSI —  · 10+ members
-cgpa         = 8.64   # SEM III, and climbing ↑
+I'm **Meet Maru**, an AI/ML Engineer and Full-Stack Web Developer from **Mumbai, India**, currently pursuing a **B.E. in Computer Science Engineering (AI & ML)** at VIVA Institute of Technology (2024–2028).
 
-[now]
-building     = AI Agents · Multimodal Systems · Full-Stack SaaS
-open_to      = Internships · Collaborations · Ambitious problems
+I build **AI agents, multimodal systems, and full-stack SaaS products** — writing clean Python and JavaScript, shipping real projects, and learning in public.
+
+Currently serving as **Vice President at CSI VIVA**, leading a team of 10+ members across technical events, workshops, and community building.
+
+```yaml
+name:        Meet Maru
+location:    Mumbai, Maharashtra, India
+degree:      B.E. CSE — Artificial Intelligence & Machine Learning
+college:     VIVA Institute of Technology  (2024–2028)
+cgpa:        8.64  # Semester III · climbing ↑
+role:        Vice President @ CSI VIVA
+open_to:     Internships · Collaborations · Ambitious Problems
+focus:       AI Agents · Multimodal Systems · Full-Stack SaaS
 ```
 
 ---
 
-## `$ ./skills --verbose`
+## 🚀 Projects
 
-### ⬡ Core Languages
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **OrbitX** | AI-powered space exploration web app | Python · JavaScript · API |
+| **C-Thriftier** | Smart budgeting & expense tracking tool | HTML · CSS · JS · MySQL |
+| **TicTacToe AI** | Tic-tac-toe with an unbeatable AI opponent | Python · Minimax Algorithm |
 
-<div align="center">
-
-| | Skill | Proficiency | Level |
-|:---:|:---|:---:|:---|
-| <img src="https://skillicons.dev/icons?i=html&theme=dark" width="36" /> | **HTML5** | `92%` | `████████████████████░░` |
-| <img src="https://skillicons.dev/icons?i=css&theme=dark" width="36" /> | **CSS3** | `92%` | `████████████████████░░` |
-| <img src="https://skillicons.dev/icons?i=js&theme=dark" width="36" /> | **JavaScript** | `75%` | `█████████████████░░░░░` |
-| <img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" /> | **Python** | `74%` | `████████████████░░░░░░` |
-| <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="36" /> | **MySQL** | `72%` | `████████████████░░░░░░` |
-| <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="36" /> | **C++** | `50%` | `███████████░░░░░░░░░░░` |
-
-</div>
-
-
-### ⬡ Tools & Ecosystem
-
-<div align="center">
-
-| | Skill | | Skill | | Skill |
-|:---:|:---|:---:|:---|:---:|:---|
-| <img src="https://skillicons.dev/icons?i=git&theme=dark" width="32" /> | **Git** | <img src="https://skillicons.dev/icons?i=github&theme=dark" width="32" /> | **GitHub** | <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="32" /> | **Figma / UI Design** |
-| <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="32" /> | **VS Code** | <img src="https://skillicons.dev/icons?i=unity&theme=dark" width="32" /> | **Unity 3D** | <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="32" /> | **Linux** |
-
-</div>
-
-### ⬡ Soft Skills
-
-```
-| Public Speaking    |  Problem Solving  |  Leadership | 
-| Event Coordination |  Communication    | Critical Thinking |
-| Team Building      |  Time Management  |     Keynote Delivery |
-```
+> More projects on my [portfolio →](https://meetmaru.netlify.app)
 
 ---
 
-## `$ top --github`
+## 🛠️ Skills & Technologies
+
+### Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| HTML5 | ████████████████████░░ 92% |
+| CSS3 | ████████████████████░░ 92% |
+| JavaScript | █████████████████░░░░░ 75% |
+| Python | ████████████████░░░░░░ 74% |
+| MySQL | ████████████████░░░░░░ 72% |
+| C++ | ███████████░░░░░░░░░░░ 50% |
+
+### Tools & Ecosystem
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### AI / ML
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00C7B7?style=flat-square&logo=openai&logoColor=white)
+![Multimodal Systems](https://img.shields.io/badge/Multimodal_Systems-7C3AED?style=flat-square)
+
+### Soft Skills
+
+`Public Speaking` · `Leadership` · `Team Building` · `Problem Solving` · `Event Coordination` · `Critical Thinking` · `Time Management` · `Keynote Delivery`
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12" alt="Meet Maru GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&border_radius=12" alt="Meet Maru GitHub Streak" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=6&border_radius=12" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=6&border_radius=12" alt="Meet Maru Top Languages" />
 
 </div>
 
 ---
 
-## `$ cat contribution-graph.svg`
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=0d1117&color=00FFB3&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Meet%27s%20Contribution%20Graph&radius=8)](https://github.com/ivengexnce)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=0d1117&color=00FFB3&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Meet%20Maru%20%E2%80%94%20Contribution%20Graph&radius=8)](https://github.com/ivengexnce)
 
 </div>
 
 ---
 
-## `$ watch snake --eat-contributions`
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="Meet Maru GitHub Contribution Snake" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-
-
 </div>
 
 ---
 
-## `$ ping meet --all-interfaces`
+## 🤝 Let's Connect
+
+I'm actively looking for **internship opportunities** in AI/ML, Python development, and full-stack web development. I'm also open to collaborations on ambitious side projects.
 
 <div align="center">
 
-<a href="https://meetmaru.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-ivengexnce.netlify-00FFB3?style=for-the-badge&labelColor=#3b1344" /></a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-meetmaru.netlify.app-00FFB3?style=for-the-badge&labelColor=0d1117)](https://meetmaru.netlify.app)
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/meetmaru149/"><img src="https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://www.instagram.com/ivengexnce/"><img src="https://img.shields.io/badge/Instagram-@ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
-<a href="mailto:meetmaru149@gmail.com"><img src="https://img.shields.io/badge/Gmail-meetmaru149-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<a href="tel:+919967545530"><img src="https://img.shields.io/badge/Phone-%2B91_99675_45530-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" /></a>
-
-</div>
-
----
-## `$ cat Message`
-<div align="center">
-
-> <p>“Whatever the mind can <b style="color: #006400;" >Conceive</b> and <b style="color: #4169E1">Believe</b>, it can <b style="color:#FFA500;">Achieve</b> — so <b style="color:#FF0000;">take risks</b>, <b style="color:#94a3b8;">act Boldly</b>, and turn your decisions into <b style="color: #006400;">Success</b>.”
-</p>
 <br/>
-</div>
-<div align="right">
-<i><b style="color:#94a3b8;">~ Meet Maru</b></i>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/meetmaru149/)
+[![Gmail](https://img.shields.io/badge/Email-meetmaru149@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:meetmaru149@gmail.com)
+[![Phone](https://img.shields.io/badge/WhatsApp-%2B91_99675_45530-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](tel:+919967545530)
+[![Instagram](https://img.shields.io/badge/Instagram-@ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/ivengexnce/)
 
 </div>
+
+---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Build%20%C2%B7%20Learn%20%C2%B7%20Ship%20%C2%B7%20Repeat&fontSize=28&fontColor=aef6ff&fontAlignY=65&animation=twinkling" />
+> *"Whatever the mind can conceive and believe, it can achieve — so take risks, act boldly, and turn your decisions into success."*
+>
+> — Meet Maru
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Build%20%C2%B7%20Learn%20%C2%B7%20Ship%20%C2%B7%20Repeat&fontSize=24&fontColor=aef6ff&fontAlignY=65&animation=twinkling" />
+
+<!-- 
+  SEO META: Meet Maru | AI Developer | ML Engineer | Python Developer | Web Developer | Mumbai India | VIVA Institute | CSE AI ML | GitHub ivengexnce | Open to Internships | Full Stack Developer | AI Agents | Multimodal AI | SaaS Builder | CSI Vice President
+-->
