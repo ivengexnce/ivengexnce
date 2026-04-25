@@ -41,7 +41,7 @@ education:
   degree       : B.E. Computer Science Engineering — AI & ML
   college      : VIVA Institute of Technology
   batch        : 2024 – 2028
-  cgpa         : 8.31
+  cgpa         : 8.31 # Climbing more  ↑
 
 leadership:
   role         : Vice President @ CSI VIVA
