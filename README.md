@@ -94,10 +94,33 @@ status:
 
 <div align="center">
 
-[![AI Projects](https://gh-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/AI_Projects)
-[![ML_Projects](https://gh-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/ML_Projects)
-[![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/Python_Projects)
-[![FullStack Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/FullStack_Projects)
+<!-- DARK MODE pin cards -->
+<a href="https://github.com/ivengexnce/Python_Projects#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9#gh-dark-mode-only" alt="Python Projects" />
+</a>
+<a href="https://github.com/ivengexnce/ML_Projects#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9#gh-dark-mode-only" alt="ML Projects" />
+</a>
+<a href="https://github.com/ivengexnce/AI_Projects#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9#gh-dark-mode-only" alt="AI Projects" />
+</a>
+<a href="https://github.com/ivengexnce/FullStack_Projects#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9#gh-dark-mode-only" alt="FullStack Projects" />
+</a>
+
+<!-- LIGHT MODE pin cards -->
+<a href="https://github.com/ivengexnce/Python_Projects#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=default&hide_border=true&bg_color=ffffff&title_color=0d6efd&icon_color=0d6efd&text_color=24292f#gh-light-mode-only" alt="Python Projects" />
+</a>
+<a href="https://github.com/ivengexnce/ML_Projects#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=default&hide_border=true&bg_color=ffffff&title_color=0d6efd&icon_color=0d6efd&text_color=24292f#gh-light-mode-only" alt="ML Projects" />
+</a>
+<a href="https://github.com/ivengexnce/AI_Projects#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=default&hide_border=true&bg_color=ffffff&title_color=0d6efd&icon_color=0d6efd&text_color=24292f#gh-light-mode-only" alt="AI Projects" />
+</a>
+<a href="https://github.com/ivengexnce/FullStack_Projects#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=default&hide_border=true&bg_color=ffffff&title_color=0d6efd&icon_color=0d6efd&text_color=24292f#gh-light-mode-only" alt="FullStack Projects" />
+</a>
 
 </div>
 
@@ -167,12 +190,21 @@ status:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12" alt="Meet Maru GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&border_radius=12" alt="Meet Maru GitHub Streak" />
+<!-- DARK MODE stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12#gh-dark-mode-only" alt="Meet Maru GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&border_radius=12#gh-dark-mode-only" alt="Meet Maru GitHub Streak" />
+
+<!-- LIGHT MODE stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=0d6efd&icon_color=0d6efd&text_color=24292f&bg_color=ffffff&border_radius=12#gh-light-mode-only" alt="Meet Maru GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivengexnce&theme=default&hide_border=true&background=ffffff&ring=0d6efd&fire=ff6b6b&currStreakLabel=0d6efd&sideLabels=0d6efd&dates=57606a&border_radius=12#gh-light-mode-only" alt="Meet Maru GitHub Streak" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=7&border_radius=12&count_private=true" alt="Meet Maru Top Languages" />
+<!-- DARK MODE top langs -->
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=7&border_radius=12&count_private=true#gh-dark-mode-only" alt="Meet Maru Top Languages" />
+
+<!-- LIGHT MODE top langs -->
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=default&hide_border=true&bg_color=ffffff&title_color=0d6efd&text_color=24292f&langs_count=7&border_radius=12&count_private=true#gh-light-mode-only" alt="Meet Maru Top Languages" />
 
 </div>
 
@@ -184,7 +216,11 @@ status:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=0d1117&color=00FFB3&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Meet%20Maru%20%E2%80%94%20Contribution%20Graph&radius=8)](https://github.com/ivengexnce)
+<!-- DARK MODE graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=0d1117&color=00FFB3&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Meet%20Maru%20%E2%80%94%20Contribution%20Graph&radius=8#gh-dark-mode-only)](https://github.com/ivengexnce)
+
+<!-- LIGHT MODE graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=ffffff&color=0d6efd&line=0d6efd&point=24292f&area=true&hide_border=true&custom_title=Meet%20Maru%20%E2%80%94%20Contribution%20Graph&radius=8#gh-light-mode-only)](https://github.com/ivengexnce)
 
 </div>
 
@@ -199,7 +235,7 @@ status:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" />
-  <img alt="Meet Maru GitHub Contribution Snake" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="Meet Maru GitHub Contribution Snake" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
