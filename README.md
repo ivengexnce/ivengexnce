@@ -95,7 +95,7 @@ status:
 <div align="center">
 
 [![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/Python_Projects)
-[![AI Projects](https://gh-readme-stats.vercel.app /api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/AI_Projects)
+[![AI Projects](https://gh-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/AI_Projects)
 [![ML_Projects](https://gh-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/ML_Projects)
 [![FullStack Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/FullStack_Projects)
 
