@@ -45,7 +45,7 @@ education:
   degree       : B.E. Computer Science Engineering — AI & ML
   college      : VIVA Institute of Technology, Mumbai
   batch        : 2024 – 2028
-  cgpa         : 8.31  # Climbing ↑
+  cgpa         : 8.31  #Climbing ↑
 
 leadership:
   role         : Vice President @ CSI VIVA
@@ -98,7 +98,7 @@ status:
 [![AI Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/AI_Projects)
 
 [![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/ML_Projects)
-[![Full Stack Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Full_Stack-Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/Full_Stack-Projects)
+[![FullStack Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Full_Stack-Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/FullStack_Projects)
 
 </div>
 
