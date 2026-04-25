@@ -14,7 +14,7 @@
 <br/>
 
 <a href="https://meetmaru.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20Now-00FFB3?style=for-the-badge&labelColor=#3b1344" /></a>
-<a href="https://www.linkedin.com/in/meetmaru149/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/meetmaru149/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /kjsadajdlksadlalksd></a>
 <a href="mailto:meetmaru149@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 <img src="https://komarev.com/ghpvc/?username=ivengexnce&style=for-the-badge&color=00FFB3&label=VISITORS&labelColor=0d1117" />
 
