@@ -244,7 +244,7 @@ status:
 
 ## 🧠 Live Dev Activity
 
-> ⚡ Auto-updates every 24h via GitHub Actions. Run the **Update Profile README** workflow manually once to populate this section.
+> ⚡ Auto-updates every 24h via GitHub Actions.
 
 <br/>
 
