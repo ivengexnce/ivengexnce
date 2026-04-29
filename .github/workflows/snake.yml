@@ -36,7 +36,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&speed_factor=5
 
       - name: Fix permissions
-        run: chmod -R u+w dist/
+        run: sudo chmod -R u+w dist/
 
       - name: Inject date label into SVGs
         run: |
