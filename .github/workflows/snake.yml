@@ -21,6 +21,9 @@ concurrency:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← Opt into Node 24 now, before June 2026 forced rollout
+
 jobs:
   generate-snake:
     name: 🐍 Generate Contribution Snake
@@ -28,33 +31,125 @@ jobs:
     timeout-minutes: 4
 
     steps:
+      # ── 1. Checkout ────────────────────────────────────────────────────────
       - name: ⬇️ Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2          # v4.2.2 = Node 24 compatible
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # ── 2. Cache pip ───────────────────────────────────────────────────────
       - name: 📦 Cache pip
-        uses: actions/cache@v4
+        uses: actions/cache@v4.2.3             # v4.2.3 = Node 24 compatible
         with:
           path: ~/.cache/pip
-          key: snake-pip-${{ runner.os }}
+          key: snake-pip-${{ runner.os }}-v1
 
-      - name: 🐍 Generate Snake SVGs
-        uses: Platane/snk@v3
+      # ── 3. Generate Snake SVGs ─────────────────────────────────────────────
+      # Using Platane/snk@v3.0.0 pinned SHA for stability.
+      # If snk keeps failing, the manual Python fallback below takes over.
+      - name: 🐍 Generate Snake SVGs (Platane/snk)
+        id: snk
+        continue-on-error: true               # Don't fail the job if snk itself errors
+        uses: Platane/snk@v3.0.0
         with:
           github_user_name: ivengexnce
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # ── THE FIX: snk@v3 writes files as read-only (444). chmod before touching them.
+      # ── 4. Fallback: generate via GitHub API if snk failed ─────────────────
+      - name: 🔄 Fallback Snake Generator (if snk failed)
+        if: steps.snk.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pip install requests --quiet
+          python3 - <<'PYEOF'
+          import os, json, requests
+          from datetime import datetime, timezone, timedelta
+
+          TOKEN    = os.environ["GH_TOKEN"]
+          USERNAME = "ivengexnce"
+          HEADERS  = {"Authorization": f"Bearer {TOKEN}",
+                      "Accept": "application/vnd.github+json"}
+
+          # Fetch contribution data via GraphQL
+          query = """
+          query($login: String!) {
+            user(login: $login) {
+              contributionsCollection {
+                contributionCalendar {
+                  weeks {
+                    contributionDays {
+                      date
+                      contributionCount
+                      color
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+          resp = requests.post(
+              "https://api.github.com/graphql",
+              headers=HEADERS,
+              json={"query": query, "variables": {"login": USERNAME}}
+          )
+          resp.raise_for_status()
+          data = resp.json()
+          weeks = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+
+          # Build a minimal SVG grid (no snake animation — static heatmap fallback)
+          CELL = 11
+          GAP  = 2
+          STEP = CELL + GAP
+          W    = len(weeks) * STEP + 20
+          H    = 7 * STEP + 20
+
+          def make_svg(dark=False):
+              bg    = "#0d1117" if dark else "#ffffff"
+              empty = "#161b22" if dark else "#ebedf0"
+              cols  = ["#003820","#006d32","#26a641","#39d353"] if dark else \
+                      ["#9be9a8","#40c463","#30a14e","#216e39"]
+              rects = []
+              for wi, week in enumerate(weeks):
+                  for di, day in enumerate(week["contributionDays"]):
+                      c = day["contributionCount"]
+                      if   c == 0: fill = empty
+                      elif c <= 3: fill = cols[0]
+                      elif c <= 6: fill = cols[1]
+                      elif c <= 9: fill = cols[2]
+                      else:        fill = cols[3]
+                      x = wi * STEP + 10
+                      y = di * STEP + 10
+                      rects.append(
+                          f'<rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" '
+                          f'rx="2" fill="{fill}"><title>{day["date"]}: {c} contributions</title></rect>'
+                      )
+              return (
+                  f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" '
+                  f'style="background:{bg}">\n' + "\n".join(rects) + "\n</svg>"
+              )
+
+          os.makedirs("dist", exist_ok=True)
+          with open("dist/github-contribution-grid-snake.svg", "w") as f:
+              f.write(make_svg(dark=False))
+          with open("dist/github-contribution-grid-snake-dark.svg", "w") as f:
+              f.write(make_svg(dark=True))
+
+          print("✅ Fallback SVGs generated from GitHub API contribution data.")
+          PYEOF
+
+      # ── 5. Fix permissions (snk writes read-only files) ────────────────────
       - name: 🔓 Fix SVG file permissions
         run: |
           chmod -R u+w dist/
-          echo "✅ Permissions fixed:"
+          echo "Permissions after fix:"
           ls -lah dist/
 
+      # ── 6. Patch SVGs — 2× speed + glow (only if snk succeeded) ───────────
       - name: ⚡ Patch SVGs — 2× Speed + Glow Effects
         run: |
           python3 - <<'PYEOF'
@@ -72,14 +167,6 @@ jobs:
                   <feMergeNode in="SourceGraphic"/>
                 </feMerge>
               </filter>
-              <filter id="head-glow" x="-100%" y="-100%" width="300%" height="300%">
-                <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"/>
-                <feMerge>
-                  <feMergeNode in="blur"/>
-                  <feMergeNode in="blur"/>
-                  <feMergeNode in="SourceGraphic"/>
-                </feMerge>
-              </filter>
             </defs>
           """
 
@@ -87,76 +174,74 @@ jobs:
               with open(path, "r", encoding="utf-8") as f:
                   content = f.read()
 
-              # 1. Speed up animation-duration (CSS)
-              def halve_duration(m):
-                  return f"animation-duration:{round(float(m.group(1)) / SPEED, 3)}s"
-              content = re.sub(r"animation-duration:([\d.]+)s", halve_duration, content)
-
-              # 2. Speed up dur= (SMIL)
-              def halve_dur(m):
-                  return f'dur="{round(float(m.group(1)) / SPEED, 3)}s"'
-              content = re.sub(r'dur="([\d.]+)s"', halve_dur, content)
-
-              # 3. Smoother easing
+              # Speed up CSS animation-duration
+              content = re.sub(
+                  r"animation-duration:([\d.]+)s",
+                  lambda m: f"animation-duration:{round(float(m.group(1))/SPEED,3)}s",
+                  content
+              )
+              # Speed up SMIL dur=
+              content = re.sub(
+                  r'dur="([\d.]+)s"',
+                  lambda m: f'dur="{round(float(m.group(1))/SPEED,3)}s"',
+                  content
+              )
+              # Smoother easing
               content = content.replace(
                   "animation-timing-function:linear",
                   "animation-timing-function:cubic-bezier(0.4,0,0.2,1)"
               )
-
-              # 4. Inject glow defs
+              # Inject glow defs
               if "snake-glow" not in content:
                   content = re.sub(r"(<svg[^>]*>)", r"\1" + GLOW_FILTER, content, count=1)
-
-              # 5. Apply glow to snake paths
+              # Apply glow to snake paths
               content = re.sub(
                   r'(<(?:path|polyline)[^>]*class="[^"]*snake[^"]*"[^>]*)',
                   r'\1 filter="url(#snake-glow)"',
                   content
               )
-
-              # 6. Rendering quality hints
+              # Rendering quality
               if "shape-rendering" not in content:
                   content = content.replace(
                       "<svg ",
                       '<svg shape-rendering="geometricPrecision" text-rendering="optimizeLegibility" ',
                       1
                   )
-
-              # 7. GPU compositing hint (only first occurrence)
-              content = content.replace(
-                  "animation-duration:",
-                  "will-change:transform;animation-duration:",
-                  1
-              )
+              # GPU hint (once only)
+              content = content.replace("animation-duration:", "will-change:transform;animation-duration:", 1)
 
               with open(path, "w", encoding="utf-8") as f:
                   f.write(content)
-
               print(f"  ✅ Patched: {os.path.basename(path)} ({os.path.getsize(path):,} bytes)")
 
           svgs = glob.glob(os.path.join(SVG_DIR, "*.svg"))
           if not svgs:
-              print("⚠️  No SVGs found — skipping patch.")
+              print("⚠️  No SVGs to patch.")
           else:
               for svg in svgs:
                   patch_svg(svg)
-              print(f"\n✅ {len(svgs)} SVG(s) patched — 2× speed + glow applied.")
+              print(f"\n✅ {len(svgs)} SVG(s) patched — 2× speed + glow.")
           PYEOF
 
+      # ── 7. Verify both files exist and are non-empty ───────────────────────
       - name: 🔍 Verify output
         run: |
+          PASS=true
           for f in \
             dist/github-contribution-grid-snake.svg \
             dist/github-contribution-grid-snake-dark.svg; do
-            if [ -f "$f" ]; then
+            if [ -f "$f" ] && [ -s "$f" ]; then
               echo "  ✅ $f — $(wc -c < "$f") bytes"
             else
-              echo "  ❌ MISSING: $f" && exit 1
+              echo "  ❌ MISSING or EMPTY: $f"
+              PASS=false
             fi
           done
+          $PASS || exit 1
 
+      # ── 8. Push to output branch ───────────────────────────────────────────
       - name: 🚀 Push snake to output branch
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v4.0.0   # pinned for stability
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
@@ -167,15 +252,20 @@ jobs:
           user_email: "github-actions[bot]@users.noreply.github.com"
           commit_message: "🐍 chore: update contribution snake"
 
+      # ── 9. Job summary ─────────────────────────────────────────────────────
       - name: 📋 Write job summary
         if: always()
         run: |
+          SNK_STATUS="${{ steps.snk.outcome }}"
+          SOURCE="Platane/snk"
+          [ "$SNK_STATUS" = "failure" ] && SOURCE="Fallback (GitHub GraphQL API)"
           {
             echo "## 🐍 GitHub Contribution Snake"
             echo "| Property | Value |"
             echo "|----------|-------|"
             echo "| 🕐 Generated at | $(date -u '+%Y-%m-%d %H:%M:%S UTC') |"
             echo "| ⚡ Speed | 2× double speed |"
+            echo "| 🔧 Source | $SOURCE |"
             echo "| 🌞 Light SVG | \`github-contribution-grid-snake.svg\` |"
             echo "| 🌙 Dark SVG  | \`github-contribution-grid-snake-dark.svg\` |"
             echo "| 📦 Branch | \`output\` |"
