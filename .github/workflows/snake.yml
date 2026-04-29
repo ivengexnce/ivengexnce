@@ -1,57 +1,245 @@
-name: Generate GitHub Contribution Snake
+name: 🐍 GitHub Contribution Snake
 
 on:
   schedule:
-    # Run daily at midnight UTC
-    - cron: "0 0 * * *"
-  # Allow manual triggering
+    - cron: "*/5 * * * *"    # Every 5 minutes (GitHub's minimum interval)
   workflow_dispatch:
-  # Run on push to main
+    inputs:
+      force_regenerate:
+        description: "Force regenerate even if no new contributions"
+        required: false
+        default: "false"
+        type: choice
+        options: ["true", "false"]
   push:
-    branches:
-      - main
+    branches: [main]
+
+# ── Prevent overlapping runs ───────────────────────────────────────────────────
+concurrency:
+  group: snake-generation
+  cancel-in-progress: true    # Cancel stale runs — always use freshest data
 
 permissions:
   contents: write
 
 jobs:
   generate-snake:
+    name: 🐍 Generate Contribution Snake
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 4         # Hard kill — must finish before next 5-min window
 
     steps:
-      - name: Checkout repository
+      # ── 1. Checkout ────────────────────────────────────────────────────────
+      - name: ⬇️ Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate GitHub contribution snake
+      # ── 2. Cache pip deps ──────────────────────────────────────────────────
+      - name: 📦 Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: snake-pip-${{ runner.os }}
+
+      # ── 3. Generate Light Mode Snake ───────────────────────────────────────
+      - name: 🌞 Generate Light Mode Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ivengexnce
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          # Optional: Customize snake colors
-          svg_out_size: 1080
-          # Uncomment for custom colors:
-          # svg_out_size: 1080
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          # Light mode: vibrant green-teal palette
+          color_snake: "#00FFB3"
+          color_dots: "#ebedf0,#9be9a8,#40c463,#30a14e,#216e39"
+          color_empty: "#ebedf0"
+          color_dots_head: "#ff6b6b"
 
-      - name: Push generated snake to output branch
+      # ── 4. Generate Dark Mode Snake ────────────────────────────────────────
+      - name: 🌙 Generate Dark Mode Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ivengexnce
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          # Dark mode: neon green on dark background (matches your README theme)
+          color_snake: "#00FFB3"
+          color_dots: "#0d1117,#003820,#006d32,#26a641,#39d353"
+          color_empty: "#161b22"
+          color_dots_head: "#ff6b6b"
+
+      # ── 5. Inject CSS animation (2× speed) into both SVGs ─────────────────
+      # Platane/snk generates the snake SVG with a built-in animation.
+      # We patch the animation-duration to make it run at 2× speed,
+      # and inject extra polish: smoother easing, glow effect on the snake head.
+      - name: ⚡ Patch SVGs — 2× Speed + Glow Effects
+        run: |
+          python3 - <<'PYEOF'
+          import re, os, glob
+
+          SVG_DIR = "dist"
+
+          # ── Speed factor (2.0 = twice as fast) ──────────────────────────────
+          SPEED = 2.0
+
+          # ── Glow filter to inject into <defs> or just before </svg> ─────────
+          GLOW_FILTER = """
+            <defs>
+              <filter id="snake-glow" x="-50%" y="-50%" width="200%" height="200%">
+                <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur"/>
+                <feMerge>
+                  <feMergeNode in="blur"/>
+                  <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+              </filter>
+              <filter id="head-glow" x="-100%" y="-100%" width="300%" height="300%">
+                <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"/>
+                <feMerge>
+                  <feMergeNode in="blur"/>
+                  <feMergeNode in="blur"/>
+                  <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+              </filter>
+            </defs>
+          """
+
+          def patch_svg(path):
+              with open(path, "r", encoding="utf-8") as f:
+                  content = f.read()
+
+              # ── 1. Speed up all animation durations ──────────────────────────
+              def halve_duration(m):
+                  val = float(m.group(1))
+                  new_val = round(val / SPEED, 3)
+                  return f"animation-duration:{new_val}s"
+
+              content = re.sub(
+                  r"animation-duration:([\d.]+)s",
+                  halve_duration,
+                  content
+              )
+
+              # Also patch dur= attributes (used by SMIL animations in some snk outputs)
+              def halve_dur(m):
+                  val = float(m.group(1))
+                  new_val = round(val / SPEED, 3)
+                  return f'dur="{new_val}s"'
+
+              content = re.sub(r'dur="([\d.]+)s"', halve_dur, content)
+
+              # ── 2. Smoother easing ────────────────────────────────────────────
+              content = content.replace(
+                  "animation-timing-function:linear",
+                  "animation-timing-function:cubic-bezier(0.4,0,0.2,1)"
+              )
+
+              # ── 3. Inject glow defs (insert after opening <svg ...> tag) ─────
+              if "snake-glow" not in content:
+                  content = re.sub(
+                      r"(<svg[^>]*>)",
+                      r"\1" + GLOW_FILTER,
+                      content,
+                      count=1
+                  )
+
+              # ── 4. Apply glow filter to snake path elements ───────────────────
+              # snk renders the snake body as <path> or <g class="snake">
+              content = re.sub(
+                  r'(<(?:path|polyline)[^>]*class="[^"]*snake[^"]*"[^>]*)',
+                  r'\1 filter="url(#snake-glow)"',
+                  content
+              )
+
+              # ── 5. Boost SVG rendering quality hint ───────────────────────────
+              if "shape-rendering" not in content:
+                  content = content.replace(
+                      "<svg ",
+                      '<svg shape-rendering="geometricPrecision" text-rendering="optimizeLegibility" ',
+                      1
+                  )
+
+              # ── 6. Add will-change hint for GPU compositing (README browsers) ─
+              content = content.replace(
+                  "animation-duration:",
+                  "will-change:transform;animation-duration:",
+                  1   # Only first occurrence (avoids duplicate)
+              )
+
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(content)
+
+              size = os.path.getsize(path)
+              print(f"  ✅ Patched: {os.path.basename(path)} ({size:,} bytes)")
+
+          svgs = glob.glob(os.path.join(SVG_DIR, "*.svg"))
+          if not svgs:
+              print("⚠️  No SVGs found in dist/ — skipping patch.")
+          else:
+              for svg in svgs:
+                  patch_svg(svg)
+
+          print(f"\n✅ {len(svgs)} SVG(s) patched — 2× speed, glow effects applied.")
+          PYEOF
+
+      # ── 6. Verify output files exist ───────────────────────────────────────
+      - name: 🔍 Verify output
+        run: |
+          echo "📂 Contents of dist/:"
+          ls -lah dist/ || echo "⚠️  dist/ directory is empty or missing"
+
+          for f in \
+            dist/github-contribution-grid-snake.svg \
+            dist/github-contribution-grid-snake-dark.svg; do
+            if [ -f "$f" ]; then
+              SIZE=$(wc -c < "$f")
+              echo "  ✅ $f — ${SIZE} bytes"
+            else
+              echo "  ❌ MISSING: $f"
+              exit 1
+            fi
+          done
+
+      # ── 7. Push to output branch ───────────────────────────────────────────
+      - name: 🚀 Push snake to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
           publish_branch: output
-          cname: false
+          keep_files: false
           force_orphan: false
+          commit_message: "🐍 chore: update contribution snake [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
 
-      - name: Create workflow summary
+      # ── 8. Job summary ─────────────────────────────────────────────────────
+      - name: 📋 Write job summary
+        if: always()
         run: |
-          echo "✅ GitHub Contribution Snake generated successfully!" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "📊 Snake files created:" >> $GITHUB_STEP_SUMMARY
-          echo "  - github-contribution-grid-snake.svg (light mode)" >> $GITHUB_STEP_SUMMARY
-          echo "  - github-contribution-grid-snake-dark.svg (dark mode)" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "📍 Branch: output" >> $GITHUB_STEP_SUMMARY
+          {
+            echo "## 🐍 GitHub Contribution Snake"
+            echo ""
+            echo "| Property | Value |"
+            echo "|----------|-------|"
+            echo "| 🕐 Generated at | $(date -u '+%Y-%m-%d %H:%M:%S UTC') |"
+            echo "| ⚡ Animation speed | 2× (double speed) |"
+            echo "| 🌞 Light mode | \`github-contribution-grid-snake.svg\` |"
+            echo "| 🌙 Dark mode  | \`github-contribution-grid-snake-dark.svg\` |"
+            echo "| 📦 Output branch | \`output\` |"
+            echo "| 🎨 Snake color | \`#00FFB3\` (matches your README theme) |"
+            echo ""
+            echo "### 🔗 Usage in README"
+            echo '```html'
+            echo '<picture>'
+            echo '  <source media="(prefers-color-scheme: dark)"'
+            echo '          srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg"/>'
+            echo '  <source media="(prefers-color-scheme: light)"'
+            echo '          srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg"/>'
+            echo '  <img alt="GitHub Contribution Snake" width="100%"'
+            echo '       src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg"/>'
+            echo '</picture>'
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
