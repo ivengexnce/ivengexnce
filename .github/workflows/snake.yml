@@ -1,334 +1,50 @@
 name: 🐍 GitHub Contribution Snake
-
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    # Run daily at midnight UTC
+    - cron: "0 0 * * *"
+  # Allow manual triggering
   workflow_dispatch:
-    inputs:
-      force_regenerate:
-        description: "Force regenerate even if no new contributions"
-        required: false
-        default: "false"
-        type: choice
-        options: ["true", "false"]
+  # Run on push to main
   push:
-    branches: [main]
-
-concurrency:
-  group: snake-generation
-  cancel-in-progress: true
-
+    branches:
+      - main
 permissions:
   contents: write
-
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   generate-snake:
-    name: 🐍 Generate Contribution Snake
     runs-on: ubuntu-latest
-    timeout-minutes: 4
-
+    timeout-minutes: 10
     steps:
-      - name: ⬇️ Checkout repository
-        uses: actions/checkout@v4.2.2
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: 📦 Cache pip
-        uses: actions/cache@v4.2.3
-        with:
-          path: ~/.cache/pip
-          key: snake-pip-${{ runner.os }}-v1
-
-      # ── Generate snake SVGs with custom palette via query string ──────────
-      # snk ONLY reads colours from the ?color_snake=&color_dots= query string
-      # on the output path — NOT from separate yaml inputs.
-      # Light: neon teal snake (#00FFB3) on white/green grid, red head (#ff6b6b)
-      # Dark : neon teal snake (#00FFB3) on #0d1117 grid, red head (#ff6b6b)
-      - name: 🐍 Generate Snake SVGs (Platane/snk)
-        id: snk
-        continue-on-error: true
-        uses: Platane/snk@v3.0.0
+      - name: Generate GitHub contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ivengexnce
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2300FFB3&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39&color_dots_head=%23ff6b6b
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300FFB3&color_dots=%23161b22,%23003820,%23006d32,%2326a641,%2339d353&color_dots_head=%23ff6b6b
-
-      # ── Fallback if snk fails ─────────────────────────────────────────────
-      - name: 🔄 Fallback Snake Generator
-        if: steps.snk.outcome == 'failure'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          # Optional: Customize snake colors
+          svg_out_size: 1080
+          # Uncomment for custom colors:
+          # svg_out_size: 1080
+      - name: Push generated snake to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
+          cname: false
+          force_orphan: false
+      - name: Create workflow summary
         run: |
-          pip install requests --quiet
-          python3 - <<'PYEOF'
-          import os, requests, math
-
-          TOKEN    = os.environ["GH_TOKEN"]
-          USERNAME = "ivengexnce"
-          HEADERS  = {"Authorization": f"Bearer {TOKEN}"}
-
-          query = """query($login:String!){user(login:$login){contributionsCollection{
-            contributionCalendar{weeks{contributionDays{date contributionCount}}}}}}"""
-
-          resp = requests.post("https://api.github.com/graphql", headers=HEADERS,
-                               json={"query": query, "variables": {"login": USERNAME}})
-          resp.raise_for_status()
-          weeks = resp.json()["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
-
-          CELL, GAP = 11, 2
-          STEP = CELL + GAP
-          W = len(weeks) * STEP + 20
-          H = 7 * STEP + 40   # extra bottom space for labels
-
-          # Neon snake animation path (simple left-to-right sweep)
-          def snake_path(weeks_count):
-              pts = []
-              cx = 10 + CELL//2
-              for wi in range(weeks_count):
-                  col = range(7) if wi % 2 == 0 else range(6, -1, -1)
-                  for di in col:
-                      pts.append(f"{cx},{10 + di*STEP + CELL//2}")
-                  cx += STEP
-              return " ".join(pts)
-
-          def make_svg(dark=False):
-              bg     = "#0d1117" if dark else "#f6f8fa"
-              empty  = "#161b22" if dark else "#ebedf0"
-              cols   = ["#003820","#006d32","#26a641","#39d353"] if dark else \
-                       ["#9be9a8","#40c463","#30a14e","#216e39"]
-              snake  = "#00FFB3"
-              head   = "#ff6b6b"
-              dur    = 8   # seconds for full traversal (will be halved by patcher = 4s effective)
-
-              rects = []
-              for wi, week in enumerate(weeks):
-                  for di, day in enumerate(week["contributionDays"]):
-                      c = day["contributionCount"]
-                      fill = empty if c == 0 else cols[min(int((c-1)/3), 3)]
-                      rects.append(
-                          f'<rect x="{wi*STEP+10}" y="{di*STEP+10}" width="{CELL}" '
-                          f'height="{CELL}" rx="2" fill="{fill}">'
-                          f'<title>{day["date"]}: {c} contributions</title></rect>')
-
-              path = snake_path(len(weeks))
-              total_pts = len(path.split(" "))
-
-              svg = f'''<svg xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 {W} {H}" style="background:{bg}">
-                <defs>
-                  <filter id="glow">
-                    <feGaussianBlur stdDeviation="3" result="blur"/>
-                    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-                  </filter>
-                  <style>
-                    .snake-body {{
-                      fill: none;
-                      stroke: {snake};
-                      stroke-width: {CELL-1};
-                      stroke-linecap: round;
-                      stroke-linejoin: round;
-                      filter: url(#glow);
-                      animation: slither {dur}s linear infinite;
-                    }}
-                    .snake-head {{
-                      fill: {head};
-                      filter: url(#glow);
-                    }}
-                    @keyframes slither {{
-                      0%   {{ stroke-dashoffset: 2000; }}
-                      100% {{ stroke-dashoffset: 0; }}
-                    }}
-                  </style>
-                </defs>
-                {"".join(rects)}
-                <polyline class="snake-body"
-                  points="{path}"
-                  stroke-dasharray="60 2000"
-                  stroke-dashoffset="2000"/>
-                <circle class="snake-head" r="5" cx="10" cy="15">
-                  <animateMotion dur="{dur}s" repeatCount="indefinite">
-                    <mpath/>
-                  </animateMotion>
-                </circle>
-              </svg>'''
-              return svg
-
-          os.makedirs("dist", exist_ok=True)
-          with open("dist/github-contribution-grid-snake.svg",      "w") as f: f.write(make_svg(False))
-          with open("dist/github-contribution-grid-snake-dark.svg", "w") as f: f.write(make_svg(True))
-          print("✅ Fallback SVGs generated with neon snake style.")
-          PYEOF
-
-      # ── Fix permissions ───────────────────────────────────────────────────
-      - name: 🔓 Fix SVG permissions
-        run: chmod -R u+w dist/ && ls -lah dist/
-
-      # ── Post-process: inject neon glow + 2x speed ─────────────────────────
-      # This runs on BOTH snk output AND fallback output.
-      # For snk: overrides its default grey snake with our neon palette via SVG filter.
-      # For fallback: boosts the already-styled SVG.
-      - name: ⚡ Post-process SVGs — Neon Glow + 2× Speed
-        run: |
-          python3 - <<'PYEOF'
-          import re, os, glob
-
-          SVG_DIR = "dist"
-          SPEED   = 2.0
-
-          # Full neon style override injected into <defs>
-          # Targets snk's internal class names: .ContributionCalendar-day, path, polyline
-          STYLE_INJECT = """
-          <defs>
-            <filter id="neon-glow" x="-40%" y="-40%" width="180%" height="180%">
-              <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="coloredBlur"/>
-              <feMerge>
-                <feMergeNode in="coloredBlur"/>
-                <feMergeNode in="coloredBlur"/>
-                <feMergeNode in="SourceGraphic"/>
-              </feMerge>
-            </filter>
-            <filter id="head-pulse" x="-80%" y="-80%" width="260%" height="260%">
-              <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur"/>
-              <feMerge>
-                <feMergeNode in="blur"/>
-                <feMergeNode in="blur"/>
-                <feMergeNode in="SourceGraphic"/>
-              </feMerge>
-            </filter>
-            <style>
-              /* Force neon teal on the snake body regardless of snk palette */
-              path[class*="snake"], polyline[class*="snake"],
-              path.snake, polyline.snake,
-              path[stroke], polyline[stroke] {
-                stroke: #00FFB3 !important;
-                filter: url(#neon-glow) !important;
-                stroke-linecap: round !important;
-                stroke-linejoin: round !important;
-              }
-              /* Red glowing head */
-              circle[class*="snake-head"], circle.snake-head,
-              rect[class*="snake-head"] {
-                fill: #ff6b6b !important;
-                filter: url(#head-pulse) !important;
-              }
-              /* Smooth cell hover */
-              rect[class*="ContributionCalendar"] {
-                transition: opacity 0.2s;
-              }
-              rect[class*="ContributionCalendar"]:hover {
-                opacity: 0.8;
-              }
-            </style>
-          </defs>
-          """
-
-          def patch(path):
-              txt = open(path, encoding="utf-8").read()
-
-              # 2× speed — CSS
-              txt = re.sub(
-                  r"animation-duration\s*:\s*([\d.]+)s",
-                  lambda m: f"animation-duration:{round(float(m.group(1))/SPEED,3)}s",
-                  txt
-              )
-              # 2× speed — SMIL
-              txt = re.sub(
-                  r'dur="([\d.]+)s"',
-                  lambda m: f'dur="{round(float(m.group(1))/SPEED,3)}s"',
-                  txt
-              )
-              # Smooth easing
-              txt = txt.replace(
-                  "animation-timing-function:linear",
-                  "animation-timing-function:cubic-bezier(0.4,0,0.2,1)"
-              )
-              # Inject neon style defs right after opening <svg> tag
-              if "neon-glow" not in txt:
-                  txt = re.sub(r"(<svg[^>]*>)", r"\1" + STYLE_INJECT, txt, count=1)
-
-              # Rendering quality
-              if "shape-rendering" not in txt:
-                  txt = txt.replace("<svg ", '<svg shape-rendering="geometricPrecision" ', 1)
-
-              # GPU hint
-              txt = txt.replace(
-                  "animation-duration:",
-                  "will-change:transform;animation-duration:",
-                  1
-              )
-
-              open(path, "w", encoding="utf-8").write(txt)
-              print(f"  ✅ {os.path.basename(path)} — {os.path.getsize(path):,} bytes")
-
-          svgs = glob.glob(os.path.join(SVG_DIR, "*.svg"))
-          if not svgs:
-              print("⚠️  No SVGs found.")
-          else:
-              [patch(s) for s in svgs]
-              print(f"\n✅ {len(svgs)} file(s) — neon #00FFB3 snake + 2× speed applied.")
-          PYEOF
-
-      # ── Verify ────────────────────────────────────────────────────────────
-      - name: 🔍 Verify output
-        run: |
-          for f in dist/github-contribution-grid-snake.svg \
-                   dist/github-contribution-grid-snake-dark.svg; do
-            [ -f "$f" ] && [ -s "$f" ] \
-              && echo "  ✅ $f — $(wc -c < "$f") bytes" \
-              || { echo "  ❌ MISSING: $f"; exit 1; }
-          done
-
-      # ── Push to output branch via git (no peaceiris dep) ──────────────────
-      - name: 🚀 Push to output branch
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Stash the built SVGs before branch switch
-          mkdir -p /tmp/snake-out
-          cp dist/github-contribution-grid-snake.svg      /tmp/snake-out/
-          cp dist/github-contribution-grid-snake-dark.svg /tmp/snake-out/
-
-          # Switch to (or create) orphan output branch
-          git fetch origin output 2>/dev/null \
-            && git checkout output \
-            || git checkout --orphan output
-
-          # Clear everything, place fresh SVGs
-          git rm -rf . --quiet 2>/dev/null || true
-          cp /tmp/snake-out/github-contribution-grid-snake.svg      .
-          cp /tmp/snake-out/github-contribution-grid-snake-dark.svg .
-
-          git add github-contribution-grid-snake.svg \
-                  github-contribution-grid-snake-dark.svg
-
-          git diff --cached --quiet \
-            && echo "⏭️  No changes — skipping commit." \
-            || git commit -m "🐍 snake: update [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-
-          git push origin output --force
-
-      # ── Summary ───────────────────────────────────────────────────────────
-      - name: 📋 Job summary
-        if: always()
-        run: |
-          SRC="Platane/snk + neon post-process"
-          [ "${{ steps.snk.outcome }}" = "failure" ] && SRC="Fallback (GitHub GraphQL) + neon post-process"
-          {
-            echo "## 🐍 Contribution Snake"
-            echo "| | |"
-            echo "|---|---|"
-            echo "| 🕐 Generated | $(date -u '+%Y-%m-%d %H:%M UTC') |"
-            echo "| 🎨 Snake color | \`#00FFB3\` neon teal |"
-            echo "| 👁️ Head color | \`#ff6b6b\` neon red |"
-            echo "| ⚡ Speed | 2× |"
-            echo "| ✨ Effect | Double-layer glow |"
-            echo "| 🔧 Source | $SRC |"
-            echo "| 📦 Branch | \`output\` |"
-          } >> "$GITHUB_STEP_SUMMARY"
+          echo "✅ GitHub Contribution Snake generated successfully!" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "📊 Snake files created:" >> $GITHUB_STEP_SUMMARY
+          echo "  - github-contribution-grid-snake.svg (light mode)" >> $GITHUB_STEP_SUMMARY
+          echo "  - github-contribution-grid-snake-dark.svg (dark mode)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "📍 Branch: output" >> $GITHUB_STEP_SUMMARY.
