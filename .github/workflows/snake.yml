@@ -28,27 +28,37 @@ jobs:
       - name: Generate GitHub contribution snake
         uses: Platane/snk@v3.0.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # snk reads token from env, NOT as an input
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github_user_name: ivengexnce
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?speed_factor=5
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&speed_factor=5
 
-      - name: Push generated snake to output branch
-        uses: peaceiris/actions-gh-pages@v4.0.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
-          force_orphan: false
+      - name: Push to output branch
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p /tmp/snake-out
+          cp dist/github-contribution-grid-snake.svg      /tmp/snake-out/
+          cp dist/github-contribution-grid-snake-dark.svg /tmp/snake-out/
+          git fetch origin output 2>/dev/null \
+            && git checkout output \
+            || git checkout --orphan output
+          git rm -rf . --quiet 2>/dev/null || true
+          cp /tmp/snake-out/github-contribution-grid-snake.svg      .
+          cp /tmp/snake-out/github-contribution-grid-snake-dark.svg .
+          git add github-contribution-grid-snake.svg \
+                  github-contribution-grid-snake-dark.svg
+          git diff --cached --quiet \
+            && echo "No changes to commit" \
+            || git commit -m "chore: update contribution snake"
+          git push origin output --force
 
       - name: Create workflow summary
         run: |
-          echo "✅ GitHub Contribution Snake generated successfully!" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "📊 Snake files created:" >> $GITHUB_STEP_SUMMARY
-          echo "  - github-contribution-grid-snake.svg (light mode)" >> $GITHUB_STEP_SUMMARY
-          echo "  - github-contribution-grid-snake-dark.svg (dark mode)" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "📍 Branch: output" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Snake generated!" >> $GITHUB_STEP_SUMMARY
+          echo "  - Light: github-contribution-grid-snake.svg" >> $GITHUB_STEP_SUMMARY
+          echo "  - Dark:  github-contribution-grid-snake-dark.svg" >> $GITHUB_STEP_SUMMARY
+          echo "  - Speed: 5× (speed_factor=5)" >> $GITHUB_STEP_SUMMARY
+          echo "  - Branch: output" >> $GITHUB_STEP_SUMMARY
