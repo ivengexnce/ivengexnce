@@ -1,4 +1,4 @@
-name: 🐍 GitHub Contribution Snake
+                name: 🐍 GitHub Contribution Snake
 
 on:
   schedule:
@@ -332,4 +332,3 @@ jobs:
             echo "| 🔧 Source | $SRC |"
             echo "| 📦 Branch | \`output\` |"
           } >> "$GITHUB_STEP_SUMMARY"
-        
