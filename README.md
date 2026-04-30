@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-meetmaru%2Fportfolio-00FFB3?style=for-the-badge&labelColor=0d1117&logo=firefox&logoColor=00FFB3)](https://meetmaru.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-meetmaru-00FFB3?style=for-the-badge&labelColor=0d1117&logo=firefox&logoColor=00FFB3)](https://meetmaru.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/meetmaru149/)
 [![Gmail](https://img.shields.io/badge/Gmail-meetmaru149%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:meetmaru149@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/ivengexnce/)
