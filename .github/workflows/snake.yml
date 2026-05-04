@@ -35,8 +35,9 @@ jobs:
             dist/github-contribution-grid-snake.svg?speed_factor=5
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&speed_factor=5
 
+      # ✅ FIX: Transfer ownership to current user (snk writes files as root)
       - name: Fix permissions
-        run: sudo chmod -R u+w dist/
+        run: sudo chown -R $(whoami) dist/ && chmod -R u+rw dist/
 
       - name: Inject date label into SVGs
         run: |
@@ -57,7 +58,7 @@ jobs:
               else:
                   w, h = 800, 128   # snk default fallback
 
-              dark = "dark" in os.path.basename(path)
+              dark        = "dark" in os.path.basename(path)
               text_color  = "#8b949e" if dark else "#57606a"
               font_family = "JetBrains Mono, Fira Code, monospace"
 
@@ -79,27 +80,34 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           mkdir -p /tmp/snake-out
           cp dist/github-contribution-grid-snake.svg      /tmp/snake-out/
           cp dist/github-contribution-grid-snake-dark.svg /tmp/snake-out/
+
           git fetch origin output 2>/dev/null \
             && git checkout output \
             || git checkout --orphan output
+
           git rm -rf . --quiet 2>/dev/null || true
+
           cp /tmp/snake-out/github-contribution-grid-snake.svg      .
           cp /tmp/snake-out/github-contribution-grid-snake-dark.svg .
+
           git add github-contribution-grid-snake.svg \
                   github-contribution-grid-snake-dark.svg
+
           git diff --cached --quiet \
             && echo "No changes to commit" \
             || git commit -m "chore: update contribution snake"
+
           git push origin output --force
 
       - name: Create workflow summary
         run: |
           DATE=$(date -u '+%B %d, %Y')
-          echo "✅ Snake generated — $DATE" >> $GITHUB_STEP_SUMMARY
-          echo "  - Light: github-contribution-grid-snake.svg" >> $GITHUB_STEP_SUMMARY
-          echo "  - Dark:  github-contribution-grid-snake-dark.svg" >> $GITHUB_STEP_SUMMARY
-          echo "  - Speed: 5× | Date label: $DATE" >> $GITHUB_STEP_SUMMARY
-          echo "  - Branch: output" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Snake generated — $DATE"                             >> $GITHUB_STEP_SUMMARY
+          echo "  - Light: github-contribution-grid-snake.svg"         >> $GITHUB_STEP_SUMMARY
+          echo "  - Dark:  github-contribution-grid-snake-dark.svg"    >> $GITHUB_STEP_SUMMARY
+          echo "  - Speed: 5× | Date label: $DATE"                     >> $GITHUB_STEP_SUMMARY
+          echo "  - Branch: output"                                     >> $GITHUB_STEP_SUMMARY
