@@ -94,8 +94,8 @@ status:
 
 <div align="center">
 
-[![AI Projects](https://gh-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/AI_Projects)
-[![ML_Projects](https://gh-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/ML_Projects)
+[![AI Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/AI_Projects)
+[![ML_Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/ML_Projects)
 [![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/Python_Projects)
 [![FullStack Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/ivengexnce/FullStack_Projects)
 
@@ -168,7 +168,7 @@ status:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12" alt="Meet Maru GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&border_radius=12" alt="Meet Maru GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&border_radius=12" alt="Meet Maru GitHub Streak" />
 
 <br/><br/>
 
