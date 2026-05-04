@@ -94,13 +94,20 @@ status:
 
 <div align="center">
 
-[![AI Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&show_owner=false)](https://github.com/ivengexnce/AI_Projects)
-[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&show_owner=false)](https://github.com/ivengexnce/ML_Projects)
-[![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&show_owner=false)](https://github.com/ivengexnce/Python_Projects)
-[![FullStack Projects](https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&show_owner=false)](https://github.com/ivengexnce/FullStack_Projects)
+<a href="https://github.com/ivengexnce/AI_Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/ivengexnce/ML_Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/ivengexnce/Python_Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/ivengexnce/FullStack_Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
+</a>
 
 </div>
-
 <br/>
 
 ---
