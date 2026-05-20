@@ -6,11 +6,7 @@
 
 <br/>
 
-<!-- 
-  BUG FIX #3: Unified portfolio URL to meetmaru.netlify.app everywhere.
-  Previously two different URLs were used (netlify vs github.io/portfolio).
--->
-[![Portfolio](https://img.shields.io/badge/Portfolio-meetmaru.netlify.app-00FFB3?style=for-the-badge&labelColor=0d1117&logo=firefox&logoColor=00FFB3)](https://meetmaru.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-meetmaru-00FFB3?style=for-the-badge&labelColor=0d1117&logo=firefox&logoColor=00FFB3)](https://meetmaru.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/meetmaru149/)
 [![Gmail](https://img.shields.io/badge/Gmail-meetmaru149%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:meetmaru149@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/ivengexnce/)
@@ -41,7 +37,7 @@ Currently pursuing a **B.E. in CSE (AI & ML)** at VIVA Institute of Technology, 
 # meet-maru.yaml
 identity:
   name         : Meet Maru
-  location     : Mumbai, Maharashtra, India
+  location     : Mumbai, Maharashtra, India 🇮🇳
   pronouns     : he/him
   github       : ivengexnce
 
@@ -49,7 +45,7 @@ education:
   degree       : B.E. Computer Science Engineering — AI & ML
   college      : VIVA Institute of Technology, Mumbai
   batch        : 2024 – 2028
-  cgpa         : 8.31  # Climbing
+  cgpa         : 8.31  #Climbing ↑
 
 leadership:
   role         : Vice President @ CSI VIVA
@@ -96,30 +92,22 @@ status:
 
 ## 📁 Project Collections
 
-<!--
-  BUG FIX #2: Added &cache_seconds=86400 to all repo-pin URLs.
-  The community vercel instance rate-limits requests — long caching prevents
-  GitHub's CDN (camo.githubusercontent.com) from caching a 429 as a broken image.
-  Also switched to &hide_border=true for visual consistency.
--->
-
 <div align="center">
 
 <a href="https://github.com/ivengexnce/AI_Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/ivengexnce/ML_Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/ivengexnce/Python_Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/ivengexnce/FullStack_Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
 
 </div>
-
 <br/>
 
 ---
@@ -170,18 +158,13 @@ status:
 
 ### Proficiency Breakdown
 
-<!--
-  IMPROVEMENT: Replaced unreliable Unicode block chars (render differently across
-  fonts/OS) with shield.io progress badges — consistent across all platforms.
--->
-
 | Skill | Level | Progress |
 |-------|-------|----------|
-| HTML5 & CSS3 | Advanced | ![92%](https://img.shields.io/badge/92%25-00FFB3?style=flat-square&labelColor=0d1117) |
-| JavaScript | Intermediate | ![75%](https://img.shields.io/badge/75%25-00d4ff?style=flat-square&labelColor=0d1117) |
-| Python | Intermediate | ![74%](https://img.shields.io/badge/74%25-00d4ff?style=flat-square&labelColor=0d1117) |
-| MySQL | Intermediate | ![72%](https://img.shields.io/badge/72%25-00d4ff?style=flat-square&labelColor=0d1117) |
-| C++ | Beginner–Intermediate | ![50%](https://img.shields.io/badge/50%25-8b949e?style=flat-square&labelColor=0d1117) |
+| HTML5 & CSS3 | Advanced | `████████████████████░░` 92% |
+| JavaScript | Intermediate | `█████████████████░░░░░` 75% |
+| Python | Intermediate | `████████████████░░░░░░` 74% |
+| MySQL | Intermediate | `████████████████░░░░░░` 72% |
+| C++ | Beginner–Intermediate | `███████████░░░░░░░░░░░` 50% |
 
 <br/>
 
@@ -189,22 +172,14 @@ status:
 
 ## 📊 GitHub Stats
 
-<!--
-  BUG FIX #1 & #4: Added &cache_seconds=86400 to all github-readme-stats URLs.
-  Root cause: the community vercel instance rate-limits heavy users, GitHub CDN then
-  caches the failed response as a broken image for hours.
-  Also fixed: rank_icon changed from deprecated "github" to "percentile",
-  and langs_count reduced from 7 to 6 (donut chart becomes illegible with 7 entries).
--->
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12&cache_seconds=86400" alt="Meet Maru GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&border_radius=12&cache_seconds=86400" alt="Meet Maru GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12" alt="Meet Maru GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&border_radius=12" alt="Meet Maru GitHub Streak" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=6&border_radius=12&count_private=true&cache_seconds=86400" alt="Meet Maru Top Languages" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=7&border_radius=12&count_private=true" alt="Meet Maru Top Languages" />
 
 </div>
 
@@ -214,14 +189,9 @@ status:
 
 ## 📈 Contribution Graph
 
-<!--
-  IMPROVEMENT: Fixed URL encoding on custom_title — spaces must be %20 not raw spaces.
-  Added cache param for consistency.
--->
-
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=0d1117&color=00FFB3&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Meet%20Maru%20%E2%80%94%20Contribution%20Graph&radius=8&cache_seconds=86400)](https://github.com/ivengexnce)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=0d1117&color=00FFB3&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Meet%20Maru%20%E2%80%94%20Contribution%20Graph&radius=8)](https://github.com/ivengexnce)
 
 </div>
 
@@ -230,39 +200,6 @@ status:
 ---
 
 ## 🐍 Contribution Snake
-
-<!--
-  BUG FIX (Warning #1): The snake SVG is generated by a GitHub Actions workflow.
-  If the workflow below hasn't been set up in your repo, both SVG paths return 404.
-
-  ACTION REQUIRED — create this file in your repo:
-  .github/workflows/snake.yml
-  ─────────────────────────────────────────────
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"   # daily at midnight UTC
-    workflow_dispatch:
-  jobs:
-    snake:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v3
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ivengexnce
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ─────────────────────────────────────────────
-  After the first run, the SVGs will exist at the URLs below.
--->
 
 <div align="center">
 
@@ -312,6 +249,14 @@ status:
 
 ---
 
+## 🧠 Live Dev Activity
+
+> ⚡ Auto-updates every 24h via GitHub Actions.
+
+<br/>
+
+---
+
 ## 🤝 Let's Connect
 
 I'm actively looking for **internship opportunities** in **AI/ML engineering**, **Python development**, and **full-stack web development** in Mumbai (on-site, hybrid, or remote). Open to collaborating on ambitious, real-world AI and ML projects.
@@ -322,8 +267,7 @@ Whether you're a **recruiter**, a **developer**, a **researcher**, or a **CEO / 
 
 <br/>
 
-<!-- BUG FIX #3: Unified to single portfolio URL — meetmaru.netlify.app -->
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-meetmaru.netlify.app-00FFB3?style=for-the-badge&labelColor=0d1117)](https://meetmaru.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ivengexnce.github.io%2Fportfolio-00FFB3?style=for-the-badge&labelColor=0d1117)](https://ivengexnce.github.io/portfolio/)
 
 <br/>
 
