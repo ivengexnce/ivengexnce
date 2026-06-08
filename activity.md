@@ -1,14 +1,14 @@
 ## 🧠 Live Dev Activity
 
-> Auto-updated every 24 hours via GitHub Actions · Last sync: **June 07, 2026 at 04:41 UTC**
+> Auto-updated every 24 hours via GitHub Actions · Last sync: **June 08, 2026 at 04:46 UTC**
 
 ### 📡 Latest Action
-**Pushed code** in `ivengexnce/ivengexnce` on **June 06, 2026 at 08:46 UTC**
+**Pushed code** in `ivengexnce/NextShare` on **June 07, 2026 at 20:15 UTC**
 
 ### 📊 Quick Stats
 | Metric | Count |
 |--------|-------|
-| Public Repos | 14 |
+| Public Repos | 15 |
 | Total Stars Earned | 3 |
 | Total Forks | 0 |
 | Followers | 0 |
@@ -16,11 +16,11 @@
 ### 🔥 Recent Activity Feed
 | Date | Action | Repository |
 |------|--------|------------|
-| Jun 06 | pushed code | [ivengexnce](https://github.com/ivengexnce/ivengexnce) |
-| Jun 06 | pushed code | [portfolio](https://github.com/ivengexnce/portfolio) |
-| Jun 03 | pushed code | [python_lectures_from_beginning](https://github.com/ivengexnce/python_lectures_from_beginning) |
-| Jun 03 | pushed code | [python_lectures_from_beginning](https://github.com/ivengexnce/python_lectures_from_beginning) |
-| May 31 | pushed code | [python_lectures_from_beginning](https://github.com/ivengexnce/python_lectures_from_beginning) |
+| Jun 07 | pushed code | [NextShare](https://github.com/ivengexnce/NextShare) |
+| Jun 07 | pushed code | [NextShare](https://github.com/ivengexnce/NextShare) |
+| Jun 07 | pushed code | [NextShare](https://github.com/ivengexnce/NextShare) |
+| Jun 07 | pushed code | [NextShare](https://github.com/ivengexnce/NextShare) |
+| Jun 07 | pushed code | [NextShare](https://github.com/ivengexnce/NextShare) |
 
 ### 🏆 Top Repositories
 | Repository | Description | Stars | Language |
@@ -28,4 +28,4 @@
 | [FullStack_Projects](https://github.com/ivengexnce/FullStack_Projects) | Full-stack web apps with real-world impact — C-Thriftier (sustainable clothing swap platform) & OrbitX (space EdTech learning portal). Stack: HTML5 · CSS3 · JavaScript · Flask · PHP · MySQL · MongoDB. | ⭐ 1 | — |
 | [ML_Projects](https://github.com/ivengexnce/ML_Projects) | End-to-end Machine Learning projects — Sentiment Classifier, House Price Predictor, Spam Detector & CNN Image Classifier. Full pipeline: data → preprocessing → training → deployment. Stack: Python · scikit-learn · Flask · Jupyter. | ⭐ 1 | — |
 | [AI_Projects](https://github.com/ivengexnce/AI_Projects) | Real-world AI systems: facial emotion detection in 9 Indian languages (SIH finalist), production sentiment API on AWS (SentiFlow), NLP, LLMs & computer vision. Stack: Python · OpenCV · Flask · Docker · AWS. | ⭐ 1 | — |
-| [ivengexnce](https://github.com/ivengexnce/ivengexnce) | ✨ My GitHub profile README — Meet Maru · AI & ML Engineer from Mumbai, India. Building production ML systems, AI agents & full-stack web apps. SIH participant · VP @ CSI VIVA · Open to internships. | — | Python |
+| [NextShare](https://github.com/ivengexnce/NextShare) | No description | — | JavaScript |
