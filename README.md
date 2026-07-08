@@ -46,7 +46,7 @@ education:
   degree       : B.E. Computer Science Engineering — AI & ML
   college      : VIVA Institute of Technology, Virar, Mumbai
   batch        : 2024 – 2028
-  cgpa         : 8.31  # Sem I: 6.50 → Sem II: 8.22 → Sem III: 8.31
+  cgpa         : 7.71 
 
 leadership:
   role         : Vice President @ CSI VIVA
