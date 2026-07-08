@@ -2,11 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Hey%2C+I'm+Meet+Maru+%F0%9F%90%89" alt="Meet Maru — AI and ML Engineer Mumbai India" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=00FFB3&center=true&vCenter=true&width=720&height=40&lines=AI+%26+ML+Engineer+%7C+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;B.E.+CSE+(AI+%26+ML)+%40+VIVA+Institute+of+Technology;Vice+President+%40+CSI+VIVA+%7C+10%2B+Members;SIH+%7C+Space+Explorer+AI+%7C+DevLens+%7C+SentiFlow;Open+to+Internships+%26+Collaborations" alt="Meet Maru roles — Python Developer, Computer Vision, Flask, OpenCV, LLMs" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=00FFB3&center=true&vCenter=true&width=720&height=40&lines=AI+%26+ML+Engineer+%7C+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;B.E.+CSE+(AI+%26+ML)+%40+VIVA+Institute+of+Technology;Vice+President+%40+CSI+VIVA+%7C+100%2B+Members;Front-End+AI+Engineering+Intern+%40+FlyRank;SIH+%7C+NextShare+%7C+Space+Explorer+AI+%7C+DevLens+%7C+SentiFlow" alt="Meet Maru roles — Python Developer, Computer Vision, Flask, OpenCV, LLMs" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-meetmaru-00FFB3?style=for-the-badge&labelColor=0d1117&logo=firefox&logoColor=00FFB3)](https://meetmaru.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ivengexnce.github.io%2Fportfolio-00FFB3?style=for-the-badge&labelColor=0d1117&logo=firefox&logoColor=00FFB3)](https://ivengexnce.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/meetmaru149/)
 [![Gmail](https://img.shields.io/badge/Gmail-meetmaru149%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:meetmaru149@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/ivengexnce/)
@@ -22,13 +22,14 @@
 
 I'm **Meet Maru** — an **AI & ML Engineer** and Full-Stack Web Developer from **Mumbai, India**.
 
-I build production-grade AI systems: real-time **facial emotion detection**, **multilingual TTS**, **NLP pipelines**, **computer vision** tools, and full-stack web platforms using **Python, Flask, OpenCV**, and **Large Language Models (LLMs)**. I care about writing clean code, shipping real products, and learning in public.
+I build production-grade AI systems and full-stack platforms: real-time **facial emotion detection**, **multilingual TTS**, **NLP pipelines**, **computer vision** tools, and scalable **Node.js/React** dev-tool suites. I care about clean architecture, shipping real products, and learning in public.
 
-Currently pursuing a **B.E. in CSE (AI & ML)** at VIVA Institute of Technology, Mumbai, and serving as **Vice President at CSI VIVA** — leading technical events, workshops, and a 10+ member team.
+Currently pursuing a **B.E. in CSE (AI & ML)** at VIVA Institute of Technology, Mumbai (2024–2028), serving as **Vice President at CSI VIVA** — leading 100+ students — and starting a **Front-End AI Engineering Internship at FlyRank** (Remote, July–August 2026).
 
+- 🚀 Building **NextShare** — a full-stack URL shortener / file-share / code-paste platform with offline PWA support
 - 🏆 **SIH participant** — Space Explorer AI Wellbeing (real-time emotion AI, 9 Indian languages)
-- 🧠 Exploring **Prompt Engineering** with Llama 2 & 3, **AI Agents**, and **ML deployment**
-- 🔍 **Open to internships** — AI/ML Engineering · Python Development · Full-Stack Web Dev
+- 🧠 Exploring **Prompt Engineering**, **AI Agents**, and production ML deployment
+- 🔍 **Open to internships & collaborations** — AI/ML Engineering · Front-End AI · Full-Stack Dev
 - 📈 CGPA: **8.31** | Consistent upward trend across all semesters
 
 <br/>
@@ -43,20 +44,23 @@ identity:
 
 education:
   degree       : B.E. Computer Science Engineering — AI & ML
-  college      : VIVA Institute of Technology, Mumbai
+  college      : VIVA Institute of Technology, Virar, Mumbai
   batch        : 2024 – 2028
-  cgpa         : 8.31  #Climbing ↑
+  cgpa         : 8.31  # Sem I: 6.50 → Sem II: 8.22 → Sem III: 8.31
 
 leadership:
   role         : Vice President @ CSI VIVA
-  team_size    : 10+ members
+  team_size    : 100+ students
   scope        : Technical Events · Workshops · Community Building · PR Outreach
 
+experience:
+  current      : Front-End AI Engineering Intern @ FlyRank (Remote, Jul–Aug 2026)
+
 engineering:
-  focus        : AI Agents · Computer Vision · NLP · Full-Stack SaaS · Automation
-  highlight    : SIH — Space Explorer AI Wellbeing (multilingual emotion detection AI)
-  languages    : Python · JavaScript · HTML/CSS · MySQL · C++ · PHP
-  tools        : OpenCV · Flask · scikit-learn · Tkinter · Pygame · Pillow · rembg · Unity
+  focus        : Full-Stack SaaS · AI Agents · Computer Vision · NLP · Automation
+  highlight    : NextShare — URL shortener, file share & paste tool w/ admin analytics
+  languages    : JavaScript · Python · HTML/CSS · MySQL · C++ · PHP
+  tools        : React · Node.js/Express · MongoDB · Redis · OpenCV · Flask · scikit-learn
 
 status:
   open_to      : Internships · Collaborations · Ambitious Real-World Problems
@@ -73,7 +77,8 @@ status:
 
 | Project | What it does | Stack | Link |
 |---------|-------------|-------|------|
-| **Space Explorer AI Wellbeing** | SIH — Space learning portal + real-time **facial emotion detection** with empathy responses in **9 Indian languages** via TTS. Computer vision + multilingual AI for student wellbeing. | Python · Flask · OpenCV · PHP | [→](https://github.com/ivengexnce/Space-Explorer-AI-Wellbeing) |
+| **NextShare** *(NexusToolkit)* | Full-stack dev-tool suite — URL shortening, file sharing & code paste with an owner-only admin analytics dashboard, Redis-backed visitor tracking, and offline PWA support | React 18 · Node.js/Express · MongoDB · Redis | [→](https://github.com/ivengexnce/NextShare) · [Live](https://nextsharebymeet.vercel.app/) |
+| **Space Explorer AI Wellbeing** | SIH — Space learning portal + real-time **facial emotion detection** with empathy responses in **9 Indian languages** via TTS | Python · Flask · OpenCV · PHP | [→](https://github.com/ivengexnce/Space-Explorer-AI-Wellbeing) |
 | **SentiFlow** | **Sentiment analysis** & NLP pipeline with a full web UI — classify, analyse, and visualise text sentiment in real time | Python · HTML | [→](https://github.com/ivengexnce/SentiFlow) |
 | **DevLens** | Developer productivity tool — inspect and surface codebase insights instantly without reading raw source | JavaScript | [→](https://github.com/ivengexnce/DevLens) |
 | **C-Thriftier** | Clothing-swap web platform for **sustainable fashion** — exchange, donate, or request clothes within your community | HTML · CSS · JS · PHP | [→](https://github.com/ivengexnce/C-Thriftier) |
@@ -106,6 +111,9 @@ status:
 <a href="https://github.com/ivengexnce/FullStack_Projects">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
+<a href="https://github.com/ivengexnce/NextShare">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=NextShare&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
+</a>
 
 </div>
 <br/>
@@ -118,13 +126,26 @@ status:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
+### Full-Stack & Backend
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
@@ -148,6 +169,8 @@ status:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -209,10 +232,22 @@ status:
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
-| ML Engineering | edQuest | 2026 |
-| Prompt Engineering with Llama 2 & 3 | edQuest | 2026 |
-| Prompt Engineering | SoloLearn | 2026 |
-| Build a Computer Vision App | Microsoft Azure | 2025 |
+| Prompt Engineering | edQuest | 2026 |
+| Vertex AI | Google Cloud | 2026 |
+| Computer Vision | Microsoft Azure | 2025 |
+| UI/UX Design Workshop | CLYXN Studios | 2025 |
+| MongoDB Fundamentals | MongoDB University | 2025 |
+
+<br/>
+
+---
+
+## 💼 Experience
+
+| Role | Org | Period |
+|------|-----|--------|
+| Front-End AI Engineering Intern | FlyRank (Remote) | Jul – Aug 2026 |
+| Vice President | CSI VIVA | 2025 – Present |
 
 <br/>
 
@@ -229,7 +264,7 @@ status:
 | 📅 **Batch** | 2024 – 2028 |
 | 📊 **CGPA** | 8.31 (Sem I: 6.50 → Sem II: 8.22 → Sem III: 8.31 — consistent growth ↑) |
 | 🏆 **Role** | Vice President @ Computer Society of India — CSE AI & ML, VIVA Chapter |
-| 👥 **Team** | Leading 10+ members across technical events, workshops, and community outreach |
+| 👥 **Team** | Leading 100+ students across technical events, workshops, and community outreach |
 | 🎤 **Events** | Event Head — AI-Tech Battle @ TechChase 2K25 · Volunteer — NCRENB 2026 National Conference |
 | 🌍 **Outreach** | Represented VIVA CSI at 3 engineering colleges across Mumbai for INGENIOUS 2K26 |
 
@@ -249,7 +284,7 @@ status:
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **internship opportunities** in **AI/ML engineering**, **Python development**, and **full-stack web development** in Mumbai (on-site, hybrid, or remote). Open to collaborating on ambitious, real-world AI and ML projects.
+I'm actively looking for **internship opportunities** in **AI/ML engineering**, **front-end AI**, and **full-stack web development**. Open to collaborating on ambitious, real-world AI and ML projects.
 
 Whether you're a **recruiter**, a **developer**, a **researcher**, or a **CEO / co-founder** building something meaningful — let's talk.
 
