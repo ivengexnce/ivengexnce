@@ -188,7 +188,7 @@ status:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12" alt="Meet Maru GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&border_radius=12" alt="Meet Maru GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&border_radius=12" alt="Meet Maru GitHub Streak" />
 
 <br/><br/>
 
@@ -204,7 +204,7 @@ status:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=0d1117&color=00FFB3&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Meet%20Maru%20%E2%80%94%20Contribution%20Graph&radius=8)](https://github.com/ivengexnce)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=0d1117&color=00FFB3&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Meet%20Maru%20%E2%80%94%20Contribution%20Graph&radius=8&from=2025-07-08&to=2026-07-08)](https://github.com/ivengexnce)
 
 </div>
 
