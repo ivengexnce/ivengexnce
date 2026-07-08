@@ -30,7 +30,7 @@ Currently pursuing a **B.E. in CSE (AI & ML)** at VIVA Institute of Technology, 
 - 🏆 **SIH participant** — Space Explorer AI Wellbeing (real-time emotion AI, 9 Indian languages)
 - 🧠 Exploring **Prompt Engineering**, **AI Agents**, and production ML deployment
 - 🔍 **Open to internships & collaborations** — AI/ML Engineering · Front-End AI · Full-Stack Dev
-- 📈 CGPA: **8.31** | Consistent upward trend across all semesters
+- 📈 CGPA: **7.71** | Consistent upward trend across all semesters
 
 <br/>
 
