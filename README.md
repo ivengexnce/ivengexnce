@@ -108,8 +108,8 @@ status:
 <a href="https://github.com/ivengexnce/Python_Projects">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/ivengexnce/FullStack_Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
+<a href="https://github.com/ivengexnce/Full_Stack-Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Full_Stack-Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/ivengexnce/NextShare">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=NextShare&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
