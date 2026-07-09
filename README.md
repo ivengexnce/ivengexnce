@@ -99,9 +99,10 @@ status:
 <div align="center">
 
 <table>
+
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🤖 AI Projects
 
@@ -110,16 +111,12 @@ status:
 <br>
 
 <a href="https://github.com/ivengexnce/AI_Projects">
-<img src="https://img.shields.io/badge/Explore%20Collection-00FFB3?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=black"/>
 </a>
-
-<br><br>
-
-`Python` • `OpenCV` • `LLMs`
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🧠 ML Projects
 
@@ -128,12 +125,8 @@ status:
 <br>
 
 <a href="https://github.com/ivengexnce/ML_Projects">
-<img src="https://img.shields.io/badge/Explore%20Collection-00FFB3?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=black"/>
 </a>
-
-<br><br>
-
-`Scikit-learn` • `TensorFlow` • `NumPy`
 
 </td>
 
@@ -141,39 +134,31 @@ status:
 
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🐍 Python Projects
 
-> Automation • APIs • Desktop Apps • Utilities
+> Automation • APIs • Desktop Applications • Utilities
 
 <br>
 
 <a href="https://github.com/ivengexnce/Python_Projects">
-<img src="https://img.shields.io/badge/Explore%20Collection-00FFB3?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=black"/>
 </a>
-
-<br><br>
-
-`Flask` • `Tkinter` • `Automation`
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 💻 Full Stack Projects
 
-> React • Node.js • Express • MongoDB
+> React • Node.js • Express • MongoDB • Modern Web Applications
 
 <br>
 
 <a href="https://github.com/ivengexnce/FullStack_Projects">
-<img src="https://img.shields.io/badge/Explore%20Collection-00FFB3?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=black"/>
 </a>
-
-<br><br>
-
-`React` • `Node.js` • `MongoDB`
 
 </td>
 
