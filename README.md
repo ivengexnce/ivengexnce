@@ -95,26 +95,63 @@ status:
 
 ---
 
-## 📁 Project Collections
+# 📁 Project Collections
+
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
+## 🤖 AI Projects
+
+Artificial Intelligence, LLMs, NLP, Computer Vision & AI Agents
+
 <a href="https://github.com/ivengexnce/AI_Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&cache_seconds=86400" />
+<img src="https://img.shields.io/badge/Open%20Repository-00FFB3?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
+
+</td>
+
+<td width="50%" align="center">
+
+## 🧠 ML Projects
+
+Machine Learning, Deep Learning & Data Science
 
 <a href="https://github.com/ivengexnce/ML_Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight&cache_seconds=86400" />
+<img src="https://img.shields.io/badge/Open%20Repository-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<br>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+## 🐍 Python Projects
+
+Automation, APIs, GUI Apps & Utilities
 
 <a href="https://github.com/ivengexnce/Python_Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight&cache_seconds=86400" />
+<img src="https://img.shields.io/badge/Open%20Repository-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
 </a>
 
+</td>
+
+<td width="50%" align="center">
+
+## 💻 Full Stack Projects
+
+React, Node.js, Express, MongoDB & Full Stack Apps
+
 <a href="https://github.com/ivengexnce/FullStack_Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight&cache_seconds=86400" />
+<img src="https://img.shields.io/badge/Open%20Repository-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </a>
+
+</td>
+</tr>
+</table>
 
 </div>
 <br/>
