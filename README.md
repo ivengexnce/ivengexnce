@@ -312,7 +312,7 @@ status:
 | 🏫 **College** | VIVA Institute of Technology, Virar, Mumbai |
 | 📚 **Degree** | B.E. Computer Science Engineering — Artificial Intelligence & Machine Learning |
 | 📅 **Batch** | 2024 – 2028 |
-| 📊 **CGPA** | 8.31 (Sem I: 6.50 → Sem II: 8.22 → Sem III: 8.31 — consistent growth ↑) |
+| 📊 **CGPA** | 7.71  |
 | 🏆 **Role** | Vice President @ Computer Society of India — CSE AI & ML, VIVA Chapter |
 | 👥 **Team** | Leading 100+ students across technical events, workshops, and community outreach |
 | 🎤 **Events** | Event Head — AI-Tech Battle @ TechChase 2K25 · Volunteer — NCRENB 2026 National Conference |
