@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Hey%2C+I'm+Meet+Maru+%F0%9F%90%89" alt="Meet Maru — AI and ML Engineer Mumbai India" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=00FFB3&center=true&vCenter=true&width=720&height=40&lines=AI+%26+ML+Engineer+%7C+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;B.E.+CSE+(AI+%26+ML)+%40+VIVA+Institute+of+Technology;Vice+President+%40+CSI+VIVA+%7C+10%2B+Members;Front-End+AI+Engineering+Intern+%40+FlyRank;SIH+%7C+NextShare+%7C+Space+Explorer+AI+%7C+DevLens+%7C+SentiFlow" alt="Meet Maru roles — Python Developer, Computer Vision, Flask, OpenCV, LLMs" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=00FFB3&center=true&vCenter=true&width=720&height=40&lines=AI+%26+ML+Engineer+%7C+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;B.E.+CSE+(AI+%26+ML)+%40+VIVA+Institute+of+Technology;Vice+President+%40+CSI+VIVA+%7C+100%2B+Members;Front-End+AI+Engineering+Intern+%40+FlyRank;SIH+%7C+NextShare+%7C+Space+Explorer+AI+%7C+DevLens+%7C+SentiFlow" alt="Meet Maru roles — Python Developer, Computer Vision, Flask, OpenCV, LLMs" />
 
 <br/>
 
@@ -30,7 +30,7 @@ Currently pursuing a **B.E. in CSE (AI & ML)** at VIVA Institute of Technology, 
 - 🏆 **SIH participant** — Space Explorer AI Wellbeing (real-time emotion AI, 9 Indian languages)
 - 🧠 Exploring **Prompt Engineering**, **AI Agents**, and production ML deployment
 - 🔍 **Open to internships & collaborations** — AI/ML Engineering · Front-End AI · Full-Stack Dev
-- 📈 CGPA: **7.71** | Consistent upward trend across all semesters
+- 📈 CGPA: **8.31** | Consistent upward trend across all semesters
 
 <br/>
 
@@ -46,7 +46,7 @@ education:
   degree       : B.E. Computer Science Engineering — AI & ML
   college      : VIVA Institute of Technology, Virar, Mumbai
   batch        : 2024 – 2028
-  cgpa         : 7.71 
+  cgpa         : 8.31
 
 leadership:
   role         : Vice President @ CSI VIVA
@@ -108,8 +108,8 @@ status:
 <a href="https://github.com/ivengexnce/Python_Projects">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/ivengexnce/Full_Stack-Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Full_Stack-Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
+<a href="https://github.com/ivengexnce/FullStack_Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/ivengexnce/NextShare">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=NextShare&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
@@ -187,12 +187,12 @@ status:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12&cache_seconds=86400" alt="Meet Maru GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12" alt="Meet Maru GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ivengexnce&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e&border_radius=12" alt="Meet Maru GitHub Streak" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=7&border_radius=12&count_private=true&cache_seconds=86400" alt="Meet Maru Top Languages" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=7&border_radius=12&count_private=true" alt="Meet Maru Top Languages" />
 
 </div>
 
@@ -204,7 +204,7 @@ status:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=0d1117&color=00FFB3&line=00d4ff&point=ffffff&area=false&hide_border=true&custom_title=Meet%20Maru%20%E2%80%94%20Contribution%20Graph&radius=8&height=300&from=2025-07-08&to=2026-07-08)](https://github.com/ivengexnce)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=0d1117&color=00FFB3&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&custom_title=Meet%20Maru%20%E2%80%94%20Contribution%20Graph&radius=8&height=300&days=30)](https://github.com/ivengexnce)
 
 </div>
 
