@@ -102,31 +102,51 @@ status:
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%">
 
 ### 🤖 AI Projects
 
-> Artificial Intelligence • LLMs • NLP • Computer Vision • AI Agents
-
-<br>
+<table>
+<tr>
+<td width="28%" align="center">
 
 <a href="https://github.com/ivengexnce/AI_Projects">
-<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td>
+
+Artificial Intelligence • LLMs • NLP • Computer Vision • AI Agents
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%">
 
 ### 🧠 ML Projects
 
-> Machine Learning • Deep Learning • Data Science
-
-<br>
+<table>
+<tr>
+<td width="28%" align="center">
 
 <a href="https://github.com/ivengexnce/ML_Projects">
-<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+<td>
+
+Machine Learning • Deep Learning • Data Science
+
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -134,31 +154,51 @@ status:
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%">
 
 ### 🐍 Python Projects
 
-> Automation • APIs • Desktop Applications • Utilities
-
-<br>
+<table>
+<tr>
+<td width="28%" align="center">
 
 <a href="https://github.com/ivengexnce/Python_Projects">
-<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td>
+
+Automation • APIs • Desktop Applications • Utilities
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%">
 
 ### 💻 Full Stack Projects
 
-> React • Node.js • Express • MongoDB • Modern Web Applications
-
-<br>
+<table>
+<tr>
+<td width="28%" align="center">
 
 <a href="https://github.com/ivengexnce/FullStack_Projects">
-<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+<td>
+
+React • Node.js • Express • MongoDB • Modern Web Applications
+
+</td>
+</tr>
+</table>
 
 </td>
 
