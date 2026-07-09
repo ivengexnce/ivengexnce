@@ -100,21 +100,21 @@ status:
 <div align="center">
 
 <a href="https://github.com/ivengexnce/AI_Projects">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/ivengexnce/ML_Projects">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/ivengexnce/Python_Projects">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/ivengexnce/FullStack_Projects">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00d4ff&text_color=c9d1d9" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight"/>
 </a>
 
 </div>
