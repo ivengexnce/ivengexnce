@@ -96,25 +96,24 @@ status:
 ---
 
 ## 📁 Project Collections
-
 <div align="center">
 
 <a href="https://github.com/ivengexnce/AI_Projects">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=AI_Projects&theme=tokyonight&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/ivengexnce/ML_Projects">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=ML_Projects&theme=tokyonight&cache_seconds=86400" />
 </a>
 
 <br>
 
 <a href="https://github.com/ivengexnce/Python_Projects">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=Python_Projects&theme=tokyonight&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/ivengexnce/FullStack_Projects">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ivengexnce&repo=FullStack_Projects&theme=tokyonight&cache_seconds=86400" />
 </a>
 
 </div>
