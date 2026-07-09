@@ -110,8 +110,8 @@ status:
 
 <br>
 
-<a href="https://github.com/ivengexnce/AI_Projects"><td width="50%" align="center">
-<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/></td>
+<a href="https://github.com/ivengexnce/AI_Projects">
+<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -124,8 +124,8 @@ status:
 
 <br>
 
-<a href="https://github.com/ivengexnce/ML_Projects"><td width="50%" align="center">
-<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/></td>
+<a href="https://github.com/ivengexnce/ML_Projects">
+<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -142,8 +142,8 @@ status:
 
 <br>
 
-<a href="https://github.com/ivengexnce/Python_Projects"><td width="50%" align="center">
-<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/></td>
+<a href="https://github.com/ivengexnce/Python_Projects">
+<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -156,8 +156,8 @@ status:
 
 <br>
 
-<a href="https://github.com/ivengexnce/FullStack_Projects"><td width="50%" align="center">
-<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/></td>
+<a href="https://github.com/ivengexnce/FullStack_Projects">
+<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
 </a>
 
 </td>
