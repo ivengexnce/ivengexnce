@@ -243,14 +243,6 @@ status:
 
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ivengexnce&theme=tokyonight&hide_border=true" />
 
-<br><br>
-
-<img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=7&border_radius=12&count_private=true" alt="Meet Maru Top Languages" />
 
 </div>
 
