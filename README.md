@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Hey%2C+I'm+Meet+Maru+%F0%9F%90%89" alt="Meet Maru — AI and ML Engineer Mumbai India" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=00FFB3&center=true&vCenter=true&width=720&height=40&lines=AI+%26+ML+Engineer+%7C+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;B.E.+CSE+(AI+%26+ML)+%40+VIVA+Institute+of+Technology;Vice+President+%40+CSI+VIVA+%7C+100%2B+Members;Front-End+AI+Engineering+Intern+%40+FlyRank;SIH+%7C+NextShare+%7C+Space+Explorer+AI+%7C+DevLens+%7C+SentiFlow" alt="Meet Maru roles — Python Developer, Computer Vision, Flask, OpenCV, LLMs" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=00FFB3&center=true&vCenter=true&width=720&height=40&lines=AI+%26+ML+Engineer+%7C+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;B.E.+CSE+(AI+%26+ML)+%40+VIVA+Institute+of+Technology;Vice+President+%40+CSI+VIVA+%7C+10%2B+Members;Front-End+AI+Engineering+Intern+%40+FlyRank;SIH+%7C+NextShare+%7C+Space+Explorer+AI+%7C+DevLens+%7C+SentiFlow" alt="Meet Maru roles — Python Developer, Computer Vision, Flask, OpenCV, LLMs" />
 
 <br/>
 
@@ -26,11 +26,11 @@ I build production-grade AI systems and full-stack platforms: real-time **facial
 
 Currently pursuing a **B.E. in CSE (AI & ML)** at VIVA Institute of Technology, Mumbai (2024–2028), serving as **Vice President at CSI VIVA** — leading 100+ students — and starting a **Front-End AI Engineering Internship at FlyRank** (Remote, July–August 2026).
 
-- 🚀 Building **NextShare** — a full-stack URL shortener / file-share / code-paste platform with offline PWA support
+- 🚀 Builded & Deployed **NextShare** — a full-stack URL shortener / file-share / code-paste platform with offline PWA support
 - 🏆 **SIH participant** — Space Explorer AI Wellbeing (real-time emotion AI, 9 Indian languages)
 - 🧠 Exploring **Prompt Engineering**, **AI Agents**, and production ML deployment
 - 🔍 **Open to internships & collaborations** — AI/ML Engineering · Front-End AI · Full-Stack Dev
-- 📈 CGPA: **8.31** | Consistent upward trend across all semesters
+- 📈 CGPA: **7.71** | Consistent upward trend across all semesters
 
 <br/>
 
@@ -46,25 +46,26 @@ education:
   degree       : B.E. Computer Science Engineering — AI & ML
   college      : VIVA Institute of Technology, Virar, Mumbai
   batch        : 2024 – 2028
-  cgpa         : 8.31
+  cgpa         : 7.71
 
 leadership:
   role         : Vice President @ CSI VIVA
-  team_size    : 100+ students
+  team_size    : 10+ students
   scope        : Technical Events · Workshops · Community Building · PR Outreach
 
 experience:
   current      : Front-End AI Engineering Intern @ FlyRank (Remote, Jul–Aug 2026)
+  Past         : Vice President of CSI of CSE (AI & ML) Department (Onsite, Sept 2025-April 2026)
 
 engineering:
-  focus        : Full-Stack SaaS · AI Agents · Computer Vision · NLP · Automation
+  focus        : Full-Stack SaaS · AI Agents · Computer Vision · NLP · Automation · Deep Learning
   highlight    : NextShare — URL shortener, file share & paste tool w/ admin analytics
   languages    : JavaScript · Python · HTML/CSS · MySQL · C++ · PHP
   tools        : React · Node.js/Express · MongoDB · Redis · OpenCV · Flask · scikit-learn
 
 status:
   open_to      : Internships · Collaborations · Ambitious Real-World Problems
-  contact      : meetmaru149@gmail.com
+  contact      : meetmaru149@gmail.com 
 ```
 
 <br/>
