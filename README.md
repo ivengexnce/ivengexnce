@@ -92,7 +92,7 @@ status:
 | **Python Background Remover** | 4-mode background removal tool: CLI · GUI · single · batch — uses rembg + Pillow, works fully offline | Python · rembg · Pillow | [→](https://github.com/ivengexnce/python-background-remover) |
 
 <br/>
----
+----
 
 # 📁 Project Collections
 
@@ -102,13 +102,13 @@ status:
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="Left" valign="top">
 
 ### 🤖 AI Projects
 
-<table>
-<tr>
-<td width="28%" align="center">
+> Artificial Intelligence • LLMs • NLP • Computer Vision • AI Agents
+
+<br>
 
 <a href="https://github.com/ivengexnce/AI_Projects">
 <img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
@@ -116,23 +116,13 @@ status:
 
 </td>
 
-<td>
-
-Artificial Intelligence • LLMs • NLP • Computer Vision • AI Agents
-
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%">
+<td width="50%" align="left" valign="top">
 
 ### 🧠 ML Projects
 
-<table>
-<tr>
-<td width="28%" align="center">
+> Machine Learning • Deep Learning • Data Science
+
+<br>
 
 <a href="https://github.com/ivengexnce/ML_Projects">
 <img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
@@ -140,27 +130,17 @@ Artificial Intelligence • LLMs • NLP • Computer Vision • AI Agents
 
 </td>
 
-<td>
-
-Machine Learning • Deep Learning • Data Science
-
-</td>
-</tr>
-</table>
-
-</td>
-
 </tr>
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="left" valign="top">
 
 ### 🐍 Python Projects
 
-<table>
-<tr>
-<td width="28%" align="center">
+> Automation • APIs • Desktop Applications • Utilities
+
+<br>
 
 <a href="https://github.com/ivengexnce/Python_Projects">
 <img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
@@ -168,37 +148,17 @@ Machine Learning • Deep Learning • Data Science
 
 </td>
 
-<td>
-
-Automation • APIs • Desktop Applications • Utilities
-
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%">
+<td width="50%" align="Left" valign="top">
 
 ### 💻 Full Stack Projects
 
-<table>
-<tr>
-<td width="28%" align="center">
+> React • Node.js • Express • MongoDB • Modern Web Applications
+
+<br>
 
 <a href="https://github.com/ivengexnce/FullStack_Projects">
 <img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
 </a>
-
-</td>
-
-<td>
-
-React • Node.js • Express • MongoDB • Modern Web Applications
-
-</td>
-</tr>
-</table>
 
 </td>
 
