@@ -95,62 +95,107 @@ status:
 
 ---
 
-# 📁 Project Collections
+# 📂 Project Collections
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
 
-## 🤖 AI Projects
+<td width="50%" valign="top">
 
-Artificial Intelligence, LLMs, NLP, Computer Vision & AI Agents
+### 🤖 AI Projects
 
+> Artificial Intelligence • LLMs • NLP • Computer Vision • AI Agents
+
+<p align="center">
 <a href="https://github.com/ivengexnce/AI_Projects">
-<img src="https://img.shields.io/badge/Open%20Repository-00FFB3?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/🚀_Explore_Collection-00FFB3?style=for-the-badge&labelColor=0d1117"/>
 </a>
+</p>
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square)
+
+</p>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-## 🧠 ML Projects
+### 🧠 ML Projects
 
-Machine Learning, Deep Learning & Data Science
+> Machine Learning • Deep Learning • Data Science • Analytics
 
+<p align="center">
 <a href="https://github.com/ivengexnce/ML_Projects">
-<img src="https://img.shields.io/badge/Open%20Repository-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/📊_Explore_Collection-00D4FF?style=for-the-badge&labelColor=0d1117"/>
 </a>
+</p>
+
+<p align="center">
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+
+</p>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" align="center">
 
-## 🐍 Python Projects
+<td width="50%" valign="top">
 
-Automation, APIs, GUI Apps & Utilities
+### 🐍 Python Projects
 
+> Automation • Desktop Apps • APIs • Scripts • Utilities
+
+<p align="center">
 <a href="https://github.com/ivengexnce/Python_Projects">
-<img src="https://img.shields.io/badge/Open%20Repository-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/🐍_Explore_Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=black"/>
 </a>
+</p>
+
+<p align="center">
+
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+![Automation](https://img.shields.io/badge/Automation-success?style=flat-square)
+
+</p>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-## 💻 Full Stack Projects
+### 💻 Full Stack Projects
 
-React, Node.js, Express, MongoDB & Full Stack Apps
+> React • Node.js • Express • MongoDB • Full-Stack Apps
 
+<p align="center">
 <a href="https://github.com/ivengexnce/FullStack_Projects">
-<img src="https://img.shields.io/badge/Open%20Repository-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/💻_Explore_Collection-61DAFB?style=for-the-badge&labelColor=0d1117"/>
 </a>
+</p>
+
+<p align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+
+</p>
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
