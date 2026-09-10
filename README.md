@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-meetmaru.netlify.app?style=for-the-badge&labelColor=0d1117&logo=firefox&logoColor=00FFB3)](https://meetmaru.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-meetmaru.netlify.app-00FFB3?style=for-the-badge&labelColor=0d1117&logo=firefox&logoColor=00FFB3)](https://meetmaru.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/meetmaru149/)
 [![Gmail](https://img.shields.io/badge/Gmail-meetmaru149%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:meetmaru149@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/ivengexnce/)
@@ -36,124 +36,11 @@ meet = {
 }
 ```
 
----
-
-## 🛠️ Tech Stack
-
-**Languages & Core**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO11-00FFFF?style=flat-square&logo=python&logoColor=black)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure CV](https://img.shields.io/badge/Azure_CV-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-
-**Deployment**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
----
-
-## 🚀 Selected Projects
-
-| # | Project | What it does | Stack | Status |
-|---|---------|-------------|-------|--------|
-| 05 | **[MineGuard](https://github.com/ivengexnce/Sih)** | DGMS-compliant mine safety & compliance platform — CAPA workflows, offline field inspections, YOLO11 hazard detection, OCR statutory digitizer | Next.js · React Native · Expo · YOLO11 · Tailwind | ✅ [Live](https://sih-mineguard.vercel.app/) |
-| 04 | **[NextShare](https://github.com/ivengexnce/NextShare)** | Secure paste-sharing platform — burn-after-read, view limits, admin dashboard with IP tracking | React · Vite · Node.js · Express · MongoDB · Redis | ✅ Live |
-| 03 | **[OrbitX + MAitri AI](https://github.com/ivengexnce/Full_Stack-Projects)** | Space education platform + emotion-aware AI companion using DeepFace & Gemini | HTML · CSS · JS · Flask · DeepFace · Gemini AI | ✅ Live |
-| 02 | **[C-Thriftier](https://github.com/ivengexnce/C-Thriftier)** | Community clothing swap platform — sustainable fashion, no framework, raw stack | HTML · CSS · JS · PHP · MySQL | ✅ Complete |
-| 01 | **[Tic-Tac-Toe AI](https://github.com/ivengexnce/Python_Projects)** | Unbeatable AI opponent using Minimax algorithm | Python · Tkinter · Pygame | ✅ Complete |
-
-> 🔗 **Domain repos:** [AI Projects](https://github.com/ivengexnce/AI_Projects) · [ML Projects](https://github.com/ivengexnce/ML_Projects) · [Python Projects](https://github.com/ivengexnce/Python_Projects) · [SentiFlow](https://github.com/ivengexnce/SentiFlow) · [DevLens](https://github.com/ivengexnce/DevLens)
-
----
-
-## 💼 Experience & Leadership
-
-**🚀 Front-End AI Engineering Intern — FlyRank** *(Jul–Aug 2026 · Remote)*
-Building and shipping front-end features for an AI-driven organic growth platform. Contributing to UI development, component architecture, and AI capability integration in production.
-
-**🏛️ President — CSI Professional Body, VIVA Institute** *(Jul 2026 – Present)*
-Leading a 40-member executive body. Delivered TechChase 2K26 — a 350+ participant flagship event across 3 tracks. Managing cross-functional teams, vendor negotiations, budgeting, mentorship, and full event logistics.
-
-**🎓 Google Gemini Student Ambassador 2026** *(May 2026 – Present)*
-Driving Gemini AI adoption at VIVA Institute — monthly product trial sessions, campus content creation, and representing Google Gemini at tech events and developer meetups.
-
-**🐉 Vice President — CSI Professional Body** *(Sep 2025 – Jun 2026)*
-Led 12-member core committee, coordinated TechChase 2k25 and Ingenious 2026, managed 15+ faculty and student volunteers, increased workshop participation by ~30%. Youngest VP in department history.
-
-**🎤 Event Head, Keynote Speaker & Unity Game Dev — TechChase 2k25** *(Feb 2025)*
-Conceptualised and ran the AI vs Human Battle event (90+ participants). Delivered keynote on Generative AI to 50+ engineering students. Built a 3-level Unity 3D game solo in 1 month.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ivengexnce&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff&bg_color=0d1117" height="165" alt="Meet Maru GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivengexnce&layout=compact&theme=github_dark&hide_border=true&title_color=00FFB3&text_color=ffffff&bg_color=0d1117" height="165" alt="Meet Maru Top Languages"/>
-
-</div>
-
----
-
-## 🏆 Highlights
-
-- 🥇 **1st Place** — Volleyball Tournament, HITAISHI 2026 (VIVA Group Inter-Institute Sports Fest)
-- ⚡ **Smart India Hackathon 2025** — Led 6-member team (OrbitX + MAitri AI), cleared internal round with highest AI category score
-- 🎤 **Keynote Speaker** — TechChase 2025, delivered live AI demos (emotion detection, generative AI) to 50+ engineers and faculty
-- 🕹️ **Live Unity Game** — Built and deployed 3-level 3D game played by 90+ participants at a live campus event
-- 📜 **9 Certifications** — Google (Prompt Engineering), Google Cloud (Vertex AI), MongoDB University, Microsoft (Azure CV), edQuest (ML Engineering), and more
-
----
-
-<div align="center">
-
-**Open to internships, collaborations, and ambitious conversations.**
-**If you're building something that matters — I want to be part of it.**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ivengexnce.github.io-00FFB3?style=flat-square&labelColor=0d1117)](https://ivengexnce.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/meetmaru149/)
-
-*Built by Meet Maru · Mumbai, India · 2026*
-
-</div>
-- 🚀 Builded & Deployed **NextShare** — a full-stack URL shortener / file-share / code-paste platform with offline PWA support
-- 🏆 **SIH participant** — Space Explorer AI Wellbeing (real-time emotion AI, 9 Indian languages)
-- 🧠 Exploring **Prompt Engineering**, **AI Agents**, and production ML deployment
+- 🏛️ **President @ CSI VIVA** — led TechChase 2K26, 350+ participants, 40-member executive body
+- 🎓 **Google Gemini Student Ambassador 2026** — driving AI adoption across campus
+- 🚀 **Built & deployed MineGuard** — DGMS-compliant mine safety platform (Next.js · YOLO11 · Expo)
+- 🚀 **Built & deployed NextShare** — full-stack paste/file-share platform with PWA & admin analytics
+- ⚡ **SIH participant** — OrbitX + MAitri AI (real-time emotion AI, 9 Indian languages)
 - 🔍 **Open to internships & collaborations** — AI/ML Engineering · Front-End AI · Full-Stack Dev
 - 📈 CGPA: **7.71** | Consistent upward trend across all semesters
 
@@ -164,7 +51,6 @@ Conceptualised and ran the AI vs Human Battle event (90+ participants). Delivere
 identity:
   name         : Meet Maru
   location     : Mumbai, Maharashtra, India 🇮🇳
-  pronouns     : he/him
   github       : ivengexnce
 
 education:
@@ -174,23 +60,23 @@ education:
   cgpa         : 7.71
 
 leadership:
-  role         : Vice President @ CSI VIVA
-  team_size    : 10+ students
+  role         : President @ CSI VIVA
+  team_size    : 40-member executive body
   scope        : Technical Events · Workshops · Community Building · PR Outreach
 
 experience:
   current      : Front-End AI Engineering Intern @ FlyRank (Remote, Jul–Aug 2026)
-  Past         : Vice President of CSI of CSE (AI & ML) Department (Onsite, Sept 2025-April 2026)
+  ambassador   : Google Gemini Student Ambassador 2026
 
 engineering:
-  focus        : Full-Stack SaaS · AI Agents · Computer Vision · NLP · Automation · Deep Learning
-  highlight    : NextShare — URL shortener, file share & paste tool w/ admin analytics
-  languages    : JavaScript · Python · HTML/CSS · MySQL · C++ · PHP
-  tools        : React · Node.js/Express · MongoDB · Redis · OpenCV · Flask · scikit-learn
+  focus        : Full-Stack SaaS · AI Agents · Computer Vision · NLP · Deep Learning
+  highlight    : MineGuard — DGMS-compliant mine safety platform (Next.js · YOLO11 · Expo)
+  languages    : JavaScript · TypeScript · Python · HTML/CSS · MySQL · C++ · PHP
+  tools        : React · Next.js · Node.js/Express · MongoDB · Redis · Flask · scikit-learn
 
 status:
   open_to      : Internships · Collaborations · Ambitious Real-World Problems
-  contact      : meetmaru149@gmail.com 
+  contact      : meetmaru149@gmail.com
 ```
 
 <br/>
@@ -203,11 +89,12 @@ status:
 
 | Project | What it does | Stack | Link |
 |---------|-------------|-------|------|
-| **NextShare** *(NexusToolkit)* | Full-stack dev-tool suite — URL shortening, file sharing & code paste with an owner-only admin analytics dashboard, Redis-backed visitor tracking, and offline PWA support | React 18 · Node.js/Express · MongoDB · Redis | [→](https://github.com/ivengexnce/NextShare) · [Live](https://nextsharebymeet.vercel.app/) |
-| **Space Explorer AI Wellbeing** | SIH — Space learning portal + real-time **facial emotion detection** with empathy responses in **9 Indian languages** via TTS | Python · Flask · OpenCV · PHP | [→](https://github.com/ivengexnce/Space-Explorer-AI-Wellbeing) |
-| **SentiFlow** | **Sentiment analysis** & NLP pipeline with a full web UI — classify, analyse, and visualise text sentiment in real time | Python · HTML | [→](https://github.com/ivengexnce/SentiFlow) |
-| **DevLens** | Developer productivity tool — inspect and surface codebase insights instantly without reading raw source | JavaScript | [→](https://github.com/ivengexnce/DevLens) |
-| **C-Thriftier** | Clothing-swap web platform for **sustainable fashion** — exchange, donate, or request clothes within your community | HTML · CSS · JS · PHP | [→](https://github.com/ivengexnce/C-Thriftier) |
+| **MineGuard** | DGMS-compliant mine safety platform — CAPA workflows, offline field inspections, YOLO11 hazard detection, OCR statutory digitizer, multi-role portals | Next.js · React Native · Expo · YOLO11 · Tailwind | [→](https://github.com/ivengexnce/Sih) · [Live](https://sih-mineguard.vercel.app/) |
+| **NextShare** | Full-stack dev-tool suite — URL shortening, file sharing & code paste with admin analytics dashboard, Redis-backed visitor tracking, and offline PWA support | React 18 · Node.js/Express · MongoDB · Redis | [→](https://github.com/ivengexnce/NextShare) |
+| **OrbitX + MAitri AI** | Space education platform + emotion-aware AI companion with real-time **facial emotion detection** and empathy responses in **9 Indian languages** via TTS | Python · Flask · OpenCV · DeepFace · Gemini AI | [→](https://github.com/ivengexnce/Full_Stack-Projects) |
+| **SentiFlow** | Sentiment analysis & NLP pipeline with a full web UI — classify, analyse, and visualise text sentiment in real time | Python · HTML | [→](https://github.com/ivengexnce/SentiFlow) |
+| **DevLens** | Developer productivity browser extension — inspect and surface codebase insights instantly | JavaScript | [→](https://github.com/ivengexnce/DevLens) |
+| **C-Thriftier** | Clothing-swap web platform for **sustainable fashion** — exchange, donate, or request clothes within your community | HTML · CSS · JS · PHP · MySQL | [→](https://github.com/ivengexnce/C-Thriftier) |
 
 ### 🎮 Games & Tools
 
@@ -218,20 +105,18 @@ status:
 | **Python Background Remover** | 4-mode background removal tool: CLI · GUI · single · batch — uses rembg + Pillow, works fully offline | Python · rembg · Pillow | [→](https://github.com/ivengexnce/python-background-remover) |
 
 <br/>
-----
 
-# 📁 Project Collections
+---
+
+## 📁 Project Collections
 
 <div align="center">
 
 <table>
-
 <tr>
-
-<td width="50%" align="Left" valign="top">
+<td width="50%" align="left" valign="top">
 
 ### 🤖 AI Projects
-
 > Artificial Intelligence • LLMs • NLP • Computer Vision • AI Agents
 
 <br>
@@ -241,12 +126,10 @@ status:
 </a>
 
 </td>
-
 <td width="50%" align="left" valign="top">
 
 ### 🧠 ML Projects
-
-> Machine Learning • Deep Learning • Data Science 
+> Machine Learning • Deep Learning • Data Science
 
 <br>
 
@@ -255,15 +138,11 @@ status:
 </a>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" align="left" valign="top">
 
 ### 🐍 Python Projects
-
 > Automation • APIs • Desktop Applications • Utilities
 
 <br>
@@ -273,26 +152,23 @@ status:
 </a>
 
 </td>
-
-<td width="50%" align="Left" valign="top">
+<td width="50%" align="left" valign="top">
 
 ### 💻 Full Stack Projects
-
 > React • Node.js • Express • MongoDB • Modern Web Applications
 
 <br>
 
-<a href="https://github.com/ivengexnce/FullStack_Projects">
+<a href="https://github.com/ivengexnce/Full_Stack-Projects">
 <img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
 </a>
 
 </td>
-
 </tr>
-
 </table>
 
 </div>
+
 <br/>
 
 ---
@@ -303,8 +179,9 @@ status:
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -318,8 +195,13 @@ status:
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -330,12 +212,14 @@ status:
 
 <div align="center">
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-00C7B7?style=for-the-badge&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO11-00FFFF?style=for-the-badge&logo=python&logoColor=black)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure CV](https://img.shields.io/badge/Azure_CV-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
@@ -350,9 +234,7 @@ status:
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_Cognitive_Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
@@ -365,9 +247,7 @@ status:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ivengexnce&theme=tokyonight&hide_border=true" />
-
 
 </div>
 
@@ -403,32 +283,47 @@ status:
 
 ---
 
+## 🏆 Highlights
+
+- 🥇 **1st Place** — Volleyball Tournament, HITAISHI 2026 (VIVA Group Inter-Institute Sports Fest)
+- ⚡ **Smart India Hackathon 2025** — Led 6-member team (OrbitX + MAitri AI), cleared internal round with highest AI category score
+- 🎤 **Keynote Speaker** — TechChase 2025, delivered live AI demos (emotion detection, generative AI) to 50+ engineers and faculty
+- 🕹️ **Live Unity Game** — Built and deployed 3-level 3D game played by 90+ participants at a live campus event
+- 📜 **9 Certifications** — Google (Prompt Engineering), Google Cloud (Vertex AI), MongoDB University, Microsoft (Azure CV), edQuest (ML Engineering), and more
+
+---
+
 ## 🎓 Certifications
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
-| Prompt Engineering | edQuest | 2026 |
-| Vertex AI | Google Cloud | 2026 |
-| Computer Vision | Microsoft Azure | 2025 |
-| UI/UX Design Workshop | CLYXN Studios | 2025 |
-| MongoDB Fundamentals | MongoDB University | 2025 |
+| Prompt Engineering | Google / edQuest | 2026 |
+| Prompt Design in Vertex AI | Google Cloud | 2026 |
+| ML Engineering | edQuest | 2026 |
+| Computer Vision App | Microsoft Azure | 2025 |
+| UI/UX Design Workshop | CLYXN × Sorxn | 2026 |
+| SQL to MongoDB's Document Model | MongoDB University | 2025 |
+| Introduction to Artificial Intelligence | Simplilearn | 2025 |
 
 <br/>
 
 ---
 
-## 💼 Experience
+## 💼 Experience & Leadership
 
 | Role | Org | Period |
 |------|-----|--------|
 | Front-End AI Engineering Intern | FlyRank (Remote) | Jul – Aug 2026 |
-| Vice President | CSI VIVA | 2025 – Present |
+| President | CSI Professional Body, VIVA Institute | Jul 2026 – Present |
+| Google Gemini Student Ambassador | Google | May 2026 – Present |
+| Vice President | CSI Professional Body, VIVA Institute | Sep 2025 – Jun 2026 |
+| Event Head & Keynote Speaker | TechChase 2k25, VIVA Institute | Feb 2025 |
 
 <br/>
 
 ---
 
-## 🎓 Education & Leadership
+## 🎓 Education
 
 <div align="center">
 
@@ -437,21 +332,12 @@ status:
 | 🏫 **College** | VIVA Institute of Technology, Virar, Mumbai |
 | 📚 **Degree** | B.E. Computer Science Engineering — Artificial Intelligence & Machine Learning |
 | 📅 **Batch** | 2024 – 2028 |
-| 📊 **CGPA** | 7.71  |
-| 🏆 **Role** | Vice President @ Computer Society of India — CSE AI & ML, VIVA Chapter |
-| 👥 **Team** | Leading 100+ students across technical events, workshops, and community outreach |
-| 🎤 **Events** | Event Head — AI-Tech Battle @ TechChase 2K25 · Volunteer — NCRENB 2026 National Conference |
-| 🌍 **Outreach** | Represented VIVA CSI at 3 engineering colleges across Mumbai for INGENIOUS 2K26 |
+| 📊 **CGPA** | 7.71 (SEM IV: 7.96 · SEM III: 8.31 · SEM II: 8.22) |
+| 🏆 **Role** | President @ CSI Professional Body — CSE AI & ML, VIVA Chapter |
+| 👥 **Team** | Leading 40-member executive body across technical events, workshops, and community outreach |
+| 🎤 **Events** | TechChase 2K26 (350+ participants) · TechChase 2K25 · Ingenious 2026 · NCRENB 2026 |
 
 </div>
-
-<br/>
-
----
-
-## 🧠 Live Dev Activity
-
-> ⚡ Auto-updates every 24h via GitHub Actions.
 
 <br/>
 
@@ -461,13 +347,13 @@ status:
 
 I'm actively looking for **internship opportunities** in **AI/ML engineering**, **front-end AI**, and **full-stack web development**. Open to collaborating on ambitious, real-world AI and ML projects.
 
-Whether you're a **recruiter**, a **developer**, a **researcher**, or a **CEO / co-founder** building something meaningful — let's talk.
+Whether you're a **recruiter**, a **developer**, a **researcher**, or a **founder** building something meaningful — let's talk.
 
 <div align="center">
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ivengexnce.github.io%2Fportfolio-00FFB3?style=for-the-badge&labelColor=0d1117)](https://ivengexnce.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-meetmaru.netlify.app-00FFB3?style=for-the-badge&labelColor=0d1117)](https://meetmaru.netlify.app/)
 
 <br/>
 
