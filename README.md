@@ -1,375 +1,401 @@
-<div align="center">
+[MM.dev](#)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Hey%2C+I'm+Meet+Maru+%F0%9F%90%89" alt="Meet Maru — AI and ML Engineer Mumbai India" />
+- [About](#about)
+- [Experience](#experience)
+- [Projects](#projects)
+- [Stack](#skills)
+- [Connect](#connect)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=00FFB3&center=true&vCenter=true&width=720&height=40&lines=AI+%26+ML+Engineer+%7C+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;B.E.+CSE+(AI+%26+ML)+%40+VIVA+Institute+of+Technology;President+%40+CSI+VIVA+%7C+40-Member+Executive+Body;Front-End+AI+Engineering+Intern+%40+FlyRank;Google+Gemini+Student+Ambassador+2026;MineGuard+%7C+NextShare+%7C+OrbitX+%7C+SentiFlow+%7C+DevLens" alt="Meet Maru roles — Python Developer, Computer Vision, Flask, OpenCV, LLMs" />
+[Hire me →](mailto:meetmaru149@gmail.com)
 
-<br/>
+Open to internships & collaborations
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-meetmaru.netlify.app-00FFB3?style=for-the-badge&labelColor=0d1117&logo=firefox&logoColor=00FFB3)](https://meetmaru.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-meetmaru149-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/meetmaru149/)
-[![Gmail](https://img.shields.io/badge/Gmail-meetmaru149%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:meetmaru149@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/ivengexnce/)
-[![Profile Views](https://komarev.com/ghpvc/?username=ivengexnce&style=for-the-badge&color=00FFB3&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/ivengexnce)
+# Meet Maru AI & ML Engineer
 
-</div>
+Building production-grade AI systems, full-stack platforms, and computer vision tools from Mumbai, India.
 
-<br/>
+[View Projects](#projects) [Portfolio ↗](https://meetmaru.netlify.app/) [Email me](mailto:meetmaru149@gmail.com)
 
----
+7.71
 
-## 👨‍💻 About Me
+CGPA
 
-I'm **Meet Maru** — an **AI & ML Engineer** and Full-Stack Developer from **Mumbai, India**.
+40+
 
-I build production-grade AI systems and full-stack platforms: enterprise safety dashboards, secure developer utilities, real-time **facial emotion detection**, **NLP pipelines**, **computer vision** tools, and scalable **Next.js/React** products. I care about clean architecture, shipping real products, and learning in public.
+Team members led
 
-Currently pursuing a **B.E. in CSE (AI & ML)** at VIVA Institute of Technology, Mumbai (2024–2028), serving as **President of CSI VIVA** — leading a 40-member executive body that ran a 350+ participant flagship event — and an active **Front-End AI Engineering Intern at FlyRank** (Remote, Jul–Aug 2026). Also a **Google Gemini Student Ambassador 2026**.
+350+
 
-```python
-meet = {
-    "role":        ["AI Builder", "Full-Stack Dev", "CSI President", "Gemini Ambassador"],
-    "currently":   "Front-End AI Intern @ FlyRank · Building UI for an AI-driven growth platform",
-    "cgpa":        "7.71 (SEM IV: 7.96 · SEM III: 8.31)",
-    "location":    "Mumbai, India 🇮🇳",
-    "available":   True   # open to internships & collaborations
-}
-```
+Event participants
 
-- 🏛️ **President @ CSI VIVA** — led TechChase 2K26, 350+ participants, 40-member executive body
-- 🎓 **Google Gemini Student Ambassador 2026** — driving AI adoption across campus
-- 🚀 **Built & deployed MineGuard** — DGMS-compliant mine safety platform (Next.js · YOLO11 · Expo)
-- 🚀 **Built & deployed NextShare** — full-stack paste/file-share platform with PWA & admin analytics
-- ⚡ **SIH participant** — OrbitX + MAitri AI (real-time emotion AI, 9 Indian languages)
-- 🔍 **Open to internships & collaborations** — AI/ML Engineering · Front-End AI · Full-Stack Dev
-- 📈 CGPA: **7.71** | Consistent upward trend across all semesters
+9
 
-<br/>
+Certifications
 
-```yaml
-# meet-maru.yaml
-identity:
-  name         : Meet Maru
-  location     : Mumbai, Maharashtra, India 🇮🇳
-  github       : ivengexnce
+// about
 
-education:
-  degree       : B.E. Computer Science Engineering — AI & ML
-  college      : VIVA Institute of Technology, Virar, Mumbai
-  batch        : 2024 – 2028
-  cgpa         : 7.71
+## Who I am
 
-leadership:
-  role         : President @ CSI VIVA
-  team_size    : 40-member executive body
-  scope        : Technical Events · Workshops · Community Building · PR Outreach
+I'm a second-year B.E. CSE (AI & ML) student at VIVA Institute of Technology, currently interning at FlyRank and leading CSI VIVA as President.
 
-experience:
-  current      : Front-End AI Engineering Intern @ FlyRank (Remote, Jul–Aug 2026)
-  ambassador   : Google Gemini Student Ambassador 2026
+meet-maru.yaml
 
-engineering:
-  focus        : Full-Stack SaaS · AI Agents · Computer Vision · NLP · Deep Learning
-  highlight    : MineGuard — DGMS-compliant mine safety platform (Next.js · YOLO11 · Expo)
-  languages    : JavaScript · TypeScript · Python · HTML/CSS · MySQL · C++ · PHP
-  tools        : React · Next.js · Node.js/Express · MongoDB · Redis · Flask · scikit-learn
+identity:\
+name : "Meet Maru"\
+location : "Mumbai, Maharashtra, India 🇮🇳"\
+github : "@ivengexnce"\
+\
+education:\
+degree : "B.E. CSE — AI & ML"\
+college : "VIVA Institute of Technology, Virar"\
+cgpa : 7.71 # SEM IV: 7.96 · SEM III: 8.31 · SEM II: 8.22\
+\
+experience:\
+current : "Front-End AI Engineering Intern @ FlyRank"\
+ambassador : "Google Gemini Student Ambassador 2026"\
+leadership : "President @ CSI VIVA — 40-member executive body"\
+\
+status:\
+open_to : \["Internships", "Collaborations", "Real-World AI Problems"\]\
+available : true
 
-status:
-  open_to      : Internships · Collaborations · Ambitious Real-World Problems
-  contact      : meetmaru149@gmail.com
-```
+🏛️
 
-<br/>
+Leadership
 
----
+President @ CSI VIVA
 
-## 🚀 Featured Projects
+40-member team · TechChase 2K26 (350+ participants)
 
-### ⭐ Flagship
+🌐
 
-| Project | What it does | Stack | Link |
-|---------|-------------|-------|------|
-| **MineGuard** | DGMS-compliant mine safety platform — CAPA workflows, offline field inspections, YOLO11 hazard detection, OCR statutory digitizer, multi-role portals | Next.js · React Native · Expo · YOLO11 · Tailwind | [→](https://github.com/ivengexnce/Sih) · [Live](https://sih-mineguard.vercel.app/) |
-| **NextShare** | Full-stack dev-tool suite — URL shortening, file sharing & code paste with admin analytics dashboard, Redis-backed visitor tracking, and offline PWA support | React 18 · Node.js/Express · MongoDB · Redis | [→](https://github.com/ivengexnce/NextShare) |
-| **OrbitX + MAitri AI** | Space education platform + emotion-aware AI companion with real-time **facial emotion detection** and empathy responses in **9 Indian languages** via TTS | Python · Flask · OpenCV · DeepFace · Gemini AI | [→](https://github.com/ivengexnce/Full_Stack-Projects) |
-| **SentiFlow** | Sentiment analysis & NLP pipeline with a full web UI — classify, analyse, and visualise text sentiment in real time | Python · HTML | [→](https://github.com/ivengexnce/SentiFlow) |
-| **DevLens** | Developer productivity browser extension — inspect and surface codebase insights instantly | JavaScript | [→](https://github.com/ivengexnce/DevLens) |
-| **C-Thriftier** | Clothing-swap web platform for **sustainable fashion** — exchange, donate, or request clothes within your community | HTML · CSS · JS · PHP · MySQL | [→](https://github.com/ivengexnce/C-Thriftier) |
+Current Role
 
-### 🎮 Games & Tools
+Front-End AI Intern @ FlyRank
 
-| Project | What it does | Stack | Link |
-|---------|-------------|-------|------|
-| **TicTacToe Python** | Unbeatable AI via **Minimax algorithm**, sound effects, 3 difficulty levels, GUI — zero install required | Python · Tkinter · Pygame | [→](https://github.com/ivengexnce/TicTacToe-Python) |
-| **Tic-Tac-Toe Web Edition** | Browser Tic-Tac-Toe with Minimax AI, zero dependencies, fully vanilla | HTML · Vanilla JS | [→](https://github.com/ivengexnce/Tic-Tac-Toe_web_edition) |
-| **Python Background Remover** | 4-mode background removal tool: CLI · GUI · single · batch — uses rembg + Pillow, works fully offline | Python · rembg · Pillow | [→](https://github.com/ivengexnce/python-background-remover) |
+Remote · Jul–Aug 2026
 
-<br/>
+🎓
+
+Certification
+
+Google Gemini Student Ambassador
+
+2026 cohort · driving AI adoption on campus
+
+⚡
+
+Hackathon
+
+Smart India Hackathon 2025
+
+Highest AI category score · internal round cleared
 
 ---
 
-## 📁 Project Collections
+// experience
 
-<div align="center">
+## Where I've worked
 
-<table>
-<tr>
-<td width="50%" align="left" valign="top">
+Roles spanning engineering, leadership, and community building.
 
-### 🤖 AI Projects
-> Artificial Intelligence • LLMs • NLP • Computer Vision • AI Agents
+Jul – Aug 2026
 
-<br>
+Front-End AI Engineering Intern
 
-<a href="https://github.com/ivengexnce/AI_Projects">
-<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
-</a>
+FlyRank · Remote
 
-</td>
-<td width="50%" align="left" valign="top">
+Building UI for an AI-driven growth platform. Focused on integrating AI features into a production front-end environment.
 
-### 🧠 ML Projects
-> Machine Learning • Deep Learning • Data Science
+Jul 2026 – Present
 
-<br>
+President
 
-<a href="https://github.com/ivengexnce/ML_Projects">
-<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
-</a>
+CSI Professional Body · VIVA Institute
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="left" valign="top">
+Leading a 40-member executive body. Organised TechChase 2K26 with 350+ participants across technical events, workshops, and community outreach.
 
-### 🐍 Python Projects
-> Automation • APIs • Desktop Applications • Utilities
+May 2026 – Present
 
-<br>
+Google Gemini Student Ambassador
 
-<a href="https://github.com/ivengexnce/Python_Projects">
-<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
-</a>
+Google
 
-</td>
-<td width="50%" align="left" valign="top">
+Driving AI adoption and awareness across campus. Running hands-on sessions and demos on Gemini and generative AI.
 
-### 💻 Full Stack Projects
-> React • Node.js • Express • MongoDB • Modern Web Applications
+Sep 2025 – Jun 2026
 
-<br>
+Vice President
 
-<a href="https://github.com/ivengexnce/Full_Stack-Projects">
-<img src="https://img.shields.io/badge/🚀%20Explore%20Collection-FFD43B?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
-</a>
+CSI Professional Body · VIVA Institute
 
-</td>
-</tr>
-</table>
+Supported chapter operations and event planning. Stepped up to President role thereafter.
 
-</div>
+Feb 2025
 
-<br/>
+Event Head & Keynote Speaker
+
+TechChase 2K25 · VIVA Institute
+
+Delivered live AI demos covering emotion detection and generative AI to 50+ engineers and faculty.
 
 ---
 
-## 🛠️ Tech Stack
+// projects
 
-### Languages
+## What I've built
 
-<div align="center">
+Production-grade systems, hackathon wins, and experiments in AI, ML, and full-stack development.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+⛏️
 
-</div>
+[{}](https://github.com/ivengexnce/Sih) [↗](https://sih-mineguard.vercel.app/)
 
-### Full-Stack & Backend
+MineGuard FLAGSHIP
 
-<div align="center">
+DGMS-compliant mine safety platform with CAPA workflows, offline field inspections, YOLO11 hazard detection, OCR statutory digitizer, and multi-role portals.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+Next.js YOLO11 Expo React Native Tailwind
 
-</div>
+🔗
 
-### AI · ML · Computer Vision
+[{}](https://github.com/ivengexnce/NextShare)
 
-<div align="center">
+NextShare
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO11-00FFFF?style=for-the-badge&logo=python&logoColor=black)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure CV](https://img.shields.io/badge/Azure_CV-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+Full-stack dev-tool suite — URL shortening, file sharing & code paste with admin analytics, Redis-backed visitor tracking, and offline PWA support.
 
-</div>
+React 18 Node.js MongoDB Redis PWA
 
-### Tools · DevOps · Design
+🚀
 
-<div align="center">
+[{}](https://github.com/ivengexnce/Full_Stack-Projects)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+OrbitX + MAitri AI
 
-</div>
+Space education platform paired with an emotion-aware AI companion — real-time facial emotion detection with empathy responses in 9 Indian languages via TTS.
 
-<br/>
+Flask OpenCV DeepFace Gemini AI Python
 
----
+💬
 
-## 📊 GitHub Stats
+[{}](https://github.com/ivengexnce/SentiFlow)
 
-<div align="center">
+SentiFlow
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivengexnce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ivengexnce&theme=tokyonight&hide_border=true" />
+Sentiment analysis & NLP pipeline with a full web UI — classify, analyse, and visualise text sentiment in real time.
 
-</div>
+Python NLP HTML/CSS
 
-<br/>
+🔍
 
----
+[{}](https://github.com/ivengexnce/DevLens)
 
-## 📈 Contribution Graph
+DevLens
 
-<div align="center">
+Developer productivity browser extension — inspect and surface codebase insights instantly without leaving the browser.
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivengexnce&bg_color=0d1117&color=00FFB3&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&custom_title=Meet%20Maru%20%E2%80%94%20Contribution%20Graph&radius=8&height=300&days=30)](https://github.com/ivengexnce)
+JavaScript Browser Extension
 
-</div>
+👗
 
-<br/>
+[{}](https://github.com/ivengexnce/C-Thriftier)
+
+C-Thriftier
+
+Clothing-swap web platform for sustainable fashion — exchange, donate, or request clothes within your community.
+
+PHP MySQL HTML/CSS/JS
+
+🎮
+
+[{}](https://github.com/ivengexnce/TicTacToe-Python)
+
+TicTacToe Python
+
+Unbeatable AI via Minimax algorithm, with sound effects, 3 difficulty levels, and a GUI — zero install required.
+
+Python Minimax Tkinter Pygame
+
+🖼️
+
+[{}](https://github.com/ivengexnce/python-background-remover)
+
+Background Remover
+
+4-mode background removal tool (CLI · GUI · single · batch) using rembg + Pillow, works fully offline.
+
+Python rembg Pillow
 
 ---
 
-## 🐍 Contribution Snake
+// stack
 
-<div align="center">
+## Tech I work with
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" />
-  <img alt="Meet Maru GitHub Contribution Snake" src="https://raw.githubusercontent.com/ivengexnce/ivengexnce/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+Languages, frameworks, and tools across the full AI/ML and web development spectrum.
 
-</div>
+Languages
 
-<br/>
+🐍 Python
+
+📜 JavaScript
+
+🔷 TypeScript
+
+🌐 HTML/CSS
+
+🐘 PHP
+
+🗄️ MySQL
+
+⚙️ C++
+
+Frontend & Backend
+
+⚛️ React
+
+▲ Next.js
+
+📱 React Native
+
+🌿 Node.js
+
+🚂 Express
+
+🌶️ Flask
+
+🍃 MongoDB
+
+🔴 Redis
+
+💨 Tailwind
+
+⚡ Vite
+
+AI · ML · Computer Vision
+
+🔶 TensorFlow
+
+🔥 PyTorch
+
+🔬 scikit-learn
+
+👁️ OpenCV
+
+🎯 YOLO11
+
+✨ Gemini API
+
+☁️ Vertex AI
+
+🔷 Azure CV
+
+🧠 DeepFace
+
+Tools & DevOps
+
+🐙 GitHub
+
+⚡ GitHub Actions
+
+▲ Vercel
+
+🎨 Figma
+
+🎮 Unity
+
+📦 Expo
 
 ---
 
-## 🏆 Highlights
+// highlights
 
-- 🥇 **1st Place** — Volleyball Tournament, HITAISHI 2026 (VIVA Group Inter-Institute Sports Fest)
-- ⚡ **Smart India Hackathon 2025** — Led 6-member team (OrbitX + MAitri AI), cleared internal round with highest AI category score
-- 🎤 **Keynote Speaker** — TechChase 2025, delivered live AI demos (emotion detection, generative AI) to 50+ engineers and faculty
-- 🕹️ **Live Unity Game** — Built and deployed 3-level 3D game played by 90+ participants at a live campus event
-- 📜 **9 Certifications** — Google (Prompt Engineering), Google Cloud (Vertex AI), MongoDB University, Microsoft (Azure CV), edQuest (ML Engineering), and more
+## Milestones
 
----
+Competitions, speaking, and things I'm proud of.
 
-## 🎓 Certifications
+🥇
 
-| Certification | Issuer | Year |
-|--------------|--------|------|
-| Prompt Engineering | Google / edQuest | 2026 |
-| Prompt Design in Vertex AI | Google Cloud | 2026 |
-| ML Engineering | edQuest | 2026 |
-| Computer Vision App | Microsoft Azure | 2025 |
-| UI/UX Design Workshop | CLYXN × Sorxn | 2026 |
-| SQL to MongoDB's Document Model | MongoDB University | 2025 |
-| Introduction to Artificial Intelligence | Simplilearn | 2025 |
+**1st Place** — Volleyball Tournament, HITAISHI 2026 (VIVA Group Inter-Institute Sports Fest)
 
-<br/>
+⚡
 
----
+**Smart India Hackathon 2025** — Led 6-member team (OrbitX + MAitri AI), cleared internal round with highest AI category score
 
-## 💼 Experience & Leadership
+🎤
 
-| Role | Org | Period |
-|------|-----|--------|
-| Front-End AI Engineering Intern | FlyRank (Remote) | Jul – Aug 2026 |
-| President | CSI Professional Body, VIVA Institute | Jul 2026 – Present |
-| Google Gemini Student Ambassador | Google | May 2026 – Present |
-| Vice President | CSI Professional Body, VIVA Institute | Sep 2025 – Jun 2026 |
-| Event Head & Keynote Speaker | TechChase 2k25, VIVA Institute | Feb 2025 |
+**Keynote Speaker** — TechChase 2025, delivered live AI demos (emotion detection, generative AI) to 50+ engineers and faculty
 
-<br/>
+🕹️
+
+**Live Unity Game** — Built and deployed a 3-level 3D game played by 90+ participants at a live campus event
+
+📜
+
+**9 Certifications** — Google, Google Cloud, MongoDB University, Microsoft Azure, and more
+
+🚀
+
+**MineGuard deployed** — Full DGMS-compliant safety platform live at [sih-mineguard.vercel.app](https://sih-mineguard.vercel.app/)
 
 ---
 
-## 🎓 Education
+// certifications
 
-<div align="center">
+## Credentials
 
-| | |
-|:--|:--|
-| 🏫 **College** | VIVA Institute of Technology, Virar, Mumbai |
-| 📚 **Degree** | B.E. Computer Science Engineering — Artificial Intelligence & Machine Learning |
-| 📅 **Batch** | 2024 – 2028 |
-| 📊 **CGPA** | 7.71 (SEM IV: 7.96 · SEM III: 8.31 · SEM II: 8.22) |
-| 🏆 **Role** | President @ CSI Professional Body — CSE AI & ML, VIVA Chapter |
-| 👥 **Team** | Leading 40-member executive body across technical events, workshops, and community outreach |
-| 🎤 **Events** | TechChase 2K26 (350+ participants) · TechChase 2K25 · Ingenious 2026 · NCRENB 2026 |
+🔍
 
-</div>
+Prompt Engineering
 
-<br/>
+Google / edQuest · 2026
+
+☁️
+
+Prompt Design in Vertex AI
+
+Google Cloud · 2026
+
+🤖
+
+ML Engineering
+
+edQuest · 2026
+
+👁️
+
+Computer Vision App
+
+Microsoft Azure · 2025
+
+🎨
+
+UI/UX Design Workshop
+
+CLYXN × Sorxn · 2026
+
+🍃
+
+SQL to MongoDB's Document Model
+
+MongoDB University · 2025
+
+🧠
+
+Introduction to Artificial Intelligence
+
+Simplilearn · 2025
 
 ---
 
-## 🤝 Let's Connect
+Let's build something\
+worth shipping.
 
-I'm actively looking for **internship opportunities** in **AI/ML engineering**, **front-end AI**, and **full-stack web development**. Open to collaborating on ambitious, real-world AI and ML projects.
+Looking for internship opportunities in AI/ML engineering, front-end AI, and full-stack web development. Open to collaborations on ambitious, real-world projects.
 
-Whether you're a **recruiter**, a **developer**, a **researcher**, or a **founder** building something meaningful — let's talk.
+[meetmaru149@gmail.com](mailto:meetmaru149@gmail.com) [Portfolio ↗](https://meetmaru.netlify.app/)
 
-<div align="center">
+[LinkedIn](https://www.linkedin.com/in/meetmaru149/) [GitHub](https://github.com/ivengexnce) [Instagram](https://www.instagram.com/ivengexnce/) [LeetCode](https://leetcode.com/u/meetmaru149/)
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-meetmaru.netlify.app-00FFB3?style=for-the-badge&labelColor=0d1117)](https://meetmaru.netlify.app/)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/meetmaru149/)
-[![Gmail](https://img.shields.io/badge/Gmail-meetmaru149%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:meetmaru149@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40ivengexnce-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/ivengexnce/)
-
-<br/><br/>
-
-> *"Whatever the mind can conceive and believe, it can achieve —*
-> *so take risks, act boldly, and turn your decisions into success."*
->
-> — Meet Maru
-
-<br/>
-
-![Footer](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=99999&color=444444&center=true&vCenter=true&width=400&height=20&lines=Build+%C2%B7+Learn+%C2%B7+Ship+%C2%B7+Repeat)
-
-</div>
+© 2026 Meet Maru · Mumbai, India 🇮🇳 · Build · Learn · Ship · Repeat
