@@ -1,31 +1,31 @@
 ## 🧠 Live Dev Activity
 
-> Auto-updated every 24 hours via GitHub Actions · Last sync: **November 27, 2026 at 07:50 UTC**
+> Auto-updated every 24 hours via GitHub Actions · Last sync: **November 28, 2026 at 07:18 UTC**
 
 ### 📡 Latest Action
-**Pushed code** in `ivengexnce/bantai` on **November 25, 2026 at 14:47 UTC**
+**Pushed code** in `ivengexnce/MineGuard` on **November 27, 2026 at 17:04 UTC**
 
 ### 📊 Quick Stats
 | Metric | Count |
 |--------|-------|
-| Public Repos | 30 |
-| Total Stars Earned | 4 |
+| Public Repos | 20 |
+| Total Stars Earned | 0 |
 | Total Forks | 1 |
 | Followers | 2 |
 
 ### 🔥 Recent Activity Feed
 | Date | Action | Repository |
 |------|--------|------------|
+| Nov 27 | pushed code | [MineGuard](https://github.com/ivengexnce/MineGuard) |
+| Nov 27 | pushed code | [GEN_AI](https://github.com/ivengexnce/GEN_AI) |
+| Nov 27 | pushed code | [bantai](https://github.com/ivengexnce/bantai) |
+| Nov 27 | pushed code | [ivengexnce](https://github.com/ivengexnce/ivengexnce) |
 | Nov 25 | pushed code | [bantai](https://github.com/ivengexnce/bantai) |
-| Nov 25 | pushed code | [bantai](https://github.com/ivengexnce/bantai) |
-| Nov 24 | pushed code | [bantai](https://github.com/ivengexnce/bantai) |
-| Nov 24 | pushed code | [bantai](https://github.com/ivengexnce/bantai) |
-| Nov 21 | created a branch/repo | [bantai](https://github.com/ivengexnce/bantai) |
 
 ### 🏆 Top Repositories
 | Repository | Description | Stars | Language |
 |------------|-------------|-------|----------|
-| [Python_Projects](https://github.com/ivengexnce/Python_Projects) | A curated collection of Python projects showcasing practical implementations in automation, AI, and problem-solving. | ⭐ 1 | — |
-| [FullStack_Projects](https://github.com/ivengexnce/FullStack_Projects) | Full-stack web apps with real-world impact — C-Thriftier (sustainable clothing swap platform) & OrbitX (space EdTech learning portal). Stack: HTML5 · CSS3 · JavaScript · Flask · PHP · MySQL · MongoDB. | ⭐ 1 | — |
-| [ML_Projects](https://github.com/ivengexnce/ML_Projects) | End-to-end Machine Learning projects — Sentiment Classifier, House Price Predictor, Spam Detector & CNN Image Classifier. Full pipeline: data → preprocessing → training → deployment. Stack: Python · scikit-learn · Flask · Jupyter. | ⭐ 1 | — |
-| [AI_Projects](https://github.com/ivengexnce/AI_Projects) | Real-world AI systems: facial emotion detection in 9 Indian languages (SIH finalist), production sentiment API on AWS (SentiFlow), NLP, LLMs & computer vision. Stack: Python · OpenCV · Flask · Docker · AWS. | ⭐ 1 | — |
+| [cinematch](https://github.com/ivengexnce/cinematch) | Movie recommendation app — Flutter + ML | — | Dart |
+| [eventora](https://github.com/ivengexnce/eventora) | Event management platform built with TypeScript | — | TypeScript |
+| [Swiggster](https://github.com/ivengexnce/Swiggster) | Munchi is Android food delivery app — cart management, Firebase auth, REST API & live order tracking. Kotlin · Jetpack · MVVM | — | Kotlin |
+| [GEN_AI](https://github.com/ivengexnce/GEN_AI) | NeuroNexus AI — End-to-end PyTorch text sentiment network integrated with a dual-mode ReAct agent (Thought -> Action -> Observation), Pydantic tool registry & CLI workbench. Python · PyTorch · Gemini / OpenAI API | — | Python |
